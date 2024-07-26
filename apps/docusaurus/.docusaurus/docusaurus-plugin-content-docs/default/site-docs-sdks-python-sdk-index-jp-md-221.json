@@ -1,0 +1,29 @@
+{
+  "id": "sdks/python-sdk/index-jp",
+  "title": "日本語(in japanese)",
+  "description": "Aptosは、軽くメンテナンスされた公式のPythonSDKを提供します。 これは、PyPiでAptosコアGitHubリポジトリのソースコードと共に利用可能です。Python SDKの機能の多くはTypescript SDKを複製しています。Python SDKの主な目的は、Python開発者がすぐにAptosチュートリアルの付属物としてのAptosに精通する事を支援する事です。",
+  "source": "@site/docs/sdks/python-sdk/index-jp.md",
+  "sourceDirName": "sdks/python-sdk",
+  "slug": "/sdks/python-sdk/python-sdk-in-japanese",
+  "permalink": "/ja/sdks/python-sdk/python-sdk-in-japanese",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/python-sdk/index-jp.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "日本語(in japanese)",
+    "slug": "python-sdk-in-japanese"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Python SDK",
+    "permalink": "/ja/sdks/python-sdk/"
+  },
+  "next": {
+    "title": "Rust SDK",
+    "permalink": "/ja/sdks/rust-sdk/"
+  }
+}

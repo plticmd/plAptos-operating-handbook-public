@@ -1,0 +1,26 @@
+{
+  "id": "move/book/address",
+  "title": "Address",
+  "description": "address is a built-in type in Move that is used to represent locations (sometimes called accounts) in global storage. An address value is a 256-bit (32-byte) identifier. At a given address, two things can be stored: Modules and Resources.",
+  "source": "@site/docs/move/book/address.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/address",
+  "permalink": "/move/book/address",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/address.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Bool",
+    "permalink": "/move/book/bool"
+  },
+  "next": {
+    "title": "Vector",
+    "permalink": "/move/book/vector"
+  }
+}

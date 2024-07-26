@@ -1,0 +1,29 @@
+{
+  "id": "standards/fungible-asset",
+  "title": "Aptos Fungible Asset Standard",
+  "description": "The Aptos Fungible Asset Standard (also known as Fungible Asset or FA) is a core framework component within Aptos that enables the tokenization of various assets, including commodities, real estate, and financial instruments. This standard facilitates the creation of decentralized financial applications.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/standards/fungible-asset.md",
+  "sourceDirName": "standards",
+  "slug": "/standards/fungible-asset",
+  "permalink": "/standards/fungible-asset",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/standards/fungible-asset.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Aptos Fungible Asset Standard",
+    "id": "fungible-asset"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Aptos Coin (Legacy)",
+    "permalink": "/standards/aptos-coin"
+  },
+  "next": {
+    "title": "Aptos Digital Asset Standard",
+    "permalink": "/standards/digital-asset"
+  }
+}

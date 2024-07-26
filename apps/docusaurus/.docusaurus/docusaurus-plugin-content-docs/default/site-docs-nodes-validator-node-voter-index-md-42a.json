@@ -1,0 +1,29 @@
+{
+  "id": "nodes/validator-node/voter/index",
+  "title": "Staking Pool Voter",
+  "description": "If you are a staking pool voter, then we recommend strongly that you do not store your Aptos voter keys with a",
+  "source": "@site/docs/nodes/validator-node/voter/index.md",
+  "sourceDirName": "nodes/validator-node/voter",
+  "slug": "/nodes/validator-node/voter/index",
+  "permalink": "/nodes/validator-node/voter/index",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/validator-node/voter/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Staking Pool Voter",
+    "slug": "index"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Delegation Pool Operations",
+    "permalink": "/nodes/validator-node/operator/delegation-pool-operations"
+  },
+  "next": {
+    "title": "Verify Nodes",
+    "permalink": "/nodes/validator-node/operator/verify-nodes/verify-validator-node"
+  }
+}

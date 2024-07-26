@@ -1,0 +1,29 @@
+{
+  "id": "tools/aptos-cli/use-cli/use-aptos-ledger",
+  "title": "Use Aptos CLI with Ledger",
+  "description": "The aptos tool can be used with your Ledger device to sign any transaction. This is the most secure way to sign transactions, as your private key never leaves your device.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/tools/aptos-cli/use-cli/use-aptos-ledger.md",
+  "sourceDirName": "tools/aptos-cli/use-cli",
+  "slug": "/tools/aptos-cli/use-cli/use-aptos-ledger",
+  "permalink": "/tools/aptos-cli/use-cli/use-aptos-ledger",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tools/aptos-cli/use-cli/use-aptos-ledger.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Use Aptos CLI with Ledger",
+    "id": "use-aptos-ledger"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Genesis",
+    "permalink": "/tools/aptos-cli/use-cli/cli-genesis"
+  },
+  "next": {
+    "title": "Running a Local Network",
+    "permalink": "/tools/aptos-cli/use-cli/running-a-local-network"
+  }
+}

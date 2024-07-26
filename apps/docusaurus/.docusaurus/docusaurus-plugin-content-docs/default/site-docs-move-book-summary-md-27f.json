@@ -1,0 +1,26 @@
+{
+  "id": "move/book/SUMMARY",
+  "title": "The Move Programming Language",
+  "description": "Introduction",
+  "source": "@site/docs/move/book/SUMMARY.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/SUMMARY",
+  "permalink": "/move/book/SUMMARY",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/SUMMARY.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Move on Aptos",
+    "permalink": "/move/move-on-aptos"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/move/book/introduction"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "tutorials/programmatic-upgradeable-module",
+  "title": "Programmatic Upgradeable Module",
+  "description": "This tutorial will go over two sections:",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/tutorials/programmatic-upgradeable-module.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/programmatic-upgradeable-module",
+  "permalink": "/tutorials/programmatic-upgradeable-module",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tutorials/programmatic-upgradeable-module.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Programmatic Upgradeable Module"
+  }
+}

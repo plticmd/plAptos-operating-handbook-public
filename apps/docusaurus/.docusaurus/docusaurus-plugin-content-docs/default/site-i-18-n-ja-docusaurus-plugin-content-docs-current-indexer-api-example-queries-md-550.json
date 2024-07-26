@@ -1,0 +1,28 @@
+{
+  "id": "indexer/api/example-queries",
+  "title": "インデクサーAPIクエリの例",
+  "description": "サンプルクエリの実行",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/indexer/api/example-queries.md",
+  "sourceDirName": "indexer/api",
+  "slug": "/indexer/api/example-queries",
+  "permalink": "/indexer/api/example-queries",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/api/example-queries.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "2024年4月18日",
+  "frontMatter": {
+    "title": "インデクサーAPIクエリの例"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "セルフホスト型インデクサーAPI",
+    "permalink": "/indexer/api/self-hosted"
+  },
+  "next": {
+    "title": "カスタムプロセッサー",
+    "permalink": "/indexer/custom-processors/"
+  }
+}

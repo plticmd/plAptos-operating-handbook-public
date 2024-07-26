@@ -1,0 +1,29 @@
+{
+  "id": "indexer/custom-processors/parsing-txns-jp",
+  "title": "トランザクションの解析(Japanese)",
+  "description": "<!--",
+  "source": "@site/docs/indexer/custom-processors/parsing-txns-jp.md",
+  "sourceDirName": "indexer/custom-processors",
+  "slug": "/indexer/custom-processors/indexer-custom-processors-txns-jp",
+  "permalink": "/ja/indexer/custom-processors/indexer-custom-processors-txns-jp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/custom-processors/parsing-txns-jp.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "トランザクションの解析(Japanese)",
+    "slug": "indexer-custom-processors-txns-jp"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Parsing Transactions",
+    "permalink": "/ja/indexer/custom-processors/indexer-custom-processors-txns"
+  },
+  "next": {
+    "title": "Transaction Stream Service",
+    "permalink": "/ja/indexer/txn-stream/indexer-txn-stream-index"
+  }
+}

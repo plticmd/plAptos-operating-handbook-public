@@ -1,0 +1,28 @@
+{
+  "id": "apis/fullnode-rest-api",
+  "title": "Fullnode Rest API",
+  "description": "If you wish to employ the Aptos API, then this guide is for you. This guide will walk you through all you need to integrate the Aptos blockchain into your platform with the Aptos API.",
+  "source": "@site/docs/apis/fullnode-rest-api.md",
+  "sourceDirName": "apis",
+  "slug": "/apis/fullnode-rest-api",
+  "permalink": "/apis/fullnode-rest-api",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/apis/fullnode-rest-api.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713437267,
+  "formattedLastUpdatedAt": "Apr 18, 2024",
+  "frontMatter": {
+    "title": "Fullnode Rest API"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Aptos APIs",
+    "permalink": "/apis/"
+  },
+  "next": {
+    "title": "Aptos Labs Developer Portal",
+    "permalink": "/apis/aptos-labs-developer-portal"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "guides/keyless-accounts",
+  "title": "Aptos Keyless",
+  "description": "Aptosキーレス統合ガイド",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/guides/keyless-accounts.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/keyless-accounts",
+  "permalink": "/guides/keyless-accounts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/guides/keyless-accounts.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1717324438,
+  "formattedLastUpdatedAt": "2024年6月2日",
+  "frontMatter": {
+    "title": "Aptos Keyless"
+  }
+}

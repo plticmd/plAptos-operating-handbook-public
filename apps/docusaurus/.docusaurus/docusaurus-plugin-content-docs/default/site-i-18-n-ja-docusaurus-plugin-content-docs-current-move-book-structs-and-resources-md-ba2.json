@@ -1,0 +1,26 @@
+{
+  "id": "move/book/structs-and-resources",
+  "title": "構造とリソース",
+  "description": "構造体 は、型指定されたフィールドを含むユーザー定義のデータ構造です。構造体は、他の構造体を含む任意の非参照型を格納できます。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/structs-and-resources.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/structs-and-resources",
+  "permalink": "/move/book/structs-and-resources",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/structs-and-resources.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1720084421,
+  "formattedLastUpdatedAt": "2024年7月4日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "関数",
+    "permalink": "/move/book/functions"
+  },
+  "next": {
+    "title": "定数",
+    "permalink": "/move/book/constants"
+  }
+}

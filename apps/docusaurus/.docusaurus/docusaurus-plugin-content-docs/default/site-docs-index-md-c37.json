@@ -1,0 +1,25 @@
+{
+  "id": "index",
+  "title": "Aptos Developer Documentation",
+  "description": "Everything you need to build on the Aptos blockchain. This documentation covers basic and advanced concepts, how-to guides, code examples, release notes, more.",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Aptos Developer Documentation",
+    "description": "Everything you need to build on the Aptos blockchain. This documentation covers basic and advanced concepts, how-to guides, code examples, release notes, more.",
+    "slug": "/",
+    "hidden": false,
+    "sidebar_position": 0,
+    "hide_table_of_contents": true
+  }
+}

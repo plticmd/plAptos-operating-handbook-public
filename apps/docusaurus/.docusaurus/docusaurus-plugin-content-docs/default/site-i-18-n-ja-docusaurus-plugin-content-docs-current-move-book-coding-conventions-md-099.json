@@ -1,0 +1,26 @@
+{
+  "id": "move/book/coding-conventions",
+  "title": "Moveコーディング規則",
+  "description": "このセクションでは、Moveチームが役立つと判断した、Moveの基本的なコーディング規則をいくつか解説します。これらは推奨事項に過ぎないので、他の書式ガイドラインや規則を希望する場合は、遠慮なく使用して下さい。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/coding-conventions.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/coding-conventions",
+  "permalink": "/move/book/coding-conventions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/coding-conventions.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1719037168,
+  "formattedLastUpdatedAt": "2024年6月22日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "ライブラリ",
+    "permalink": "/move/book/standard-library"
+  },
+  "next": {
+    "title": "Advanced Move Guides",
+    "permalink": "/move/aptos-move"
+  }
+}

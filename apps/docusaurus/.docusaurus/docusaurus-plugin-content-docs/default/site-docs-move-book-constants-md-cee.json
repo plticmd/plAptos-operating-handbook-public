@@ -1,0 +1,26 @@
+{
+  "id": "move/book/constants",
+  "title": "Constants",
+  "description": "Constants are a way of giving a name to shared, static values inside of a module or script.",
+  "source": "@site/docs/move/book/constants.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/constants",
+  "permalink": "/move/book/constants",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/constants.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Structs and Resources",
+    "permalink": "/move/book/structs-and-resources"
+  },
+  "next": {
+    "title": "Generics",
+    "permalink": "/move/book/generics"
+  }
+}

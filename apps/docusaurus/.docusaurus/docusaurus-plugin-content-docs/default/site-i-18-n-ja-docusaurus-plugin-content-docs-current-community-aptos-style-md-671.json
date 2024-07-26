@@ -1,0 +1,28 @@
+{
+  "id": "community/aptos-style",
+  "title": "Follow Aptos Style",
+  "description": "When making site updates, Aptos recommends adhering to this writing and formatting style guide for consistency with the rest of Aptos.dev, as well as accessibility directly in GitHub.com and source code editors.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/community/aptos-style.md",
+  "sourceDirName": "community",
+  "slug": "/community/aptos-style",
+  "permalink": "/community/aptos-style",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/community/aptos-style.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Follow Aptos Style"
+  },
+  "sidebar": "comSidebar",
+  "previous": {
+    "title": "Update Aptos.dev",
+    "permalink": "/community/site-updates"
+  },
+  "next": {
+    "title": "Contributors",
+    "permalink": "/community/contributors"
+  }
+}

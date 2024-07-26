@@ -1,0 +1,29 @@
+{
+  "id": "sdks/legacy-ts-sdk/aptos-client",
+  "title": "AptosClient Class",
+  "description": "The AptosClient class is a component of the Aptos TypeScript SDK that enables developers to interact with the blockchain network through the use of REST APIs generated from an OpenAPI document. The OpenAPI specification helps build and document RESTful APIs by providing a standard format for describing the structure of an API, including the available endpoints, methods, input and output parameters.",
+  "source": "@site/docs/sdks/legacy-ts-sdk/aptos-client.md",
+  "sourceDirName": "sdks/legacy-ts-sdk",
+  "slug": "/sdks/legacy-ts-sdk/typescript-sdk-aptos-client-class",
+  "permalink": "/sdks/legacy-ts-sdk/typescript-sdk-aptos-client-class",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/legacy-ts-sdk/aptos-client.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "AptosClient Class",
+    "slug": "typescript-sdk-aptos-client-class"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "API Client Layer",
+    "permalink": "/sdks/legacy-ts-sdk/typescript-sdk-client-layer"
+  },
+  "next": {
+    "title": "IndexerClient Class",
+    "permalink": "/sdks/legacy-ts-sdk/typescript-sdk-indexer-client-class"
+  }
+}

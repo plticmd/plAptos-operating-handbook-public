@@ -1,0 +1,29 @@
+{
+  "id": "nodes/validator-node/operator/modify-nodes/index",
+  "title": "Modify Nodes",
+  "description": "This section contains tutorials for performing common operations and modifications to your validator and",
+  "source": "@site/docs/nodes/validator-node/operator/modify-nodes/index.md",
+  "sourceDirName": "nodes/validator-node/operator/modify-nodes",
+  "slug": "/nodes/validator-node/operator/modify-nodes/modify-validator-node",
+  "permalink": "/nodes/validator-node/operator/modify-nodes/modify-validator-node",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/validator-node/operator/modify-nodes/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Modify Nodes",
+    "slug": "modify-validator-node"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Validator Leaderboard",
+    "permalink": "/nodes/leaderboard-metrics"
+  },
+  "next": {
+    "title": "Upgrade Nodes",
+    "permalink": "/nodes/validator-node/operator/update-validator-node"
+  }
+}

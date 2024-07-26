@@ -1,0 +1,28 @@
+{
+  "id": "tools/aptos-cli/use-cli/move-tutorials/multi-signature-tutorial",
+  "title": "Multisig Governance Tutorial",
+  "description": "背景",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/tools/aptos-cli/use-cli/move-tutorials/multi-signature-tutorial.md",
+  "sourceDirName": "tools/aptos-cli/use-cli/move-tutorials",
+  "slug": "/tools/aptos-cli/use-cli/move-tutorials/multi-signature-tutorial",
+  "permalink": "/tools/aptos-cli/use-cli/move-tutorials/multi-signature-tutorial",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tools/aptos-cli/use-cli/move-tutorials/multi-signature-tutorial.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1718709339,
+  "formattedLastUpdatedAt": "2024年6月18日",
+  "frontMatter": {
+    "title": "Multisig Governance Tutorial"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Arguments in JSON Tutorial",
+    "permalink": "/tools/aptos-cli/use-cli/move-tutorials/arguments-in-json-tutorial"
+  },
+  "next": {
+    "title": "Interact with Blockchain",
+    "permalink": "/integration/"
+  }
+}

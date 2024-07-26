@@ -1,0 +1,19 @@
+{
+  "id": "standards/multisig-managed-fungible-asset",
+  "title": "Manage Fungible Assets with Aptos Multisig Account",
+  "description": "このチュートリアルはAptosフレームワークのマルチシグアカウントと代替可能資産標準を組み合わせて代替可能資産管理のセキュリティマージンを拡張する実用的な使用例を紹介します。チュートリアルに進む前に、モジュールの公開とAptosフレームワークのマルチシグアカウントを理解していることを確認してください。理解していない場合は、まず以下のチュートリアルを試す事を強くお勧めします。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/standards/multisig-managed-fungible-asset.md",
+  "sourceDirName": "standards",
+  "slug": "/standards/multisig-managed-fungible-asset",
+  "permalink": "/standards/multisig-managed-fungible-asset",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/standards/multisig-managed-fungible-asset.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1716397055,
+  "formattedLastUpdatedAt": "2024年5月22日",
+  "frontMatter": {
+    "title": "Manage Fungible Assets with Aptos Multisig Account"
+  }
+}

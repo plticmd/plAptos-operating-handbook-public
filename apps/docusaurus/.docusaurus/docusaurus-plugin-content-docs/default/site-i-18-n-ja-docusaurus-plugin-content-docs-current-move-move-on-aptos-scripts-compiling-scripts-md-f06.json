@@ -1,0 +1,28 @@
+{
+  "id": "move/move-on-aptos/scripts/compiling-scripts",
+  "title": "Compiling Move Scripts",
+  "description": "Moveスクリプトは、AptosCLI内の既存のAptos Moveコンパイラを使用してコンパイル出来ます。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/move-on-aptos/scripts/compiling-scripts.md",
+  "sourceDirName": "move/move-on-aptos/scripts",
+  "slug": "/move/move-on-aptos/scripts/compiling-scripts",
+  "permalink": "/move/move-on-aptos/scripts/compiling-scripts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/move-on-aptos/scripts/compiling-scripts.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1721049661,
+  "formattedLastUpdatedAt": "2024年7月15日",
+  "frontMatter": {
+    "title": "Compiling Move Scripts"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Writing Move Scripts",
+    "permalink": "/move/move-on-aptos/scripts/writing-scripts"
+  },
+  "next": {
+    "title": "Running Move Scripts",
+    "permalink": "/move/move-on-aptos/scripts/running-scripts"
+  }
+}

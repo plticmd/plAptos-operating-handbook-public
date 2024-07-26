@@ -1,0 +1,28 @@
+{
+  "id": "concepts/staking",
+  "title": "Staking",
+  "description": "We strongly recommend that you read the consensus section of Aptos Blockchain Deep Dive before proceeding further.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/concepts/staking.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/staking",
+  "permalink": "/concepts/staking",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/concepts/staking.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Staking"
+  },
+  "sidebar": "aptosSidebar",
+  "previous": {
+    "title": "Blocks",
+    "permalink": "/concepts/blocks"
+  },
+  "next": {
+    "title": "Delegated Staking",
+    "permalink": "/concepts/delegated-staking"
+  }
+}

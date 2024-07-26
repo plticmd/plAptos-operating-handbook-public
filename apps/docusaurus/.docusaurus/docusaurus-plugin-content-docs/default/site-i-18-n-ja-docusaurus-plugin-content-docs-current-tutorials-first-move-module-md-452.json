@@ -1,0 +1,29 @@
+{
+  "id": "tutorials/first-move-module",
+  "title": "Your First Move Module",
+  "description": "このチュートリアルでは、どの様にコンパイル、テスト、公開し、Aptosブロックチェーン上でMove モジュールと交信するのか詳しく解説します。手順を要約すると、",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/tutorials/first-move-module.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/first-move-module",
+  "permalink": "/tutorials/first-move-module",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tutorials/first-move-module.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1717781175,
+  "formattedLastUpdatedAt": "2024年6月7日",
+  "frontMatter": {
+    "title": "Your First Move Module",
+    "slug": "first-move-module"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Your First Fungible Asset",
+    "permalink": "/tutorials/your-first-fungible-asset"
+  },
+  "next": {
+    "title": "Your First Multisig",
+    "permalink": "/tutorials/your-first-multisig"
+  }
+}

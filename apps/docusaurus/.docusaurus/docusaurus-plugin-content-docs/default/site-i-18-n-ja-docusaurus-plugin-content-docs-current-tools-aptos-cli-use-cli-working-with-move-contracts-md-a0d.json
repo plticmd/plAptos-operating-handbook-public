@@ -1,0 +1,28 @@
+{
+  "id": "tools/aptos-cli/use-cli/working-with-move-contracts",
+  "title": "Working With Move Contracts",
+  "description": "Aptos CLIは主に、Moveコントラクトのコンパイル、テスト、形式検証に使用されます。まだ Aptos CLIをインストールしていない場合は、以下でインストール出来ます。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/tools/aptos-cli/use-cli/working-with-move-contracts.md",
+  "sourceDirName": "tools/aptos-cli/use-cli",
+  "slug": "/tools/aptos-cli/use-cli/working-with-move-contracts",
+  "permalink": "/tools/aptos-cli/use-cli/working-with-move-contracts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tools/aptos-cli/use-cli/working-with-move-contracts.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1717781175,
+  "formattedLastUpdatedAt": "2024年6月7日",
+  "frontMatter": {
+    "title": "Working With Move Contracts"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Running a Public Network",
+    "permalink": "/tools/aptos-cli/use-cli/public-network/run-public-network"
+  },
+  "next": {
+    "title": "Arguments in JSON Tutorial",
+    "permalink": "/tools/aptos-cli/use-cli/move-tutorials/arguments-in-json-tutorial"
+  }
+}

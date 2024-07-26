@@ -1,0 +1,26 @@
+{
+  "id": "move/book/variables",
+  "title": "Local Variables and Scope",
+  "description": "Local variables in Move are lexically (statically) scoped. New variables are introduced with the",
+  "source": "@site/docs/move/book/variables.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/variables",
+  "permalink": "/move/book/variables",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/variables.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Tuples and Unit",
+    "permalink": "/move/book/tuples"
+  },
+  "next": {
+    "title": "Equality",
+    "permalink": "/move/book/equality"
+  }
+}

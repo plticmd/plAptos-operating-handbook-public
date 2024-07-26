@@ -1,0 +1,52 @@
+{
+  "docusaurusVersion": "3.1.1",
+  "siteVersion": "0.0.0",
+  "pluginVersions": {
+    "docusaurus-plugin-content-docs": {
+      "type": "package",
+      "name": "@docusaurus/plugin-content-docs",
+      "version": "3.1.1"
+    },
+    "docusaurus-plugin-content-pages": {
+      "type": "package",
+      "name": "@docusaurus/plugin-content-pages",
+      "version": "3.1.1"
+    },
+    "docusaurus-plugin-google-gtag": {
+      "type": "package",
+      "name": "@docusaurus/plugin-google-gtag",
+      "version": "3.1.1"
+    },
+    "docusaurus-plugin-sitemap": {
+      "type": "package",
+      "name": "@docusaurus/plugin-sitemap",
+      "version": "3.1.1"
+    },
+    "docusaurus-theme-classic": {
+      "type": "package",
+      "name": "@docusaurus/theme-classic",
+      "version": "3.1.1"
+    },
+    "docusaurus-theme-search-algolia": {
+      "type": "package",
+      "name": "@docusaurus/theme-search-algolia",
+      "version": "3.1.1"
+    },
+    "docusaurus-plugin-client-redirects": {
+      "type": "package",
+      "name": "@docusaurus/plugin-client-redirects",
+      "version": "3.1.1"
+    },
+    "custom-webpack-config": {
+      "type": "local"
+    },
+    "new-css-syntax": {
+      "type": "local"
+    },
+    "docusaurus-theme-mermaid": {
+      "type": "package",
+      "name": "@docusaurus/theme-mermaid",
+      "version": "3.1.1"
+    }
+  }
+}

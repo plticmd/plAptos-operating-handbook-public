@@ -1,0 +1,28 @@
+{
+  "id": "move/prover/prover-guide",
+  "title": "Move Prover User Guide",
+  "description": "This is the user guide for the Move Prover. This document accompanies the",
+  "source": "@site/docs/move/prover/prover-guide.md",
+  "sourceDirName": "move/prover",
+  "slug": "/move/prover/prover-guide",
+  "permalink": "/move/prover/prover-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/prover/prover-guide.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1721049661,
+  "formattedLastUpdatedAt": "Jul 15, 2024",
+  "frontMatter": {
+    "title": "Move Prover User Guide"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Move Prover",
+    "permalink": "/move/prover/move-prover"
+  },
+  "next": {
+    "title": "Move Specification Language",
+    "permalink": "/move/prover/spec-lang"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "tutorials/first-fungible-asset",
+  "title": "Your First Fungible Asset",
+  "description": "このチュートリアルではFACoinという名前の自作の代替資産 (FA) をコンパイル、デプロイ、ミントする方法を紹介します。チュートリアルに進む前に、FA を理解していることを確認してください。まだの場合は、最初に読むことを強くお勧めします。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/tutorials/first-fungible-asset.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/your-first-fungible-asset",
+  "permalink": "/tutorials/your-first-fungible-asset",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tutorials/first-fungible-asset.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1717781175,
+  "formattedLastUpdatedAt": "2024年6月7日",
+  "frontMatter": {
+    "title": "Your First Fungible Asset",
+    "slug": "your-first-fungible-asset"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Your First Coin",
+    "permalink": "/tutorials/your-first-coin"
+  },
+  "next": {
+    "title": "Your First Move Module",
+    "permalink": "/tutorials/first-move-module"
+  }
+}

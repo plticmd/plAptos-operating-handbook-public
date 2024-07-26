@@ -1,0 +1,29 @@
+{
+  "id": "nodes/full-node/index",
+  "title": "Run a Public Fullnode",
+  "description": "You can run your own public fullnode (PFN) to synchronize the state of the Aptos blockchain and stay",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/full-node/index.md",
+  "sourceDirName": "nodes/full-node",
+  "slug": "/nodes/full-node/public-fullnode",
+  "permalink": "/nodes/full-node/public-fullnode",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/full-node/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Run a Public Fullnode",
+    "slug": "public-fullnode"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Shutdown Nodes",
+    "permalink": "/nodes/validator-node/operator/shutting-down-nodes"
+  },
+  "next": {
+    "title": "PFN Requirements",
+    "permalink": "/nodes/full-node/pfn-requirements"
+  }
+}

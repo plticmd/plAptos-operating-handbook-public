@@ -1,0 +1,26 @@
+{
+  "id": "move/book/package-upgrades",
+  "title": "Package Upgrades",
+  "description": "Move code (e.g., Move modules) on the Aptos blockchain can be upgraded. This",
+  "source": "@site/docs/move/book/package-upgrades.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/package-upgrades",
+  "permalink": "/move/book/package-upgrades",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/package-upgrades.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Packages",
+    "permalink": "/move/book/packages"
+  },
+  "next": {
+    "title": "Unit Tests",
+    "permalink": "/move/book/unit-testing"
+  }
+}

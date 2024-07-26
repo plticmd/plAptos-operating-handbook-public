@@ -1,0 +1,29 @@
+{
+  "id": "concepts/move",
+  "title": "Move - A Web3 Language and Runtime",
+  "description": "The Aptos blockchain consists of validator nodes that run a consensus protocol. The consensus protocol agrees upon the ordering of transactions and their output when executed on the Move Virtual Machine (MoveVM). Each validator node translates transactions along with the current blockchain ledger state as input into the VM. The MoveVM processes this input to produce a changeset or storage delta as output. Once consensus agrees and commits to the output, it becomes publicly visible. In this guide, we will introduce you to core Move concepts and how they apply to developing on Aptos.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/concepts/move.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/move-on-aptos",
+  "permalink": "/concepts/move-on-aptos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/concepts/move.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Move - A Web3 Language and Runtime",
+    "slug": "move-on-aptos"
+  },
+  "sidebar": "aptosSidebar",
+  "previous": {
+    "title": "Node Networks and Sync",
+    "permalink": "/concepts/node-networks-sync"
+  },
+  "next": {
+    "title": "Accounts",
+    "permalink": "/concepts/accounts"
+  }
+}

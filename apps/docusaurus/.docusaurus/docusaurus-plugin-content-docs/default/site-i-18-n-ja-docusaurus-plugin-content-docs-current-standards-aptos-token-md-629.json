@@ -1,0 +1,28 @@
+{
+  "id": "standards/aptos-token",
+  "title": "Aptos Token (Legacy)",
+  "description": "Aptosトークン標準の比較も御覧下さい。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/standards/aptos-token.md",
+  "sourceDirName": "standards",
+  "slug": "/standards/aptos-token",
+  "permalink": "/standards/aptos-token",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/standards/aptos-token.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1716316471,
+  "formattedLastUpdatedAt": "2024年5月21日",
+  "frontMatter": {
+    "title": "Aptos Token (Legacy)"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Aptos Digital Asset Standard",
+    "permalink": "/standards/digital-asset"
+  },
+  "next": {
+    "title": "Aptos Wallet Standard",
+    "permalink": "/standards/wallets"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "guides/building-from-source",
+  "title": "Building Aptos From Source",
+  "description": "バイナリリリースは利用可能ですが、ソースからビルドしたり、Aptosツールで開発したりする場合は、以下の様にします。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/guides/building-from-source.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/building-from-source",
+  "permalink": "/guides/building-from-source",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/guides/building-from-source.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1717324438,
+  "formattedLastUpdatedAt": "2024年6月2日",
+  "frontMatter": {
+    "title": "Building Aptos From Source"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "認証キーのローテーション",
+    "permalink": "/guides/account-management/key-rotation"
+  }
+}

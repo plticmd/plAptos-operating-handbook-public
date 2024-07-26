@@ -1,0 +1,28 @@
+{
+  "id": "sdks/unity-sdk/index",
+  "title": "Unity SDK(日本語)",
+  "description": "Aptos Unity SDKはAptos SDKの.NET実装であり、.NET Standard 2.0 と .NET 4.x for Unityと互換性があります。この SDKの目標は、UnityゲームエンジンとAptosブロックチェーンインフラストラクチャを使用して、開発者がマルチプラットフォームアプリケーション(モバイル、デスクトップ、Web、VR)を構築するためのツールセットを提供することです。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/sdks/unity-sdk/index.md",
+  "sourceDirName": "sdks/unity-sdk",
+  "slug": "/sdks/unity-sdk/",
+  "permalink": "/sdks/unity-sdk/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/unity-sdk/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713535793,
+  "formattedLastUpdatedAt": "2024年4月19日",
+  "frontMatter": {
+    "title": "Unity SDK(日本語)"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Rust SDK(日本語)",
+    "permalink": "/sdks/rust-sdk/"
+  },
+  "next": {
+    "title": "Aptos CLI",
+    "permalink": "/tools/aptos-cli/"
+  }
+}

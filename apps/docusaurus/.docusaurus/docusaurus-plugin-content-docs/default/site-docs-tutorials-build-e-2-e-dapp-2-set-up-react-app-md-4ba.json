@@ -1,0 +1,30 @@
+{
+  "id": "tutorials/build-e2e-dapp/set-up-react-app",
+  "title": "2. Set up React App",
+  "description": "This is the second chapter of the tutorial on building an end-to-end dapp on Aptos where you have already created a smart contract and are now setting up a React app.",
+  "source": "@site/docs/tutorials/build-e2e-dapp/2-set-up-react-app.md",
+  "sourceDirName": "tutorials/build-e2e-dapp",
+  "slug": "/tutorials/build-e2e-dapp/set-up-react-app",
+  "permalink": "/tutorials/build-e2e-dapp/set-up-react-app",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tutorials/build-e2e-dapp/2-set-up-react-app.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "2. Set up React App",
+    "id": "set-up-react-app"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "1. Create a Smart Contract",
+    "permalink": "/tutorials/build-e2e-dapp/create-a-smart-contract"
+  },
+  "next": {
+    "title": "3. Add Wallet Support",
+    "permalink": "/tutorials/build-e2e-dapp/add-wallet-support"
+  }
+}

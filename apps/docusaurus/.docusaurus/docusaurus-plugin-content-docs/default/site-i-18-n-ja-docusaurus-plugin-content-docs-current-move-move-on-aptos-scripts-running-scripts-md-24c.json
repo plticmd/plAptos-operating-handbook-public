@@ -1,0 +1,28 @@
+{
+  "id": "move/move-on-aptos/scripts/running-scripts",
+  "title": "Running Move Scripts",
+  "description": "Moveスクリプトは、Aptos Typescript SDK、Aptosウォレットアダプター、Aptos CLI でサポートされています。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/move-on-aptos/scripts/running-scripts.md",
+  "sourceDirName": "move/move-on-aptos/scripts",
+  "slug": "/move/move-on-aptos/scripts/running-scripts",
+  "permalink": "/move/move-on-aptos/scripts/running-scripts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/move-on-aptos/scripts/running-scripts.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1721049661,
+  "formattedLastUpdatedAt": "2024年7月15日",
+  "frontMatter": {
+    "title": "Running Move Scripts"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Compiling Move Scripts",
+    "permalink": "/move/move-on-aptos/scripts/compiling-scripts"
+  },
+  "next": {
+    "title": "Move Scripts Tutorial",
+    "permalink": "/move/move-on-aptos/scripts/script-tutorial"
+  }
+}

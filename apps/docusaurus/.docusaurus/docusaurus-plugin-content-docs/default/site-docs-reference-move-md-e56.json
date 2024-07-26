@@ -1,0 +1,30 @@
+{
+  "id": "reference/move",
+  "title": "Move Reference Documentation",
+  "description": "",
+  "source": "@site/docs/reference/move.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/move",
+  "permalink": "/reference/move",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/reference/move.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Move Reference Documentation",
+    "id": "move",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "refSidebar",
+  "previous": {
+    "title": "Aptos Error Codes",
+    "permalink": "/reference/error-codes"
+  },
+  "next": {
+    "title": "Aptos Glossary",
+    "permalink": "/reference/glossary"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tools/aptos-cli/install-cli/install-move-prover",
+  "title": "Install the Move Prover",
+  "description": "If you want to use the Move Prover, install the Move Prover dependencies after installing the CLI binary.",
+  "source": "@site/docs/tools/aptos-cli/install-cli/install-move-prover.md",
+  "sourceDirName": "tools/aptos-cli/install-cli",
+  "slug": "/tools/aptos-cli/install-cli/install-move-prover",
+  "permalink": "/tools/aptos-cli/install-cli/install-move-prover",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tools/aptos-cli/install-cli/install-move-prover.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Install the Move Prover"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Build CLI from Source Code",
+    "permalink": "/tools/aptos-cli/install-cli/build-from-source"
+  },
+  "next": {
+    "title": "Use the Aptos CLI",
+    "permalink": "/tools/aptos-cli/use-cli/use-aptos-cli"
+  }
+}

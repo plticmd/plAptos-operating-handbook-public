@@ -1,0 +1,28 @@
+{
+  "id": "sdks/ts-sdk/migration-guide",
+  "title": "Migration Guide",
+  "description": "If you are coming from an earlier version 1.x.x of aptos, you will need to make the following updates.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/sdks/ts-sdk/migration-guide.md",
+  "sourceDirName": "sdks/ts-sdk",
+  "slug": "/sdks/ts-sdk/migration-guide",
+  "permalink": "/sdks/ts-sdk/migration-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/ts-sdk/migration-guide.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Migration Guide"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "TypeScript Index",
+    "permalink": "/sdks/ts-sdk/"
+  },
+  "next": {
+    "title": "Account",
+    "permalink": "/sdks/ts-sdk/account"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "guides/account-management/key-rotation",
+  "title": "Rotating an authentication key",
+  "description": "Aptos Move accounts have a public address, an authentication key, a public key, and a private key. The public address is permanent, always matching the account's initial authentication key.",
+  "source": "@site/docs/guides/account-management/key-rotation.md",
+  "sourceDirName": "guides/account-management",
+  "slug": "/guides/account-management/key-rotation",
+  "permalink": "/guides/account-management/key-rotation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/guides/account-management/key-rotation.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Rotating an authentication key",
+    "id": "key-rotation"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Transaction Management",
+    "permalink": "/guides/transaction-management"
+  },
+  "next": {
+    "title": "Building Aptos From Source",
+    "permalink": "/guides/building-from-source"
+  }
+}

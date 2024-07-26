@@ -1,0 +1,28 @@
+{
+  "id": "tools/aptos-cli/install-cli/download-cli-binaries",
+  "title": "Download CLI Binaries",
+  "description": "The aptos tool is a command line interface (CLI) for developing on the Aptos blockchain, debugging Move contracts, and conducting node operations. This document describes how to install the aptos CLI tool using precompiled binaries that reduce variables in setting up your environment. Also see:",
+  "source": "@site/docs/tools/aptos-cli/install-cli/download-cli-binaries.md",
+  "sourceDirName": "tools/aptos-cli/install-cli",
+  "slug": "/tools/aptos-cli/install-cli/download-cli-binaries",
+  "permalink": "/tools/aptos-cli/install-cli/download-cli-binaries",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tools/aptos-cli/install-cli/download-cli-binaries.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Download CLI Binaries"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Install CLI by Script",
+    "permalink": "/tools/aptos-cli/install-cli/automated-install"
+  },
+  "next": {
+    "title": "Install the CLI with Brew",
+    "permalink": "/tools/aptos-cli/install-cli/install-from-brew"
+  }
+}

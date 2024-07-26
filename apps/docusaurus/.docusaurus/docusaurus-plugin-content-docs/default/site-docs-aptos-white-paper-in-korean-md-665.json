@@ -1,0 +1,29 @@
+{
+  "id": "aptos-white-paper/in-korean",
+  "title": "한글 (In Korean)",
+  "description": "안전성, 확장성, 향상성 있는 웹3 인프라",
+  "source": "@site/docs/aptos-white-paper/in-korean.md",
+  "sourceDirName": "aptos-white-paper",
+  "slug": "/aptos-white-paper/aptos-white-paper-in-korean",
+  "permalink": "/ja/aptos-white-paper/aptos-white-paper-in-korean",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/aptos-white-paper/in-korean.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "한글 (In Korean)",
+    "slug": "aptos-white-paper-in-korean"
+  },
+  "sidebar": "aptosSidebar",
+  "previous": {
+    "title": "Aptos White Paper",
+    "permalink": "/ja/aptos-white-paper/"
+  },
+  "next": {
+    "title": "日本語 (In Japanese)",
+    "permalink": "/ja/aptos-white-paper/aptos-white-paper-in-japanese"
+  }
+}

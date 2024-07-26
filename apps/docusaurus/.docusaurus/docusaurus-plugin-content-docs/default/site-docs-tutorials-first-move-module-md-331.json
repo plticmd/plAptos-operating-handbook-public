@@ -1,0 +1,29 @@
+{
+  "id": "tutorials/first-move-module",
+  "title": "Your First Move Module",
+  "description": "This tutorial details how to compile, test, publish and interact with Move modules on the Aptos blockchain. The steps in summary are:",
+  "source": "@site/docs/tutorials/first-move-module.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/first-move-module",
+  "permalink": "/tutorials/first-move-module",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tutorials/first-move-module.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713278317,
+  "formattedLastUpdatedAt": "Apr 16, 2024",
+  "frontMatter": {
+    "title": "Your First Move Module",
+    "slug": "first-move-module"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Your First Fungible Asset",
+    "permalink": "/tutorials/your-first-fungible-asset"
+  },
+  "next": {
+    "title": "Your First Multisig",
+    "permalink": "/tutorials/your-first-multisig"
+  }
+}

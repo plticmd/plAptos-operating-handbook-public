@@ -1,0 +1,28 @@
+{
+  "id": "guides/system-integrators-guide",
+  "title": "Application Integration Guide",
+  "description": "If you provide blockchain services to your customers and wish to add the Aptos blockchain to your platform, then this guide is for you. This system integrators guide will walk you through all you need to integrate the Aptos blockchain into your platform.",
+  "source": "@site/docs/guides/system-integrators-guide.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/system-integrators-guide",
+  "permalink": "/guides/system-integrators-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/guides/system-integrators-guide.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1717819347,
+  "formattedLastUpdatedAt": "Jun 8, 2024",
+  "frontMatter": {
+    "title": "Application Integration Guide"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Aptos Error Codes",
+    "permalink": "/reference/error-codes"
+  },
+  "next": {
+    "title": "Build E2E Dapp on Aptos",
+    "permalink": "/tutorials/build-e2e-dapp/e2e-dapp-index"
+  }
+}

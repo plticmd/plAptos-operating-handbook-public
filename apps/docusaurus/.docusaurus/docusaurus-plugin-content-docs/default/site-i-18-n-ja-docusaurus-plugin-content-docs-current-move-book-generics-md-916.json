@@ -1,0 +1,26 @@
+{
+  "id": "move/book/generics",
+  "title": "ジェネリクス",
+  "description": "ジェネリクスを使用すると、異なる入力データ型に対して関数や構造体を定義できます。この言語機能は、パラメトリック多態性 として参照される事も有ります。Moveでは、ジェネリックという用語を型パラメーターや型引数と同じ意味でよく使用します。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/generics.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/generics",
+  "permalink": "/move/book/generics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/generics.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1720084421,
+  "formattedLastUpdatedAt": "2024年7月4日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "定数",
+    "permalink": "/move/book/constants"
+  },
+  "next": {
+    "title": "Abilities(機能)",
+    "permalink": "/move/book/abilities"
+  }
+}

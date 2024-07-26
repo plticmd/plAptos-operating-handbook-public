@@ -1,0 +1,26 @@
+{
+  "id": "guides/transaction-management",
+  "title": "Transaction Management",
+  "description": "This guide explains how to build a transaction management harness that can scale on the Aptos blockchain.",
+  "source": "@site/docs/guides/transaction-management.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/transaction-management",
+  "permalink": "/guides/transaction-management",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/guides/transaction-management.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Sponsored Transactions",
+    "permalink": "/guides/sponsored-transactions"
+  },
+  "next": {
+    "title": "Rotating an authentication key",
+    "permalink": "/guides/account-management/key-rotation"
+  }
+}

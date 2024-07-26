@@ -1,0 +1,28 @@
+{
+  "id": "sdks/rust-sdk/index",
+  "title": "Rust SDK(日本語)",
+  "description": "Rust SDKをインストールする",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/sdks/rust-sdk/index.md",
+  "sourceDirName": "sdks/rust-sdk",
+  "slug": "/sdks/rust-sdk/",
+  "permalink": "/sdks/rust-sdk/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/rust-sdk/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713535793,
+  "formattedLastUpdatedAt": "2024年4月19日",
+  "frontMatter": {
+    "title": "Rust SDK(日本語)"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Python SDK(日本語)",
+    "permalink": "/sdks/python-sdk/"
+  },
+  "next": {
+    "title": "Unity SDK(日本語)",
+    "permalink": "/sdks/unity-sdk/"
+  }
+}

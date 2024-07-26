@@ -1,0 +1,26 @@
+{
+  "id": "move/book/packages",
+  "title": "Packages",
+  "description": "Packages allow Move programmers to more easily re-use code and share it",
+  "source": "@site/docs/move/book/packages.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/packages",
+  "permalink": "/move/book/packages",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/packages.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Friends",
+    "permalink": "/move/book/friends"
+  },
+  "next": {
+    "title": "Package Upgrades",
+    "permalink": "/move/book/package-upgrades"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "tools/aptos-cli/use-cli/cli-genesis",
+  "title": "Genesis",
+  "description": "Genesis ceremonies",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/tools/aptos-cli/use-cli/cli-genesis.md",
+  "sourceDirName": "tools/aptos-cli/use-cli",
+  "slug": "/tools/aptos-cli/use-cli/cli-genesis",
+  "permalink": "/tools/aptos-cli/use-cli/cli-genesis",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tools/aptos-cli/use-cli/cli-genesis.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Genesis",
+    "id": "cli-genesis"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Node",
+    "permalink": "/tools/aptos-cli/use-cli/cli-node"
+  },
+  "next": {
+    "title": "Use Aptos CLI with Ledger",
+    "permalink": "/tools/aptos-cli/use-cli/use-aptos-ledger"
+  }
+}

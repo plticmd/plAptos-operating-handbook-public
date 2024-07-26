@@ -1,0 +1,16 @@
+{
+  "title": "Advanced Move Guides",
+  "description": "Take the next step into building complex Move applications on Aptos.",
+  "slug": "move/aptos-move",
+  "permalink": "/js/move/aptos-move",
+  "navigation": {
+    "previous": {
+      "title": "Move Coding Conventions",
+      "permalink": "/js/move/book/coding-conventions"
+    },
+    "next": {
+      "title": "Building with Objects",
+      "permalink": "/js/move/move-on-aptos/objects/"
+    }
+  }
+}

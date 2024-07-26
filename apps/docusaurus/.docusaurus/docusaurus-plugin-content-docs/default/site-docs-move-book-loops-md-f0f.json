@@ -1,0 +1,26 @@
+{
+  "id": "move/book/loops",
+  "title": "While, For, and Loop",
+  "description": "Move offers three constructs for looping: while, for, and loop.",
+  "source": "@site/docs/move/book/loops.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/loops",
+  "permalink": "/move/book/loops",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/loops.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Conditionals",
+    "permalink": "/move/book/conditionals"
+  },
+  "next": {
+    "title": "Functions",
+    "permalink": "/move/book/functions"
+  }
+}

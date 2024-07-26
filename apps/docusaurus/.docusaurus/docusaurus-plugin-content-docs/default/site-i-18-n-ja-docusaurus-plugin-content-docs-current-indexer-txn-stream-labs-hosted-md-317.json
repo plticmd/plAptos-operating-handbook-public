@@ -1,0 +1,28 @@
+{
+  "id": "indexer/txn-stream/labs-hosted",
+  "title": "ラボがホストするトランザクション ストリームサービス",
+  "description": "インデクサーAPIのインスタンス(自前の)またはカスタムプロセッサーを実行している場合は、トランザクションストリームサービスのインスタンスにアクセスする必要があります。このページは、Labs-Hostedトランザクションストリームサービスの使用方法の情報を含んでいます。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/indexer/txn-stream/labs-hosted.md",
+  "sourceDirName": "indexer/txn-stream",
+  "slug": "/indexer/txn-stream/labs-hosted",
+  "permalink": "/indexer/txn-stream/labs-hosted",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/txn-stream/labs-hosted.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "2024年4月18日",
+  "frontMatter": {
+    "title": "ラボがホストするトランザクション ストリームサービス"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "トランザクションストリームサービス",
+    "permalink": "/indexer/txn-stream/"
+  },
+  "next": {
+    "title": "自己ホスト型トランザクション ストリーム サービス",
+    "permalink": "/indexer/txn-stream/self-hosted"
+  }
+}

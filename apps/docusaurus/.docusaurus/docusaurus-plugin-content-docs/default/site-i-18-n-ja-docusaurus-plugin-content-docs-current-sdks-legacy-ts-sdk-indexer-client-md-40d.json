@@ -1,0 +1,29 @@
+{
+  "id": "sdks/legacy-ts-sdk/indexer-client",
+  "title": "IndexerClient Class",
+  "description": "The IndexerClient is responsible for handling the communication between the client-side application and the blockchain network. It uses the Hasura framework to generate a set of GraphQL queries that can be used to retrieve data from the blockchain. The queries are optimized for performance and can retrieve data in real-time.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/sdks/legacy-ts-sdk/indexer-client.md",
+  "sourceDirName": "sdks/legacy-ts-sdk",
+  "slug": "/sdks/legacy-ts-sdk/typescript-sdk-indexer-client-class",
+  "permalink": "/sdks/legacy-ts-sdk/typescript-sdk-indexer-client-class",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/legacy-ts-sdk/indexer-client.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "IndexerClient Class",
+    "slug": "typescript-sdk-indexer-client-class"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "AptosClient Class",
+    "permalink": "/sdks/legacy-ts-sdk/typescript-sdk-aptos-client-class"
+  },
+  "next": {
+    "title": "Core Layer",
+    "permalink": "/sdks/legacy-ts-sdk/typescript-sdk-core-layer"
+  }
+}

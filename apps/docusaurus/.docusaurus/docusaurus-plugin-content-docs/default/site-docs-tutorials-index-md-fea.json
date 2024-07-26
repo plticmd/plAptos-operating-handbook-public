@@ -1,0 +1,24 @@
+{
+  "id": "tutorials/index",
+  "title": "Learn from Tutorials",
+  "description": "If you are new to the Aptos blockchain, begin with these tutorials before you get into in-depth development. These tutorials will help you become familiar with how to develop for the Aptos blockchain using the Aptos SDK.",
+  "source": "@site/docs/tutorials/index.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/",
+  "permalink": "/tutorials/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tutorials/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Learn from Tutorials"
+  },
+  "sidebar": "appSidebar",
+  "next": {
+    "title": "Your First Transaction",
+    "permalink": "/tutorials/your-first-transaction"
+  }
+}

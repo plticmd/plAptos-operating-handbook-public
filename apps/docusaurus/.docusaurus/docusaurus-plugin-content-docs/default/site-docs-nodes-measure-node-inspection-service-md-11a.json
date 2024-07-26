@@ -1,0 +1,28 @@
+{
+  "id": "nodes/measure/node-inspection-service",
+  "title": "Node Inspection Service",
+  "description": "Aptos nodes collect metrics and system information while running. These metrics provide a way to track,",
+  "source": "@site/docs/nodes/measure/node-inspection-service.md",
+  "sourceDirName": "nodes/measure",
+  "slug": "/nodes/measure/node-inspection-service",
+  "permalink": "/nodes/measure/node-inspection-service",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/measure/node-inspection-service.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Node Inspection Service"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Monitor your Nodes",
+    "permalink": "/nodes/measure/measure-index"
+  },
+  "next": {
+    "title": "Important Node Metrics",
+    "permalink": "/nodes/measure/important-metrics"
+  }
+}

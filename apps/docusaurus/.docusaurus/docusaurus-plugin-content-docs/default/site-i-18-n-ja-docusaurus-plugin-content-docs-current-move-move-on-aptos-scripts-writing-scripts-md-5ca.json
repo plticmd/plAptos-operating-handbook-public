@@ -1,0 +1,28 @@
+{
+  "id": "move/move-on-aptos/scripts/writing-scripts",
+  "title": "Writing Move Scripts",
+  "description": "MoveスクリプトはMoveコントラクトと並行して記述出来ますが、別のMoveパッケージを使用する事を強くお勧めします。これでスクリプトから取得されるバイトコード ファイルを簡単に特定出来ます。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/move-on-aptos/scripts/writing-scripts.md",
+  "sourceDirName": "move/move-on-aptos/scripts",
+  "slug": "/move/move-on-aptos/scripts/writing-scripts",
+  "permalink": "/move/move-on-aptos/scripts/writing-scripts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/move-on-aptos/scripts/writing-scripts.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1721049661,
+  "formattedLastUpdatedAt": "2024年7月15日",
+  "frontMatter": {
+    "title": "Writing Move Scripts"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Building with Move Scripts",
+    "permalink": "/move/move-on-aptos/scripts/"
+  },
+  "next": {
+    "title": "Compiling Move Scripts",
+    "permalink": "/move/move-on-aptos/scripts/compiling-scripts"
+  }
+}

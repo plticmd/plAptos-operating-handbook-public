@@ -1,0 +1,31 @@
+{
+  "id": "nodes/localnet/run-a-localnet",
+  "title": "Run a Localnet with Validator",
+  "description": "Running a local testnet with the Aptos CLI is simpler and more fully featured. Learn how by following this guide: Run a Local Development Network with the CLI.",
+  "source": "@site/docs/nodes/localnet/run-a-localnet.md",
+  "sourceDirName": "nodes/localnet",
+  "slug": "/nodes/localnet/run-a-localnet",
+  "permalink": "/nodes/localnet/run-a-localnet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/localnet/run-a-localnet.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1717818509,
+  "formattedLastUpdatedAt": "Jun 8, 2024",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "Run a Localnet with Validator",
+    "slug": "run-a-localnet",
+    "sidebar_position": 9
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Run a Local Development Network",
+    "permalink": "/guides/local-development-network"
+  },
+  "next": {
+    "title": "Run a Local Multi-node Network",
+    "permalink": "/guides/running-a-local-multi-node-network"
+  }
+}

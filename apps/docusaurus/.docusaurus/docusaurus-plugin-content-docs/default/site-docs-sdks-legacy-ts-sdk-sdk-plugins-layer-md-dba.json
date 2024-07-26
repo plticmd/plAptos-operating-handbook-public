@@ -1,0 +1,29 @@
+{
+  "id": "sdks/legacy-ts-sdk/sdk-plugins-layer",
+  "title": "Plugins Layer",
+  "description": "A plugin is a component that can be added to the TypeScript SDK to extend or enhance its functionality. Plugins are meant to be built to support popular applications on the Aptos network and can be used to add new features, ease the use of the application operations and to customize the user experience.",
+  "source": "@site/docs/sdks/legacy-ts-sdk/sdk-plugins-layer.md",
+  "sourceDirName": "sdks/legacy-ts-sdk",
+  "slug": "/sdks/legacy-ts-sdk/typescript-sdk-plugins-layer",
+  "permalink": "/sdks/legacy-ts-sdk/typescript-sdk-plugins-layer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/legacy-ts-sdk/sdk-plugins-layer.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Plugins Layer",
+    "slug": "typescript-sdk-plugins-layer"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Core Layer",
+    "permalink": "/sdks/legacy-ts-sdk/typescript-sdk-core-layer"
+  },
+  "next": {
+    "title": "Tests and Validation",
+    "permalink": "/sdks/legacy-ts-sdk/typescript-sdk-tests"
+  }
+}

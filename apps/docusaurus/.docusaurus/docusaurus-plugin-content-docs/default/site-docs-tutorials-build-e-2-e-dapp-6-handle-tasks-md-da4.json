@@ -1,0 +1,30 @@
+{
+  "id": "tutorials/build-e2e-dapp/handle-tasks",
+  "title": "6. Handle Tasks",
+  "description": "In the sixth and final chapter of the tutorial on building an end-to-end dapp on Aptos, you will add functionality to the app so the user interface is able to handle cases where an account has created a list.",
+  "source": "@site/docs/tutorials/build-e2e-dapp/6-handle-tasks.md",
+  "sourceDirName": "tutorials/build-e2e-dapp",
+  "slug": "/tutorials/build-e2e-dapp/handle-tasks",
+  "permalink": "/tutorials/build-e2e-dapp/handle-tasks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tutorials/build-e2e-dapp/6-handle-tasks.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "6. Handle Tasks",
+    "id": "handle-tasks"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "5. Submit Data to Chain",
+    "permalink": "/tutorials/build-e2e-dapp/submit-data-to-chain"
+  },
+  "next": {
+    "title": "Advanced Builder Guides",
+    "permalink": "/category/advanced-builders"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "indexer/indexer-landing-jp",
+  "title": "インデクサー(in Japanese)",
+  "description": "クイックスタート",
+  "source": "@site/docs/indexer/indexer-landing-jp.md",
+  "sourceDirName": "indexer",
+  "slug": "/indexer/indexer-indexer-landing-jp",
+  "permalink": "/ja/indexer/indexer-indexer-landing-jp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/indexer-landing-jp.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "インデクサー(in Japanese)",
+    "slug": "indexer-indexer-landing-jp"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Learn about Indexing",
+    "permalink": "/ja/indexer/indexer-indexer-landing"
+  },
+  "next": {
+    "title": "Indexer API",
+    "permalink": "/ja/indexer/api/indexer-api-index"
+  }
+}

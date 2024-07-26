@@ -1,0 +1,25 @@
+{
+  "id": "community/index",
+  "title": "Contribute to the Aptos Ecosystem",
+  "description": "We welcome your own contributions to the Aptos blockchain and this site! Aptos exists to foster an inclusive ecosystem. This page describes ways you can help, while the other pages in this section highlight our community's contributions.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/community/index.md",
+  "sourceDirName": "community",
+  "slug": "/community/",
+  "permalink": "/community/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/community/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Contribute to the Aptos Ecosystem",
+    "slug": "./"
+  },
+  "sidebar": "comSidebar",
+  "next": {
+    "title": "External Resources",
+    "permalink": "/community/external-resources"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sdks/legacy-ts-sdk/sdk-client-layer",
+  "title": "API Client Layer",
+  "description": "The API client layer in the SDK provides a robust and reliable communication channel between the client-side application and the blockchain server. It is a component of the SDK that enables developers to interact with the network through the use of application programming interfaces (APIs). The client layer is responsible for making API calls to the network, sending and receiving data to and from the network, and handling any errors or exceptions that may occur during the process.",
+  "source": "@site/docs/sdks/legacy-ts-sdk/sdk-client-layer.md",
+  "sourceDirName": "sdks/legacy-ts-sdk",
+  "slug": "/sdks/legacy-ts-sdk/typescript-sdk-client-layer",
+  "permalink": "/sdks/legacy-ts-sdk/typescript-sdk-client-layer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/legacy-ts-sdk/sdk-client-layer.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "API Client Layer",
+    "slug": "typescript-sdk-client-layer"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "TypeScript SDK Architecture",
+    "permalink": "/sdks/legacy-ts-sdk/typescript-sdk-overview"
+  },
+  "next": {
+    "title": "AptosClient Class",
+    "permalink": "/sdks/legacy-ts-sdk/typescript-sdk-aptos-client-class"
+  }
+}

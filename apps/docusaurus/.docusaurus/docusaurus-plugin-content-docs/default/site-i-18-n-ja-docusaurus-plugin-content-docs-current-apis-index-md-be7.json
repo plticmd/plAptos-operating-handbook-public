@@ -1,0 +1,28 @@
+{
+  "id": "apis/index",
+  "title": "アプトスAPI",
+  "description": "ユースケースに応じて、いくつかのAPIからAptosブロックチェーンネットワークにアクセスできます。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/apis/index.md",
+  "sourceDirName": "apis",
+  "slug": "/apis/",
+  "permalink": "/apis/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/apis/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713437468,
+  "formattedLastUpdatedAt": "2024年4月18日",
+  "frontMatter": {
+    "title": "アプトスAPI"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Aptos Wallet Standard",
+    "permalink": "/standards/wallets"
+  },
+  "next": {
+    "title": "フルノードREST API",
+    "permalink": "/apis/fullnode-rest-api"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "tools/aptos-cli/use-cli/cli-configuration",
+  "title": "Configuration",
+  "description": "Configuration examples",
+  "source": "@site/docs/tools/aptos-cli/use-cli/cli-configuration.md",
+  "sourceDirName": "tools/aptos-cli/use-cli",
+  "slug": "/tools/aptos-cli/use-cli/cli-configuration",
+  "permalink": "/tools/aptos-cli/use-cli/cli-configuration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tools/aptos-cli/use-cli/cli-configuration.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Configuration",
+    "id": "cli-configuration"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Use the Aptos CLI",
+    "permalink": "/tools/aptos-cli/use-cli/use-aptos-cli"
+  },
+  "next": {
+    "title": "Account",
+    "permalink": "/tools/aptos-cli/use-cli/cli-account"
+  }
+}

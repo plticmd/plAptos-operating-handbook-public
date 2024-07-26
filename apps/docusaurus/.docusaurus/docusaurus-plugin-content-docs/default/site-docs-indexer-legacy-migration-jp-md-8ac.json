@@ -1,0 +1,29 @@
+{
+  "id": "indexer/legacy/migration-jp",
+  "title": "トランザクション ストリーム サービスへの移行(Japanese)",
+  "description": "現在レガシーインデクサーを実行を実行している場合、トランザクションストリームサービスの使用へ移行する方法をガイドします。",
+  "source": "@site/docs/indexer/legacy/migration-jp.md",
+  "sourceDirName": "indexer/legacy",
+  "slug": "/indexer/legacy/indexer-legacy-migration-jp",
+  "permalink": "/ja/indexer/legacy/indexer-legacy-migration-jp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/legacy/migration-jp.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "トランザクション ストリーム サービスへの移行(Japanese)",
+    "slug": "indexer-legacy-migration-jp"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Migrate to Transaction Stream Service",
+    "permalink": "/ja/indexer/legacy/indexer-legacy-migration"
+  },
+  "next": {
+    "title": "Use Aptos SDKs",
+    "permalink": "/ja/sdks/index"
+  }
+}

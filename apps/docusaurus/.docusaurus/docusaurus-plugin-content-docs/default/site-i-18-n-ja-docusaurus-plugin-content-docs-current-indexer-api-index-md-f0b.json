@@ -1,0 +1,28 @@
+{
+  "id": "indexer/api/index",
+  "title": "インデクサーAPI",
+  "description": "このセクションには、aptosインデクサーAPIのドキュメントが含まれています。このAPIは、aptos-labs/aptos-indexer-processorsリポジトリで提供するプロセッサの標準セットに基づいて構築されています。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/indexer/api/index.md",
+  "sourceDirName": "indexer/api",
+  "slug": "/indexer/api/",
+  "permalink": "/indexer/api/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/api/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "2024年4月18日",
+  "frontMatter": {
+    "title": "インデクサーAPI"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "インデクサー",
+    "permalink": "/indexer/indexer-landing"
+  },
+  "next": {
+    "title": "ラボがホストするインデクサーAPI",
+    "permalink": "/indexer/api/labs-hosted"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "guides/transaction-management",
+  "title": "トランザクション管理",
+  "description": "このガイドは、Aptosブロックチェーン上で拡張出来るトランザクション管理ハーネスの構築方法について解説します。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/guides/transaction-management.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/transaction-management",
+  "permalink": "/guides/transaction-management",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/guides/transaction-management.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1716499078,
+  "formattedLastUpdatedAt": "2024年5月23日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "スポンサードトランザクション",
+    "permalink": "/guides/sponsored-transactions"
+  },
+  "next": {
+    "title": "認証キーのローテーション",
+    "permalink": "/guides/account-management/key-rotation"
+  }
+}

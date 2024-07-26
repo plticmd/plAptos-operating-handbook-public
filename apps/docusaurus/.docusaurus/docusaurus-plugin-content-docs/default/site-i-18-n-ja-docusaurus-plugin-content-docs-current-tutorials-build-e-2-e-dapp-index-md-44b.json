@@ -1,0 +1,29 @@
+{
+  "id": "tutorials/build-e2e-dapp/index",
+  "title": "Build E2E Dapp on Aptos",
+  "description": "A common way to learn a new framework or programming language is to build a simple todo list. In this tutorial, we will learn how to build an end-to-end todo list dapp, starting from the smart contract side through the front-end side and finally use of a wallet to interact with the two.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/tutorials/build-e2e-dapp/index.md",
+  "sourceDirName": "tutorials/build-e2e-dapp",
+  "slug": "/tutorials/build-e2e-dapp/e2e-dapp-index",
+  "permalink": "/tutorials/build-e2e-dapp/e2e-dapp-index",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tutorials/build-e2e-dapp/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Build E2E Dapp on Aptos",
+    "slug": "e2e-dapp-index"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Your First Multisig",
+    "permalink": "/tutorials/your-first-multisig"
+  },
+  "next": {
+    "title": "Move on Aptos",
+    "permalink": "/move/move-on-aptos"
+  }
+}

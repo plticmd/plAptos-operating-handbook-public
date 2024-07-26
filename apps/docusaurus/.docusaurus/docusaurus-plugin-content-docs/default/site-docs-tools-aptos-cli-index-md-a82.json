@@ -1,0 +1,30 @@
+{
+  "id": "tools/aptos-cli/index",
+  "title": "Aptos CLI",
+  "description": "The aptos tool is a command line interface (CLI) for developing on the Aptos blockchain, debugging, and for node operations. Please refer to the following documentation for more information:",
+  "source": "@site/docs/tools/aptos-cli/index.md",
+  "sourceDirName": "tools/aptos-cli",
+  "slug": "/tools/aptos-cli/",
+  "permalink": "/tools/aptos-cli/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tools/aptos-cli/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Aptos CLI",
+    "id": "index",
+    "hidden": false
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Unity SDK",
+    "permalink": "/sdks/unity-sdk/"
+  },
+  "next": {
+    "title": "Install the Aptos CLI",
+    "permalink": "/tools/aptos-cli/install-cli/"
+  }
+}

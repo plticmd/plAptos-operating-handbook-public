@@ -1,0 +1,30 @@
+{
+  "id": "reference/move",
+  "title": "参考文献",
+  "description": "",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/reference/move.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/move",
+  "permalink": "/reference/move",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/reference/move.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1720084421,
+  "formattedLastUpdatedAt": "2024年7月4日",
+  "frontMatter": {
+    "title": "参考文献",
+    "id": "move",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "refSidebar",
+  "previous": {
+    "title": "Aptos Error Codes",
+    "permalink": "/reference/error-codes"
+  },
+  "next": {
+    "title": "Aptos Glossary",
+    "permalink": "/reference/glossary"
+  }
+}

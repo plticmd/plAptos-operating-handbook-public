@@ -1,0 +1,953 @@
+{
+  "/search-4bd": {
+    "__comp": "1a4e3797",
+    "__context": {
+      "plugin": "fee885d0"
+    }
+  },
+  "/-64f": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "394021f4"
+    }
+  },
+  "/-4bc": {
+    "__comp": "a7bd4aaa",
+    "version": "935f2afb"
+  },
+  "/-90f": {
+    "__comp": "a94703ab"
+  },
+  "/apis/-026": {
+    "__comp": "17896441",
+    "content": "be73570f"
+  },
+  "/apis/aptos-labs-developer-portal-97f": {
+    "__comp": "17896441",
+    "content": "844a4513"
+  },
+  "/apis/fullnode-rest-api-e44": {
+    "__comp": "17896441",
+    "content": "218f9061"
+  },
+  "/aptos-white-paper/-1bc": {
+    "__comp": "17896441",
+    "content": "a6088246"
+  },
+  "/category/advanced-builders-8ce": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "0caecfc4"
+  },
+  "/community/-fa3": {
+    "__comp": "17896441",
+    "content": "e24dfa88"
+  },
+  "/community/aptos-style-39b": {
+    "__comp": "17896441",
+    "content": "671fd77a"
+  },
+  "/community/contributions/remix-ide-plugin-c31": {
+    "__comp": "17896441",
+    "content": "95325c8f"
+  },
+  "/community/contributors-959": {
+    "__comp": "17896441",
+    "content": "a0eaab9e"
+  },
+  "/community/external-resources-f09": {
+    "__comp": "17896441",
+    "content": "3f3c713d"
+  },
+  "/community/site-updates-02d": {
+    "__comp": "17896441",
+    "content": "71e761c1"
+  },
+  "/concepts/-d34": {
+    "__comp": "17896441",
+    "content": "36da4be3"
+  },
+  "/concepts/accounts-1ed": {
+    "__comp": "17896441",
+    "content": "bb47633e"
+  },
+  "/concepts/base-gas-74b": {
+    "__comp": "17896441",
+    "content": "df87bffd"
+  },
+  "/concepts/blockchain-ba5": {
+    "__comp": "17896441",
+    "content": "fe5601c1"
+  },
+  "/concepts/blocks-2f8": {
+    "__comp": "17896441",
+    "content": "9151ce77"
+  },
+  "/concepts/delegated-staking-9b8": {
+    "__comp": "17896441",
+    "content": "4dbb3a9c"
+  },
+  "/concepts/events-463": {
+    "__comp": "17896441",
+    "content": "536ac902"
+  },
+  "/concepts/fullnodes-2b1": {
+    "__comp": "17896441",
+    "content": "58b510e9"
+  },
+  "/concepts/gas-txn-fee-c80": {
+    "__comp": "17896441",
+    "content": "f46c57aa"
+  },
+  "/concepts/governance-d27": {
+    "__comp": "17896441",
+    "content": "37bc1693"
+  },
+  "/concepts/move-on-aptos-54f": {
+    "__comp": "17896441",
+    "content": "24a0f593"
+  },
+  "/concepts/node-networks-sync-fd8": {
+    "__comp": "17896441",
+    "content": "a018f6ec"
+  },
+  "/concepts/resources-806": {
+    "__comp": "17896441",
+    "content": "d621f31a"
+  },
+  "/concepts/staking-93a": {
+    "__comp": "17896441",
+    "content": "f8a92bbc"
+  },
+  "/concepts/txns-states-82e": {
+    "__comp": "17896441",
+    "content": "348f53cf"
+  },
+  "/concepts/validator-nodes-c09": {
+    "__comp": "17896441",
+    "content": "754d5079"
+  },
+  "/guides/account-management/key-rotation-6ab": {
+    "__comp": "17896441",
+    "content": "f33df91b"
+  },
+  "/guides/building-from-source-c35": {
+    "__comp": "17896441",
+    "content": "004fde4c"
+  },
+  "/guides/data-pruning-527": {
+    "__comp": "17896441",
+    "content": "7b9e7d93"
+  },
+  "/guides/explore-aptos-011": {
+    "__comp": "17896441",
+    "content": "e8a2bc34"
+  },
+  "/guides/keyless-accounts-7a2": {
+    "__comp": "17896441",
+    "content": "fe2451a1"
+  },
+  "/guides/local-development-network-6fd": {
+    "__comp": "17896441",
+    "content": "9ed61649"
+  },
+  "/guides/nfts/aptos-token-overview-776": {
+    "__comp": "17896441",
+    "content": "4b68f894"
+  },
+  "/guides/running-a-local-multi-node-network-16c": {
+    "__comp": "17896441",
+    "content": "ece46690"
+  },
+  "/guides/sponsored-transactions-7f7": {
+    "__comp": "17896441",
+    "content": "453d7096"
+  },
+  "/guides/state-sync-4be": {
+    "__comp": "17896441",
+    "content": "fe5f6b80"
+  },
+  "/guides/system-integrators-guide-10d": {
+    "__comp": "17896441",
+    "content": "693afc63"
+  },
+  "/guides/transaction-management-0fa": {
+    "__comp": "17896441",
+    "content": "b265a76d"
+  },
+  "/indexer/api/-877": {
+    "__comp": "17896441",
+    "content": "f0b40410"
+  },
+  "/indexer/api/example-queries-1e2": {
+    "__comp": "17896441",
+    "content": "550819ea"
+  },
+  "/indexer/api/labs-hosted-ad5": {
+    "__comp": "17896441",
+    "content": "551999ac"
+  },
+  "/indexer/api/self-hosted-c3f": {
+    "__comp": "17896441",
+    "content": "e4e73ce4"
+  },
+  "/indexer/api/usage-guide-ad0": {
+    "__comp": "17896441",
+    "content": "d9008914"
+  },
+  "/indexer/custom-processors/-b5b": {
+    "__comp": "17896441",
+    "content": "1dc8a9bc"
+  },
+  "/indexer/custom-processors/e2e-tutorial-a11": {
+    "__comp": "17896441",
+    "content": "11f307ad"
+  },
+  "/indexer/custom-processors/parsing-txns-098": {
+    "__comp": "17896441",
+    "content": "7e963abb"
+  },
+  "/indexer/indexer-landing-5cd": {
+    "__comp": "17896441",
+    "content": "2e8ed0c5"
+  },
+  "/indexer/legacy/-fc3": {
+    "__comp": "17896441",
+    "content": "8a66c854"
+  },
+  "/indexer/legacy/custom-data-model-71a": {
+    "__comp": "17896441",
+    "content": "16e8eaa7"
+  },
+  "/indexer/legacy/indexer-fullnode-cb7": {
+    "__comp": "17896441",
+    "content": "52d26245"
+  },
+  "/indexer/legacy/migration-c69": {
+    "__comp": "17896441",
+    "content": "3422401d"
+  },
+  "/indexer/txn-stream/-95b": {
+    "__comp": "17896441",
+    "content": "5c4aebb3"
+  },
+  "/indexer/txn-stream/labs-hosted-305": {
+    "__comp": "17896441",
+    "content": "3173094e"
+  },
+  "/indexer/txn-stream/local-development-34c": {
+    "__comp": "17896441",
+    "content": "941c65b6"
+  },
+  "/indexer/txn-stream/self-hosted-01d": {
+    "__comp": "17896441",
+    "content": "f73a465e"
+  },
+  "/integration/-315": {
+    "__comp": "17896441",
+    "content": "48ce31a0"
+  },
+  "/integration/aptos-names-service-package-069": {
+    "__comp": "17896441",
+    "content": "05b2ac44"
+  },
+  "/integration/wallet-adapter-concept-144": {
+    "__comp": "17896441",
+    "content": "ca9a7e02"
+  },
+  "/integration/wallet-adapter-for-dapp-b1d": {
+    "__comp": "17896441",
+    "content": "e4ec3b60"
+  },
+  "/integration/wallet-adapter-for-wallets-1ea": {
+    "__comp": "17896441",
+    "content": "236fe303"
+  },
+  "/move/aptos-move-6dd": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "346b7fe1"
+  },
+  "/move/book/abilities-e39": {
+    "__comp": "17896441",
+    "content": "0e2970f4"
+  },
+  "/move/book/abort-and-assert-5c9": {
+    "__comp": "17896441",
+    "content": "6abeceda"
+  },
+  "/move/book/address-50c": {
+    "__comp": "17896441",
+    "content": "b8b05480"
+  },
+  "/move/book/bool-fb9": {
+    "__comp": "17896441",
+    "content": "1043b9f2"
+  },
+  "/move/book/coding-conventions-e8a": {
+    "__comp": "17896441",
+    "content": "09901d6f"
+  },
+  "/move/book/conditionals-0b6": {
+    "__comp": "17896441",
+    "content": "1ab09d3c"
+  },
+  "/move/book/constants-d5a": {
+    "__comp": "17896441",
+    "content": "7e858a22"
+  },
+  "/move/book/creating-coins-588": {
+    "__comp": "17896441",
+    "content": "eea6c892"
+  },
+  "/move/book/equality-d21": {
+    "__comp": "17896441",
+    "content": "19bc7ad7"
+  },
+  "/move/book/friends-cff": {
+    "__comp": "17896441",
+    "content": "8762bc0d"
+  },
+  "/move/book/functions-f56": {
+    "__comp": "17896441",
+    "content": "0e54dca5"
+  },
+  "/move/book/generics-b97": {
+    "__comp": "17896441",
+    "content": "916f7536"
+  },
+  "/move/book/global-storage-operators-7f6": {
+    "__comp": "17896441",
+    "content": "26c54ab5"
+  },
+  "/move/book/global-storage-structure-43e": {
+    "__comp": "17896441",
+    "content": "26c22cd8"
+  },
+  "/move/book/integers-9d9": {
+    "__comp": "17896441",
+    "content": "02d26ce7"
+  },
+  "/move/book/introduction-307": {
+    "__comp": "17896441",
+    "content": "099ba9c5"
+  },
+  "/move/book/loops-8ea": {
+    "__comp": "17896441",
+    "content": "4e318335"
+  },
+  "/move/book/modules-and-scripts-db8": {
+    "__comp": "17896441",
+    "content": "57323db4"
+  },
+  "/move/book/package-upgrades-00d": {
+    "__comp": "17896441",
+    "content": "f0908191"
+  },
+  "/move/book/packages-7df": {
+    "__comp": "17896441",
+    "content": "c9148bc3"
+  },
+  "/move/book/references-673": {
+    "__comp": "17896441",
+    "content": "78d42e7e"
+  },
+  "/move/book/signer-3cb": {
+    "__comp": "17896441",
+    "content": "86f881d8"
+  },
+  "/move/book/standard-library-a49": {
+    "__comp": "17896441",
+    "content": "3056d0f1"
+  },
+  "/move/book/structs-and-resources-812": {
+    "__comp": "17896441",
+    "content": "ba2a4fc2"
+  },
+  "/move/book/SUMMARY-e36": {
+    "__comp": "17896441",
+    "content": "6b7133fb"
+  },
+  "/move/book/tuples-8d1": {
+    "__comp": "17896441",
+    "content": "8353c938"
+  },
+  "/move/book/unit-testing-add": {
+    "__comp": "17896441",
+    "content": "6bd3dce5"
+  },
+  "/move/book/uses-3ea": {
+    "__comp": "17896441",
+    "content": "71bdc933"
+  },
+  "/move/book/variables-a1b": {
+    "__comp": "17896441",
+    "content": "fbcafe26"
+  },
+  "/move/book/vector-722": {
+    "__comp": "17896441",
+    "content": "3d6c3f02"
+  },
+  "/move/move-on-aptos-dd0": {
+    "__comp": "17896441",
+    "content": "d9ebe76d"
+  },
+  "/move/move-on-aptos/cli-2dd": {
+    "__comp": "17896441",
+    "content": "12c65cc4"
+  },
+  "/move/move-on-aptos/cryptography-8d7": {
+    "__comp": "17896441",
+    "content": "563883fe"
+  },
+  "/move/move-on-aptos/gas-profiling-50e": {
+    "__comp": "17896441",
+    "content": "411b18c3"
+  },
+  "/move/move-on-aptos/modules-on-aptos-95f": {
+    "__comp": "17896441",
+    "content": "b313cc30"
+  },
+  "/move/move-on-aptos/move-security-guidelines-fe4": {
+    "__comp": "17896441",
+    "content": "ed0c94d0"
+  },
+  "/move/move-on-aptos/objects/-627": {
+    "__comp": "17896441",
+    "content": "3c0672dd"
+  },
+  "/move/move-on-aptos/objects/configuring-objects-c68": {
+    "__comp": "17896441",
+    "content": "7832bab6"
+  },
+  "/move/move-on-aptos/objects/creating-objects-28d": {
+    "__comp": "17896441",
+    "content": "e0e3275b"
+  },
+  "/move/move-on-aptos/objects/using-objects-14e": {
+    "__comp": "17896441",
+    "content": "837fc55b"
+  },
+  "/move/move-on-aptos/resource-accounts-2fc": {
+    "__comp": "17896441",
+    "content": "b984c409"
+  },
+  "/move/move-on-aptos/scripts/-866": {
+    "__comp": "17896441",
+    "content": "9a9a9005"
+  },
+  "/move/move-on-aptos/scripts/compiling-scripts-39e": {
+    "__comp": "17896441",
+    "content": "f068a1d6"
+  },
+  "/move/move-on-aptos/scripts/running-scripts-dd7": {
+    "__comp": "17896441",
+    "content": "24c48474"
+  },
+  "/move/move-on-aptos/scripts/script-tutorial-101": {
+    "__comp": "17896441",
+    "content": "a521bea2"
+  },
+  "/move/move-on-aptos/scripts/writing-scripts-062": {
+    "__comp": "17896441",
+    "content": "5ca4e34f"
+  },
+  "/move/prover/move-prover-bcd": {
+    "__comp": "17896441",
+    "content": "0675e3d4"
+  },
+  "/move/prover/prover-guide-70f": {
+    "__comp": "17896441",
+    "content": "d965caf2"
+  },
+  "/move/prover/spec-lang-0a5": {
+    "__comp": "17896441",
+    "content": "3120c443"
+  },
+  "/move/prover/supporting-resources-6f8": {
+    "__comp": "17896441",
+    "content": "98083275"
+  },
+  "/nodes/aptos-api-spec-b99": {
+    "__comp": "17896441",
+    "content": "c73f6f49"
+  },
+  "/nodes/configure/configure-index-08b": {
+    "__comp": "17896441",
+    "content": "d55e2b7b"
+  },
+  "/nodes/full-node/aptos-db-restore-2ff": {
+    "__comp": "17896441",
+    "content": "96253f0f"
+  },
+  "/nodes/full-node/bootstrap-fullnode-75f": {
+    "__comp": "17896441",
+    "content": "2702de74"
+  },
+  "/nodes/full-node/deployments/deploy-a-pfn-835": {
+    "__comp": "17896441",
+    "content": "a3961291"
+  },
+  "/nodes/full-node/deployments/deploy-a-pfn-docker-455": {
+    "__comp": "17896441",
+    "content": "2171e451"
+  },
+  "/nodes/full-node/deployments/deploy-a-pfn-gcp-f8f": {
+    "__comp": "17896441",
+    "content": "002b4737"
+  },
+  "/nodes/full-node/deployments/deploy-a-pfn-source-code-137": {
+    "__comp": "17896441",
+    "content": "11bee3d2"
+  },
+  "/nodes/full-node/fullnode-network-connections-79d": {
+    "__comp": "17896441",
+    "content": "54560719"
+  },
+  "/nodes/full-node/fullnode-source-code-or-docker-0b0": {
+    "__comp": "17896441",
+    "content": "c32cef16"
+  },
+  "/nodes/full-node/network-identity-fullnode-750": {
+    "__comp": "17896441",
+    "content": "c80c41fb"
+  },
+  "/nodes/full-node/pfn-requirements-125": {
+    "__comp": "17896441",
+    "content": "160da792"
+  },
+  "/nodes/full-node/public-fullnode-1de": {
+    "__comp": "17896441",
+    "content": "b647d9e8"
+  },
+  "/nodes/full-node/update-fullnode-with-new-devnet-releases-825": {
+    "__comp": "17896441",
+    "content": "3ee0d083"
+  },
+  "/nodes/full-node/verify-pfn-556": {
+    "__comp": "17896441",
+    "content": "a96a99e6"
+  },
+  "/nodes/identity-and-configuration-224": {
+    "__comp": "17896441",
+    "content": "b46d0e6e"
+  },
+  "/nodes/leaderboard-metrics-5eb": {
+    "__comp": "17896441",
+    "content": "517083ac"
+  },
+  "/nodes/localnet/localnet-index-7c3": {
+    "__comp": "17896441",
+    "content": "331b9baf"
+  },
+  "/nodes/localnet/run-a-localnet-f11": {
+    "__comp": "17896441",
+    "content": "8e492091"
+  },
+  "/nodes/measure/important-metrics-464": {
+    "__comp": "17896441",
+    "content": "b84d5514"
+  },
+  "/nodes/measure/measure-index-acb": {
+    "__comp": "17896441",
+    "content": "2e56658c"
+  },
+  "/nodes/measure/node-health-checker-e26": {
+    "__comp": "17896441",
+    "content": "eb5c56f1"
+  },
+  "/nodes/measure/node-health-checker-faq-637": {
+    "__comp": "17896441",
+    "content": "ec724914"
+  },
+  "/nodes/measure/node-inspection-service-7d7": {
+    "__comp": "17896441",
+    "content": "386128f6"
+  },
+  "/nodes/modify/modify-index-8b5": {
+    "__comp": "17896441",
+    "content": "7c336d0b"
+  },
+  "/nodes/networks-7f4": {
+    "__comp": "17896441",
+    "content": "d0c89c29"
+  },
+  "/nodes/node-files-all-networks/node-files-4d0": {
+    "__comp": "17896441",
+    "content": "4da26fca"
+  },
+  "/nodes/node-files-all-networks/node-files-devnet-5f9": {
+    "__comp": "17896441",
+    "content": "fe29164e"
+  },
+  "/nodes/node-files-all-networks/node-files-index-66c": {
+    "__comp": "17896441",
+    "content": "33398c4f"
+  },
+  "/nodes/node-files-all-networks/node-files-testnet-2ae": {
+    "__comp": "17896441",
+    "content": "e8dd112f"
+  },
+  "/nodes/nodes-landing-333": {
+    "__comp": "17896441",
+    "content": "52ee375e"
+  },
+  "/nodes/operations/operations-index-c74": {
+    "__comp": "17896441",
+    "content": "1fbf0c92"
+  },
+  "/nodes/validator-node/operator/connect-nodes/connect-validator-node-ae3": {
+    "__comp": "17896441",
+    "content": "aa8ff1c8"
+  },
+  "/nodes/validator-node/operator/connect-to-aptos-network-e5f": {
+    "__comp": "17896441",
+    "content": "5f66a6f2"
+  },
+  "/nodes/validator-node/operator/delegation-pool-operations-d48": {
+    "__comp": "17896441",
+    "content": "73a4a9b4"
+  },
+  "/nodes/validator-node/operator/index-406": {
+    "__comp": "17896441",
+    "content": "976105c9"
+  },
+  "/nodes/validator-node/operator/modify-nodes/modify-validator-node-be9": {
+    "__comp": "17896441",
+    "content": "b050c8b6"
+  },
+  "/nodes/validator-node/operator/node-liveness-criteria-cb2": {
+    "__comp": "17896441",
+    "content": "0c2ce43d"
+  },
+  "/nodes/validator-node/operator/node-requirements-7c0": {
+    "__comp": "17896441",
+    "content": "2a6b6d23"
+  },
+  "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-aws-c86": {
+    "__comp": "17896441",
+    "content": "b106193e"
+  },
+  "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-azure-e5a": {
+    "__comp": "17896441",
+    "content": "75c03df7"
+  },
+  "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-docker-84c": {
+    "__comp": "17896441",
+    "content": "c3b77630"
+  },
+  "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-gcp-cda": {
+    "__comp": "17896441",
+    "content": "e5615691"
+  },
+  "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-source-5cc": {
+    "__comp": "17896441",
+    "content": "5fa97407"
+  },
+  "/nodes/validator-node/operator/running-validator-node/running-validator-node-23c": {
+    "__comp": "17896441",
+    "content": "608aa6cd"
+  },
+  "/nodes/validator-node/operator/shutting-down-nodes-bde": {
+    "__comp": "17896441",
+    "content": "b12cff73"
+  },
+  "/nodes/validator-node/operator/staking-pool-operations-e18": {
+    "__comp": "17896441",
+    "content": "c78099aa"
+  },
+  "/nodes/validator-node/operator/update-validator-node-232": {
+    "__comp": "17896441",
+    "content": "92e0dab3"
+  },
+  "/nodes/validator-node/operator/verify-nodes/verify-validator-node-8df": {
+    "__comp": "17896441",
+    "content": "e33c7811"
+  },
+  "/nodes/validator-node/validators-49d": {
+    "__comp": "17896441",
+    "content": "3443d808"
+  },
+  "/nodes/validator-node/voter/index-007": {
+    "__comp": "17896441",
+    "content": "cbd8480b"
+  },
+  "/reference/error-codes-a84": {
+    "__comp": "17896441",
+    "content": "2b20ef8e"
+  },
+  "/reference/glossary-3f8": {
+    "__comp": "17896441",
+    "content": "ac873df1"
+  },
+  "/reference/move-48b": {
+    "__comp": "17896441",
+    "content": "3abb098d"
+  },
+  "/reference/telemetry-264": {
+    "__comp": "17896441",
+    "content": "2b425bf7"
+  },
+  "/releases/aptos-releases-c88": {
+    "__comp": "17896441",
+    "content": "8a1379bd"
+  },
+  "/sdks/index-c41": {
+    "__comp": "17896441",
+    "content": "92d6d6b4"
+  },
+  "/sdks/legacy-ts-sdk/index-c45": {
+    "__comp": "17896441",
+    "content": "345c0ee1"
+  },
+  "/sdks/legacy-ts-sdk/typescript-sdk-aptos-client-class-cd0": {
+    "__comp": "17896441",
+    "content": "19fd9331"
+  },
+  "/sdks/legacy-ts-sdk/typescript-sdk-client-layer-91d": {
+    "__comp": "17896441",
+    "content": "94b30d93"
+  },
+  "/sdks/legacy-ts-sdk/typescript-sdk-core-layer-8fc": {
+    "__comp": "17896441",
+    "content": "36935325"
+  },
+  "/sdks/legacy-ts-sdk/typescript-sdk-indexer-client-class-e2b": {
+    "__comp": "17896441",
+    "content": "40ddfde8"
+  },
+  "/sdks/legacy-ts-sdk/typescript-sdk-overview-668": {
+    "__comp": "17896441",
+    "content": "f6914a1f"
+  },
+  "/sdks/legacy-ts-sdk/typescript-sdk-plugins-layer-444": {
+    "__comp": "17896441",
+    "content": "f94e837f"
+  },
+  "/sdks/legacy-ts-sdk/typescript-sdk-tests-87c": {
+    "__comp": "17896441",
+    "content": "673025ef"
+  },
+  "/sdks/python-sdk/-339": {
+    "__comp": "17896441",
+    "content": "165ef1ac"
+  },
+  "/sdks/rust-sdk/-da7": {
+    "__comp": "17896441",
+    "content": "bf1e2193"
+  },
+  "/sdks/ts-sdk/-419": {
+    "__comp": "17896441",
+    "content": "dcbee1d6"
+  },
+  "/sdks/ts-sdk/account-f4a": {
+    "__comp": "17896441",
+    "content": "0a89f6d8"
+  },
+  "/sdks/ts-sdk/fetch-data-from-chain-b47": {
+    "__comp": "17896441",
+    "content": "1c76d025"
+  },
+  "/sdks/ts-sdk/http-client-dd0": {
+    "__comp": "17896441",
+    "content": "971d2e03"
+  },
+  "/sdks/ts-sdk/migration-guide-a22": {
+    "__comp": "17896441",
+    "content": "74c5ee42"
+  },
+  "/sdks/ts-sdk/move-types-5a8": {
+    "__comp": "17896441",
+    "content": "03d838ec"
+  },
+  "/sdks/ts-sdk/sdk-configuration-98f": {
+    "__comp": "17896441",
+    "content": "7199c2f5"
+  },
+  "/sdks/ts-sdk/testing-b36": {
+    "__comp": "17896441",
+    "content": "8dcdf678"
+  },
+  "/sdks/ts-sdk/transaction-builder-06f": {
+    "__comp": "17896441",
+    "content": "40d9c2ca"
+  },
+  "/sdks/ts-sdk/typescript-8c9": {
+    "__comp": "17896441",
+    "content": "50344274"
+  },
+  "/sdks/unity-sdk/-88e": {
+    "__comp": "17896441",
+    "content": "222b0578"
+  },
+  "/standards/-efd": {
+    "__comp": "17896441",
+    "content": "8ed313aa"
+  },
+  "/standards/aptos-coin-280": {
+    "__comp": "17896441",
+    "content": "58a49d0e"
+  },
+  "/standards/aptos-object-7f5": {
+    "__comp": "17896441",
+    "content": "771365b9"
+  },
+  "/standards/aptos-token-d01": {
+    "__comp": "17896441",
+    "content": "629ef564"
+  },
+  "/standards/digital-asset-a28": {
+    "__comp": "17896441",
+    "content": "642c7dea"
+  },
+  "/standards/fungible-asset-52f": {
+    "__comp": "17896441",
+    "content": "f7eb9801"
+  },
+  "/standards/multisig-managed-fungible-asset-63a": {
+    "__comp": "17896441",
+    "content": "b6a1544a"
+  },
+  "/standards/wallets-dfe": {
+    "__comp": "17896441",
+    "content": "df81ca2b"
+  },
+  "/tools/aptos-cli/-5e5": {
+    "__comp": "17896441",
+    "content": "ae3e7a59"
+  },
+  "/tools/aptos-cli/install-cli/-e73": {
+    "__comp": "17896441",
+    "content": "48ef0b47"
+  },
+  "/tools/aptos-cli/install-cli/automated-install-4bc": {
+    "__comp": "17896441",
+    "content": "d4a8ab96"
+  },
+  "/tools/aptos-cli/install-cli/build-from-source-314": {
+    "__comp": "17896441",
+    "content": "d3ed68c8"
+  },
+  "/tools/aptos-cli/install-cli/download-cli-binaries-524": {
+    "__comp": "17896441",
+    "content": "fe91d697"
+  },
+  "/tools/aptos-cli/install-cli/install-from-brew-2e0": {
+    "__comp": "17896441",
+    "content": "f164445d"
+  },
+  "/tools/aptos-cli/install-cli/install-move-prover-df9": {
+    "__comp": "17896441",
+    "content": "a4b53ccc"
+  },
+  "/tools/aptos-cli/use-cli/cli-account-ba1": {
+    "__comp": "17896441",
+    "content": "7cf50120"
+  },
+  "/tools/aptos-cli/use-cli/cli-configuration-188": {
+    "__comp": "17896441",
+    "content": "7d070218"
+  },
+  "/tools/aptos-cli/use-cli/cli-genesis-1a4": {
+    "__comp": "17896441",
+    "content": "5306a6b1"
+  },
+  "/tools/aptos-cli/use-cli/cli-key-aaa": {
+    "__comp": "17896441",
+    "content": "85ff2eab"
+  },
+  "/tools/aptos-cli/use-cli/cli-node-73c": {
+    "__comp": "17896441",
+    "content": "61b3b142"
+  },
+  "/tools/aptos-cli/use-cli/move-tutorials/arguments-in-json-tutorial-cec": {
+    "__comp": "17896441",
+    "content": "d23c03ce"
+  },
+  "/tools/aptos-cli/use-cli/move-tutorials/multi-signature-tutorial-ad5": {
+    "__comp": "17896441",
+    "content": "4f042645"
+  },
+  "/tools/aptos-cli/use-cli/public-network/run-public-network-3f9": {
+    "__comp": "17896441",
+    "content": "52740be1"
+  },
+  "/tools/aptos-cli/use-cli/running-a-local-network-c5f": {
+    "__comp": "17896441",
+    "content": "34eddf67"
+  },
+  "/tools/aptos-cli/use-cli/use-aptos-cli-52e": {
+    "__comp": "17896441",
+    "content": "f8b2232a"
+  },
+  "/tools/aptos-cli/use-cli/use-aptos-ledger-959": {
+    "__comp": "17896441",
+    "content": "e8fe9c32"
+  },
+  "/tools/aptos-cli/use-cli/working-with-move-contracts-2c3": {
+    "__comp": "17896441",
+    "content": "a0dc4d43"
+  },
+  "/tutorials/-b35": {
+    "__comp": "17896441",
+    "content": "c2855e17"
+  },
+  "/tutorials/build-e2e-dapp/add-wallet-support-b91": {
+    "__comp": "17896441",
+    "content": "256cd9cc"
+  },
+  "/tutorials/build-e2e-dapp/create-a-smart-contract-223": {
+    "__comp": "17896441",
+    "content": "f4e0ab14"
+  },
+  "/tutorials/build-e2e-dapp/e2e-dapp-index-76c": {
+    "__comp": "17896441",
+    "content": "44bde364"
+  },
+  "/tutorials/build-e2e-dapp/fetch-data-from-chain-fa8": {
+    "__comp": "17896441",
+    "content": "987a0d23"
+  },
+  "/tutorials/build-e2e-dapp/handle-tasks-d0b": {
+    "__comp": "17896441",
+    "content": "f43492fe"
+  },
+  "/tutorials/build-e2e-dapp/set-up-react-app-7aa": {
+    "__comp": "17896441",
+    "content": "8d059895"
+  },
+  "/tutorials/build-e2e-dapp/submit-data-to-chain-3c8": {
+    "__comp": "17896441",
+    "content": "3dfda0ab"
+  },
+  "/tutorials/first-move-module-841": {
+    "__comp": "17896441",
+    "content": "45223d50"
+  },
+  "/tutorials/programmatic-upgradeable-module-bfb": {
+    "__comp": "17896441",
+    "content": "b995239d"
+  },
+  "/tutorials/your-first-coin-4de": {
+    "__comp": "17896441",
+    "content": "0ab35031"
+  },
+  "/tutorials/your-first-fungible-asset-78f": {
+    "__comp": "17896441",
+    "content": "ed9b6119"
+  },
+  "/tutorials/your-first-multisig-08f": {
+    "__comp": "17896441",
+    "content": "4c292755"
+  },
+  "/tutorials/your-first-nft-701": {
+    "__comp": "17896441",
+    "content": "f15126da"
+  },
+  "/tutorials/your-first-transaction-7b6": {
+    "__comp": "17896441",
+    "content": "0ec0f17e"
+  },
+  "/-dc5": {
+    "__comp": "17896441",
+    "content": "2b975244"
+  }
+}

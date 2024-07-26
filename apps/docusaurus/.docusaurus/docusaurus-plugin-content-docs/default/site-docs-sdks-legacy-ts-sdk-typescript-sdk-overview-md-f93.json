@@ -1,0 +1,29 @@
+{
+  "id": "sdks/legacy-ts-sdk/typescript-sdk-overview",
+  "title": "TypeScript SDK Architecture",
+  "description": "This document describes the main features and components of the Aptos TypeScript SDK.",
+  "source": "@site/docs/sdks/legacy-ts-sdk/typescript-sdk-overview.md",
+  "sourceDirName": "sdks/legacy-ts-sdk",
+  "slug": "/sdks/legacy-ts-sdk/typescript-sdk-overview",
+  "permalink": "/sdks/legacy-ts-sdk/typescript-sdk-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/legacy-ts-sdk/typescript-sdk-overview.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "TypeScript SDK Architecture",
+    "slug": "typescript-sdk-overview"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "TypeScript Index",
+    "permalink": "/sdks/legacy-ts-sdk/index"
+  },
+  "next": {
+    "title": "API Client Layer",
+    "permalink": "/sdks/legacy-ts-sdk/typescript-sdk-client-layer"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "move/move-on-aptos/cli",
+  "title": "Aptos CLI",
+  "description": "The aptos tool is a command line interface (CLI) for developing on the Aptos blockchain, debugging, and for node operations. This document describes how to use the aptos CLI tool. To download or build the CLI, follow Install Aptos CLI.",
+  "source": "@site/docs/move/move-on-aptos/cli.md",
+  "sourceDirName": "move/move-on-aptos",
+  "slug": "/move/move-on-aptos/cli",
+  "permalink": "/move/move-on-aptos/cli",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/move-on-aptos/cli.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Aptos CLI"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Modules on Aptos",
+    "permalink": "/move/move-on-aptos/modules-on-aptos"
+  },
+  "next": {
+    "title": "Cryptography",
+    "permalink": "/move/move-on-aptos/cryptography"
+  }
+}

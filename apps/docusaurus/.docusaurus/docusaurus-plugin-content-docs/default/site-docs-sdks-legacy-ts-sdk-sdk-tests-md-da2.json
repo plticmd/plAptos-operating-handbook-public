@@ -1,0 +1,29 @@
+{
+  "id": "sdks/legacy-ts-sdk/sdk-tests",
+  "title": "Tests and Validation",
+  "description": "The TypeScript SDK uses two types of tests, e2e and unit tests, located under the src/tests/ folder:",
+  "source": "@site/docs/sdks/legacy-ts-sdk/sdk-tests.md",
+  "sourceDirName": "sdks/legacy-ts-sdk",
+  "slug": "/sdks/legacy-ts-sdk/typescript-sdk-tests",
+  "permalink": "/sdks/legacy-ts-sdk/typescript-sdk-tests",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/legacy-ts-sdk/sdk-tests.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Tests and Validation",
+    "slug": "typescript-sdk-tests"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Plugins Layer",
+    "permalink": "/sdks/legacy-ts-sdk/typescript-sdk-plugins-layer"
+  },
+  "next": {
+    "title": "Python SDK",
+    "permalink": "/sdks/python-sdk/"
+  }
+}

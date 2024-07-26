@@ -1,0 +1,28 @@
+{
+  "id": "indexer/custom-processors/parsing-txns",
+  "title": "トランザクションの解析",
+  "description": "<!--",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/indexer/custom-processors/parsing-txns.md",
+  "sourceDirName": "indexer/custom-processors",
+  "slug": "/indexer/custom-processors/parsing-txns",
+  "permalink": "/indexer/custom-processors/parsing-txns",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/custom-processors/parsing-txns.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "2024年4月18日",
+  "frontMatter": {
+    "title": "トランザクションの解析"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "End-to-Endチュートリアル",
+    "permalink": "/indexer/custom-processors/e2e-tutorial"
+  },
+  "next": {
+    "title": "トランザクションストリームサービス",
+    "permalink": "/indexer/txn-stream/"
+  }
+}

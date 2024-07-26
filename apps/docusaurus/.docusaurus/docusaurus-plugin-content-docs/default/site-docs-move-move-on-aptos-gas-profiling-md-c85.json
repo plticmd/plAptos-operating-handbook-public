@@ -1,0 +1,28 @@
+{
+  "id": "move/move-on-aptos/gas-profiling",
+  "title": "Gas Profiling",
+  "description": "The Aptos Gas Profiler is a powerful tool that can help you understand the gas usage of Aptos transactions.",
+  "source": "@site/docs/move/move-on-aptos/gas-profiling.md",
+  "sourceDirName": "move/move-on-aptos",
+  "slug": "/move/move-on-aptos/gas-profiling",
+  "permalink": "/move/move-on-aptos/gas-profiling",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/move-on-aptos/gas-profiling.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Gas Profiling"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Cryptography",
+    "permalink": "/move/move-on-aptos/cryptography"
+  },
+  "next": {
+    "title": "Security",
+    "permalink": "/move/move-on-aptos/move-security-guidelines"
+  }
+}

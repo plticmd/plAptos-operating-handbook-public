@@ -1,0 +1,29 @@
+{
+  "id": "apis/aptos-labs-developer-portal-jp",
+  "title": "Aptosラボ開発者ポータル (in Japanese)",
+  "description": "Aptosラボ開発者ポータルは、Aptosラボ提供のAPIに素早く簡単にアクセスするためのゲートウェイで、あなたのdappを強化します。Aptosラボが運営するポータル(UI)と一連のAPIゲートウェイで構成されます。",
+  "source": "@site/docs/apis/aptos-labs-developer-portal-jp.md",
+  "sourceDirName": "apis",
+  "slug": "/apis/apis-aptos-labs-developer-portal-jp",
+  "permalink": "/ja/apis/apis-aptos-labs-developer-portal-jp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/apis/aptos-labs-developer-portal-jp.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "Aptosラボ開発者ポータル (in Japanese)",
+    "slug": "apis-aptos-labs-developer-portal-jp"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Aptos Labs Developer Portal",
+    "permalink": "/ja/apis/apis-aptos-labs-developer-portal"
+  },
+  "next": {
+    "title": "Learn about Indexing",
+    "permalink": "/ja/indexer/indexer-indexer-landing"
+  }
+}

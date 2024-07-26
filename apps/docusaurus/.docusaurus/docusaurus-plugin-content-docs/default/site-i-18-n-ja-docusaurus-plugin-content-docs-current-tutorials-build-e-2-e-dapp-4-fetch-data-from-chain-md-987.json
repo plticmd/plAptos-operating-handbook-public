@@ -1,0 +1,30 @@
+{
+  "id": "tutorials/build-e2e-dapp/fetch-data-from-chain",
+  "title": "4. Fetch Data from Chain",
+  "description": "In the fourth chapter of the tutorial on building an end-to-end dapp on Aptos, you will be learning to fetch data from chain.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/tutorials/build-e2e-dapp/4-fetch-data-from-chain.md",
+  "sourceDirName": "tutorials/build-e2e-dapp",
+  "slug": "/tutorials/build-e2e-dapp/fetch-data-from-chain",
+  "permalink": "/tutorials/build-e2e-dapp/fetch-data-from-chain",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tutorials/build-e2e-dapp/4-fetch-data-from-chain.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "4. Fetch Data from Chain",
+    "id": "fetch-data-from-chain"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "3. Add Wallet Support",
+    "permalink": "/tutorials/build-e2e-dapp/add-wallet-support"
+  },
+  "next": {
+    "title": "5. Submit Data to Chain",
+    "permalink": "/tutorials/build-e2e-dapp/submit-data-to-chain"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "integration/aptos-names-service-package",
+  "title": "Integrate with Aptos Names Service",
+  "description": "The Aptos Name Service provides a React UI package that offers developers a customizable button and modal to enable users to search for and mint Aptos names directly from their website.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/integration/aptos-name-service-connector.md",
+  "sourceDirName": "integration",
+  "slug": "/integration/aptos-names-service-package",
+  "permalink": "/ja/integration/aptos-names-service-package",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/integration/aptos-name-service-connector.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "Integrate with Aptos Names Service",
+    "id": "aptos-names-service-package"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "For Wallets",
+    "permalink": "/ja/integration/wallet-adapter-for-wallets"
+  },
+  "next": {
+    "title": "Aptos Error Codes",
+    "permalink": "/ja/reference/error-codes"
+  }
+}

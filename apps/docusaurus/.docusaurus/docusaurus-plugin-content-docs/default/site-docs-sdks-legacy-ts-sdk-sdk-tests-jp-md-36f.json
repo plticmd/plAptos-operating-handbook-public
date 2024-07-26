@@ -1,0 +1,29 @@
+{
+  "id": "sdks/legacy-ts-sdk/sdk-tests-jp",
+  "title": "日本語 (in japanese)",
+  "description": "TypeScriptSDKは、src/tests/フォルダー下にあるe2eとunitの2種類のテストを使用します。",
+  "source": "@site/docs/sdks/legacy-ts-sdk/sdk-tests-jp.md",
+  "sourceDirName": "sdks/legacy-ts-sdk",
+  "slug": "/sdks/legacy-ts-sdk/typescript-sdk-tests-jp",
+  "permalink": "/ja/sdks/legacy-ts-sdk/typescript-sdk-tests-jp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/legacy-ts-sdk/sdk-tests-jp.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "日本語 (in japanese)",
+    "slug": "typescript-sdk-tests-jp"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Tests and Validation",
+    "permalink": "/ja/sdks/legacy-ts-sdk/typescript-sdk-tests"
+  },
+  "next": {
+    "title": "Python SDK",
+    "permalink": "/ja/sdks/python-sdk/"
+  }
+}

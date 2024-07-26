@@ -1,0 +1,28 @@
+{
+  "id": "concepts/gas-txn-fee",
+  "title": "Gas and Storage Fees",
+  "description": "Any transaction execution on the Aptos blockchain requires a processing fee. As of today, this fee comprises two components:",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/concepts/gas-txn-fee.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/gas-txn-fee",
+  "permalink": "/concepts/gas-txn-fee",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/concepts/gas-txn-fee.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Gas and Storage Fees"
+  },
+  "sidebar": "aptosSidebar",
+  "previous": {
+    "title": "Transactions and States",
+    "permalink": "/concepts/txns-states"
+  },
+  "next": {
+    "title": "Computing Transaction Gas",
+    "permalink": "/concepts/base-gas"
+  }
+}

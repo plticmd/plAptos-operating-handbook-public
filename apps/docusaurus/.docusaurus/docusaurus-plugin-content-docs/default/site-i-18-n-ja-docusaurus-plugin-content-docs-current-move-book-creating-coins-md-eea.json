@@ -1,0 +1,26 @@
+{
+  "id": "move/book/creating-coins",
+  "title": "Moveチュートリアル",
+  "description": "Moveコア言語チュートリアルを参照して下さい。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/creating-coins.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/creating-coins",
+  "permalink": "/move/book/creating-coins",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/creating-coins.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1718709339,
+  "formattedLastUpdatedAt": "2024年6月18日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Modules and Scripts",
+    "permalink": "/move/book/modules-and-scripts"
+  },
+  "next": {
+    "title": "整数(インテジャー)",
+    "permalink": "/move/book/integers"
+  }
+}

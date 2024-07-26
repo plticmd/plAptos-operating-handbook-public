@@ -1,0 +1,26 @@
+{
+  "id": "move/book/integers",
+  "title": "整数(インテジャー)",
+  "description": "Moveはu8、u16、u32、u64、u128、u256の6つの符号無し整数型をサポートします。これらの型の値は、0から型のサイズに応じた最大値までの範囲となります。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/integers.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/integers",
+  "permalink": "/move/book/integers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/integers.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1720084421,
+  "formattedLastUpdatedAt": "2024年7月4日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Moveチュートリアル",
+    "permalink": "/move/book/creating-coins"
+  },
+  "next": {
+    "title": "ブール",
+    "permalink": "/move/book/bool"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "sdks/ts-sdk/move-types",
+  "title": "Move Types",
+  "description": "When developing on Aptos, and specifically working with the SDK, developers often need to handle Move types serialization and deserialization. Whether is to construct a transaction payload, build a raw transaction or read BCS data.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/sdks/ts-sdk/move-types.md",
+  "sourceDirName": "sdks/ts-sdk",
+  "slug": "/sdks/ts-sdk/move-types",
+  "permalink": "/sdks/ts-sdk/move-types",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/ts-sdk/move-types.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Move Types"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "HTTP Client",
+    "permalink": "/sdks/ts-sdk/http-client"
+  },
+  "next": {
+    "title": "Testing",
+    "permalink": "/sdks/ts-sdk/testing"
+  }
+}

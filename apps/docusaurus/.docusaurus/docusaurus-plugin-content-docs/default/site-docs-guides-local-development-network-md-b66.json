@@ -1,0 +1,28 @@
+{
+  "id": "guides/local-development-network",
+  "title": "Run a Local Development Network",
+  "description": "You can run the Aptos network locally. This local network will not be connected to any production Aptos network (e.g. mainnet), it will run on your local machine, independent of other Aptos networks. Building against a local network has a few advantages:",
+  "source": "@site/docs/guides/local-development-network.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/local-development-network",
+  "permalink": "/guides/local-development-network",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/guides/local-development-network.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Run a Local Development Network"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Develop with Localnet",
+    "permalink": "/nodes/localnet/localnet-index"
+  },
+  "next": {
+    "title": "Run a Localnet with Validator",
+    "permalink": "/nodes/localnet/run-a-localnet"
+  }
+}

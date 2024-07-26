@@ -1,0 +1,24 @@
+{
+  "id": "aptos-white-paper/index",
+  "title": "Aptos White Paper",
+  "description": "A Safe, Scalable, and Upgradeable Web3 Infrastructure",
+  "source": "@site/docs/aptos-white-paper/index.md",
+  "sourceDirName": "aptos-white-paper",
+  "slug": "/aptos-white-paper/",
+  "permalink": "/aptos-white-paper/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/aptos-white-paper/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Aptos White Paper"
+  },
+  "sidebar": "aptosSidebar",
+  "previous": {
+    "title": "Networks",
+    "permalink": "/nodes/networks"
+  }
+}

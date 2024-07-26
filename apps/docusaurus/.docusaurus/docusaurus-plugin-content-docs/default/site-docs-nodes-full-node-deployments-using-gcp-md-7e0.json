@@ -1,0 +1,29 @@
+{
+  "id": "nodes/full-node/deployments/using-gcp",
+  "title": "Using GCP",
+  "description": "This tutorial explains how to configure and deploy a PFN using Google Cloud (GCP). Running a PFN in the cloud",
+  "source": "@site/docs/nodes/full-node/deployments/using-gcp.md",
+  "sourceDirName": "nodes/full-node/deployments",
+  "slug": "/nodes/full-node/deployments/deploy-a-pfn-gcp",
+  "permalink": "/nodes/full-node/deployments/deploy-a-pfn-gcp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/full-node/deployments/using-gcp.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Using GCP",
+    "slug": "deploy-a-pfn-gcp"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Using Docker",
+    "permalink": "/nodes/full-node/deployments/deploy-a-pfn-docker"
+  },
+  "next": {
+    "title": "Verify a PFN",
+    "permalink": "/nodes/full-node/verify-pfn"
+  }
+}

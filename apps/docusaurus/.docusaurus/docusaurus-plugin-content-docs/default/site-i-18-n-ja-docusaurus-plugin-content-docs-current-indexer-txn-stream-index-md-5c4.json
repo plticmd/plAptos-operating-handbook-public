@@ -1,0 +1,28 @@
+{
+  "id": "indexer/txn-stream/index",
+  "title": "トランザクションストリームサービス",
+  "description": "トランザクションストリームサービスは、Aptosブロックチェーンに注目し、ブロックチェーン処理中にトランザクションを発行するサービスです。これらのドキュメントでは、このシステムがどのように機能するか、Labs-Hostedインスタンスの使用方法、およびそれを自分でデプロイする方法について解説します。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/indexer/txn-stream/index.md",
+  "sourceDirName": "indexer/txn-stream",
+  "slug": "/indexer/txn-stream/",
+  "permalink": "/indexer/txn-stream/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/txn-stream/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "2024年4月18日",
+  "frontMatter": {
+    "title": "トランザクションストリームサービス"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "トランザクションの解析",
+    "permalink": "/indexer/custom-processors/parsing-txns"
+  },
+  "next": {
+    "title": "ラボがホストするトランザクション ストリームサービス",
+    "permalink": "/indexer/txn-stream/labs-hosted"
+  }
+}

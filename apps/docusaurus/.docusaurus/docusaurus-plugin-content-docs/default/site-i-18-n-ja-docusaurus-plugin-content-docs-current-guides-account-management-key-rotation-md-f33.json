@@ -1,0 +1,29 @@
+{
+  "id": "guides/account-management/key-rotation",
+  "title": "認証キーのローテーション",
+  "description": "Aptos Moveアカウントには、公開アドレス、認証キー、公開鍵、秘密鍵があります。公開アドレスは永久であり、常にアカウントの初期認証キーと一致します。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/guides/account-management/key-rotation.md",
+  "sourceDirName": "guides/account-management",
+  "slug": "/guides/account-management/key-rotation",
+  "permalink": "/guides/account-management/key-rotation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/guides/account-management/key-rotation.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1716499078,
+  "formattedLastUpdatedAt": "2024年5月23日",
+  "frontMatter": {
+    "title": "認証キーのローテーション",
+    "id": "key-rotation"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "トランザクション管理",
+    "permalink": "/guides/transaction-management"
+  },
+  "next": {
+    "title": "Building Aptos From Source",
+    "permalink": "/guides/building-from-source"
+  }
+}

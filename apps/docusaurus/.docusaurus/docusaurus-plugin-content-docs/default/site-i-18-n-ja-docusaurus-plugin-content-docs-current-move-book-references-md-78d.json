@@ -1,0 +1,26 @@
+{
+  "id": "move/book/references",
+  "title": "参照",
+  "description": "Moveには2種類の参照があります:不変の&と可変の&mutです。不変参照は読み取り専用で、基となる値(またはその任意のフィールド)を変更出来ません。可変参照では、その参照の書き込みを介して変更が可能です。Moveの型システムは、参照エラーを防ぐ所有権の規則を強制します。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/references.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/references",
+  "permalink": "/move/book/references",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/references.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1721049661,
+  "formattedLastUpdatedAt": "2024年7月15日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "signer(署名者)",
+    "permalink": "/move/book/signer"
+  },
+  "next": {
+    "title": "タプルとユニット",
+    "permalink": "/move/book/tuples"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tools/aptos-cli/install-cli/automated-install",
+  "title": "Install CLI by Script",
+  "description": "The aptos tool is a command line interface (CLI) for developing on the Aptos blockchain, debugging Move contracts, and conducting node operations. This document describes how to install the aptos CLI tool using the automated install script.",
+  "source": "@site/docs/tools/aptos-cli/install-cli/automated-install.md",
+  "sourceDirName": "tools/aptos-cli/install-cli",
+  "slug": "/tools/aptos-cli/install-cli/automated-install",
+  "permalink": "/tools/aptos-cli/install-cli/automated-install",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tools/aptos-cli/install-cli/automated-install.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Install CLI by Script"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Install the Aptos CLI",
+    "permalink": "/tools/aptos-cli/install-cli/"
+  },
+  "next": {
+    "title": "Download CLI Binaries",
+    "permalink": "/tools/aptos-cli/install-cli/download-cli-binaries"
+  }
+}

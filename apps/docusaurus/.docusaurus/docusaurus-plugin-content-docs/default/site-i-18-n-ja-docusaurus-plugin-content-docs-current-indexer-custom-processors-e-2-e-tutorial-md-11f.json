@@ -1,0 +1,28 @@
+{
+  "id": "indexer/custom-processors/e2e-tutorial",
+  "title": "End-to-Endチュートリアル",
+  "description": "このチュートリアルでは、基本的なカスタムインデクサープロセッサーを作成しAptosブロックチェーン上のイベントとデータを追跡する手順を解説します。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/indexer/custom-processors/e2e-tutorial.md",
+  "sourceDirName": "indexer/custom-processors",
+  "slug": "/indexer/custom-processors/e2e-tutorial",
+  "permalink": "/indexer/custom-processors/e2e-tutorial",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/custom-processors/e2e-tutorial.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "2024年4月18日",
+  "frontMatter": {
+    "title": "End-to-Endチュートリアル"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "カスタムプロセッサー",
+    "permalink": "/indexer/custom-processors/"
+  },
+  "next": {
+    "title": "トランザクションの解析",
+    "permalink": "/indexer/custom-processors/parsing-txns"
+  }
+}

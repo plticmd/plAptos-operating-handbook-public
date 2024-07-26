@@ -1,0 +1,28 @@
+{
+  "id": "standards/wallets",
+  "title": "Aptos Wallet Standard",
+  "description": "The wallet standard provides guidelines for interoperability between wallet types. This ensures dapp developers do not need to change",
+  "source": "@site/docs/standards/wallets.md",
+  "sourceDirName": "standards",
+  "slug": "/standards/wallets",
+  "permalink": "/standards/wallets",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/standards/wallets.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Aptos Wallet Standard"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Aptos Token (Legacy)",
+    "permalink": "/standards/aptos-token"
+  },
+  "next": {
+    "title": "Aptos APIs",
+    "permalink": "/apis/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "nodes/measure/important-metrics",
+  "title": "Important Node Metrics",
+  "description": "When you visit the metrics endpoint (see Node Inspection Service), you will notice that",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/measure/important-metrics.md",
+  "sourceDirName": "nodes/measure",
+  "slug": "/nodes/measure/important-metrics",
+  "permalink": "/nodes/measure/important-metrics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/measure/important-metrics.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Important Node Metrics"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Node Inspection Service",
+    "permalink": "/nodes/measure/node-inspection-service"
+  },
+  "next": {
+    "title": "Node Health Checker",
+    "permalink": "/nodes/measure/node-health-checker"
+  }
+}

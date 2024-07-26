@@ -1,0 +1,29 @@
+{
+  "id": "nodes/node-files-all-networks/index",
+  "title": "Locating Node Files",
+  "description": "This section contains pages for locating and downloading the files required to deploy an Aptos node",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/node-files-all-networks/index.md",
+  "sourceDirName": "nodes/node-files-all-networks",
+  "slug": "/nodes/node-files-all-networks/node-files-index",
+  "permalink": "/nodes/node-files-all-networks/node-files-index",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/node-files-all-networks/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Locating Node Files",
+    "slug": "node-files-index"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Telemetry",
+    "permalink": "/reference/telemetry"
+  },
+  "next": {
+    "title": "Files For Mainnet",
+    "permalink": "/nodes/node-files-all-networks/node-files"
+  }
+}

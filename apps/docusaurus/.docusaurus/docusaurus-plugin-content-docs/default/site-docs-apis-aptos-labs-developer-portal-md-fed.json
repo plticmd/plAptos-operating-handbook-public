@@ -1,0 +1,28 @@
+{
+  "id": "apis/aptos-labs-developer-portal",
+  "title": "Aptos Labs Developer Portal",
+  "description": "The Aptos Labs Developer Portal is your gateway to access Aptos Labs provided APIs in a quick and easy fashion to power your dapp.",
+  "source": "@site/docs/apis/aptos-labs-developer-portal.md",
+  "sourceDirName": "apis",
+  "slug": "/apis/aptos-labs-developer-portal",
+  "permalink": "/apis/aptos-labs-developer-portal",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/apis/aptos-labs-developer-portal.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713437267,
+  "formattedLastUpdatedAt": "Apr 18, 2024",
+  "frontMatter": {
+    "title": "Aptos Labs Developer Portal"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Fullnode Rest API",
+    "permalink": "/apis/fullnode-rest-api"
+  },
+  "next": {
+    "title": "Learn about Indexing",
+    "permalink": "/indexer/indexer-landing"
+  }
+}

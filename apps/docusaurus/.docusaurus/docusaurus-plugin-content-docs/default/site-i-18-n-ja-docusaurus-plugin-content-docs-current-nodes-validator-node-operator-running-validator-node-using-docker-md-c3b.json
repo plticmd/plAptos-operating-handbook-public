@@ -1,0 +1,29 @@
+{
+  "id": "nodes/validator-node/operator/running-validator-node/using-docker",
+  "title": "Using Docker",
+  "description": "Docker deployment has only been tested on Linux, Windows, and Intel macOS. If you are on M1+ macOS, you will",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/validator-node/operator/running-validator-node/using-docker.md",
+  "sourceDirName": "nodes/validator-node/operator/running-validator-node",
+  "slug": "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-docker",
+  "permalink": "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-docker",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/validator-node/operator/running-validator-node/using-docker.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Using Docker",
+    "slug": "run-validator-node-using-docker"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Using Source Code",
+    "permalink": "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-source"
+  },
+  "next": {
+    "title": "Using AWS",
+    "permalink": "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-aws"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "move/book/abort-and-assert",
+  "title": "Abort and Assert",
+  "description": "return and abort are two control flow constructs that end execution, one for",
+  "source": "@site/docs/move/book/abort-and-assert.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/abort-and-assert",
+  "permalink": "/move/book/abort-and-assert",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/abort-and-assert.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Equality",
+    "permalink": "/move/book/equality"
+  },
+  "next": {
+    "title": "Conditionals",
+    "permalink": "/move/book/conditionals"
+  }
+}

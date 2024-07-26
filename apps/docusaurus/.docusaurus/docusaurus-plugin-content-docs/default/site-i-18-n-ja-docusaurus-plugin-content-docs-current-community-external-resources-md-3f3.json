@@ -1,0 +1,28 @@
+{
+  "id": "community/external-resources",
+  "title": "External Resources",
+  "description": "This page links to third-party contents. Aptos neither endorses nor supports these contributions. Nor can we guarantee their effects.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/community/external-resources.md",
+  "sourceDirName": "community",
+  "slug": "/community/external-resources",
+  "permalink": "/community/external-resources",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/community/external-resources.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "External Resources"
+  },
+  "sidebar": "comSidebar",
+  "previous": {
+    "title": "Contribute to the Aptos Ecosystem",
+    "permalink": "/community/"
+  },
+  "next": {
+    "title": "Update Aptos.dev",
+    "permalink": "/community/site-updates"
+  }
+}

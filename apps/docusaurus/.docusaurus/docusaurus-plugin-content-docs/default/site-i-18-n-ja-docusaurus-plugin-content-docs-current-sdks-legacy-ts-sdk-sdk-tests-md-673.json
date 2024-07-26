@@ -1,0 +1,29 @@
+{
+  "id": "sdks/legacy-ts-sdk/sdk-tests",
+  "title": "テストと検証",
+  "description": "TypeScriptSDKは、src/tests/フォルダー下にあるe2eとunitの2種類のテストを使用します。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/sdks/legacy-ts-sdk/sdk-tests.md",
+  "sourceDirName": "sdks/legacy-ts-sdk",
+  "slug": "/sdks/legacy-ts-sdk/typescript-sdk-tests",
+  "permalink": "/sdks/legacy-ts-sdk/typescript-sdk-tests",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/legacy-ts-sdk/sdk-tests.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713535793,
+  "formattedLastUpdatedAt": "2024年4月19日",
+  "frontMatter": {
+    "title": "テストと検証",
+    "slug": "typescript-sdk-tests"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "プラグインレイヤー",
+    "permalink": "/sdks/legacy-ts-sdk/typescript-sdk-plugins-layer"
+  },
+  "next": {
+    "title": "Python SDK(日本語)",
+    "permalink": "/sdks/python-sdk/"
+  }
+}

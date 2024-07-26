@@ -1,0 +1,28 @@
+{
+  "id": "indexer/legacy/index",
+  "title": "Legacy Indexer",
+  "description": "From Now - end of Q2, 2024: We will not be adding any new features to the legacy Indexer. However, we will continue to generally support the community, and will make sure that any changes made on the blockchain level does not break the existing legacy processors.",
+  "source": "@site/docs/indexer/legacy/index.md",
+  "sourceDirName": "indexer/legacy",
+  "slug": "/indexer/legacy/",
+  "permalink": "/indexer/legacy/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/legacy/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "Apr 18, 2024",
+  "frontMatter": {
+    "title": "Legacy Indexer"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Running Locally",
+    "permalink": "/indexer/txn-stream/local-development"
+  },
+  "next": {
+    "title": "Run an Indexer Fullnode",
+    "permalink": "/indexer/legacy/indexer-fullnode"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "indexer/legacy/custom-data-model-jp",
+  "title": "カスタムデータモデル(in Japanese)",
+  "description": "これは従来のインデクサーに関するドキュメントです。最新のインデクサースタックを使用してカスタムプロセッサを作成する方法についてはカスタムプロセッサーを御覧下さい。",
+  "source": "@site/docs/indexer/legacy/custom-data-model-jp.md",
+  "sourceDirName": "indexer/legacy",
+  "slug": "/indexer/legacy/indexer-legacy-custom-data-model-jp",
+  "permalink": "/ja/indexer/legacy/indexer-legacy-custom-data-model-jp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/legacy/custom-data-model-jp.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "カスタムデータモデル(in Japanese)",
+    "slug": "indexer-legacy-custom-data-model-jp"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Custom Data Model",
+    "permalink": "/ja/indexer/legacy/indexer-legacy-custom-data-model"
+  },
+  "next": {
+    "title": "Migrate to Transaction Stream Service",
+    "permalink": "/ja/indexer/legacy/indexer-legacy-migration"
+  }
+}

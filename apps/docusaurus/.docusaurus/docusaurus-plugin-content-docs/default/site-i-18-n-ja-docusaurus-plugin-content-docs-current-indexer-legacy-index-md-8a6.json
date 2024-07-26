@@ -1,0 +1,28 @@
+{
+  "id": "indexer/legacy/index",
+  "title": "従来のインデクサー",
+  "description": "今後 - 2024年第2四半期末: 私達は従来のインデクサーに新機能は追加しません。コミュニティへの全般的なサポートは継続します。そして、ブロックチェーンレベルで行われた変更が既存のレガシープロセッサを破壊しない様にしていきます。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/indexer/legacy/index.md",
+  "sourceDirName": "indexer/legacy",
+  "slug": "/indexer/legacy/",
+  "permalink": "/indexer/legacy/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/legacy/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "2024年4月18日",
+  "frontMatter": {
+    "title": "従来のインデクサー"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "ローカルで実行する",
+    "permalink": "/indexer/txn-stream/local-development"
+  },
+  "next": {
+    "title": "インデクサーフルノードを実行する",
+    "permalink": "/indexer/legacy/indexer-fullnode"
+  }
+}

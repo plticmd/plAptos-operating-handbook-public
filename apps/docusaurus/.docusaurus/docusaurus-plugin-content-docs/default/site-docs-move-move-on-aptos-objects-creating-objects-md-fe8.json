@@ -1,0 +1,28 @@
+{
+  "id": "move/move-on-aptos/objects/creating-objects",
+  "title": "Creating objects",
+  "description": "When first creating an object, it will have a resource",
+  "source": "@site/docs/move/move-on-aptos/objects/creating-objects.md",
+  "sourceDirName": "move/move-on-aptos/objects",
+  "slug": "/move/move-on-aptos/objects/creating-objects",
+  "permalink": "/move/move-on-aptos/objects/creating-objects",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/move-on-aptos/objects/creating-objects.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Creating objects"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Building with Objects",
+    "permalink": "/move/move-on-aptos/objects/"
+  },
+  "next": {
+    "title": "Configuring objects",
+    "permalink": "/move/move-on-aptos/objects/configuring-objects"
+  }
+}

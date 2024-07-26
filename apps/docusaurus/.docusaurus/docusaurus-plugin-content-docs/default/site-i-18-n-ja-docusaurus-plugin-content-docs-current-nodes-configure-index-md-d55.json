@@ -1,0 +1,29 @@
+{
+  "id": "nodes/configure/index",
+  "title": "Configure a Node",
+  "description": "This section contains tutorials for understanding and configuring Aptos node internals. These include:",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/configure/index.md",
+  "sourceDirName": "nodes/configure",
+  "slug": "/nodes/configure/configure-index",
+  "permalink": "/nodes/configure/configure-index",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/configure/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Configure a Node",
+    "slug": "configure-index"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Bootstrap from a Backup",
+    "permalink": "/nodes/full-node/aptos-db-restore"
+  },
+  "next": {
+    "title": "State Synchronization",
+    "permalink": "/guides/state-sync"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "nodes/full-node/deployments/using-source-code",
+  "title": "Using Source Code",
+  "description": "To deploy a PFN using the aptos-core source code, first, see Building Aptos From Source for instructions",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/full-node/deployments/using-source-code.md",
+  "sourceDirName": "nodes/full-node/deployments",
+  "slug": "/nodes/full-node/deployments/deploy-a-pfn-source-code",
+  "permalink": "/nodes/full-node/deployments/deploy-a-pfn-source-code",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/full-node/deployments/using-source-code.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Using Source Code",
+    "slug": "deploy-a-pfn-source-code"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Deploy a PFN",
+    "permalink": "/nodes/full-node/deployments/deploy-a-pfn"
+  },
+  "next": {
+    "title": "Using Docker",
+    "permalink": "/nodes/full-node/deployments/deploy-a-pfn-docker"
+  }
+}

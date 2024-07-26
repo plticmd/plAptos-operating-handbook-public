@@ -1,0 +1,26 @@
+{
+  "id": "move/book/friends",
+  "title": "フレンズ",
+  "description": "このfriend構文は、現在のモジュールによって信頼されるモジュールを宣言するため使用されます。信頼されたモジュールは、現在のモジュールで定義されているpublic(friend)可視性を持つ任意の関数を呼び出す事が出来ます。関数の可視性の詳細は関数の 可視性 セクションを参照して下さい。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/friends.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/friends",
+  "permalink": "/move/book/friends",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/friends.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1719037168,
+  "formattedLastUpdatedAt": "2024年6月22日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "用途と別名(エイリアス)",
+    "permalink": "/move/book/uses"
+  },
+  "next": {
+    "title": "パッケージ",
+    "permalink": "/move/book/packages"
+  }
+}

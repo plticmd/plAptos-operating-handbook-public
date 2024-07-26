@@ -1,0 +1,30 @@
+{
+  "id": "sdks/legacy-ts-sdk/index",
+  "title": "TypeScript Index",
+  "description": "This documentation is for the legacy TypeScript SDK, aka aptos. For a more robust and better SDK support, we recommend upgrading to the new TypeScript SDK @aptos-labs/ts-sdk. Take a look at the documentation and the migration guide",
+  "source": "@site/docs/sdks/legacy-ts-sdk/index.md",
+  "sourceDirName": "sdks/legacy-ts-sdk",
+  "slug": "/sdks/legacy-ts-sdk/index",
+  "permalink": "/sdks/legacy-ts-sdk/index",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/legacy-ts-sdk/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "TypeScript Index",
+    "slug": "index",
+    "hidden": false
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Typescript",
+    "permalink": "/sdks/ts-sdk/typescript"
+  },
+  "next": {
+    "title": "TypeScript SDK Architecture",
+    "permalink": "/sdks/legacy-ts-sdk/typescript-sdk-overview"
+  }
+}

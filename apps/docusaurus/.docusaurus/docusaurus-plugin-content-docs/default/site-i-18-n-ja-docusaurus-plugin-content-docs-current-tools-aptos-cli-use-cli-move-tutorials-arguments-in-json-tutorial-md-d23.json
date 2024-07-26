@@ -1,0 +1,28 @@
+{
+  "id": "tools/aptos-cli/use-cli/move-tutorials/arguments-in-json-tutorial",
+  "title": "Arguments in JSON Tutorial",
+  "description": "パッケージ情報",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/tools/aptos-cli/use-cli/move-tutorials/arguments-in-json-tutorial.md",
+  "sourceDirName": "tools/aptos-cli/use-cli/move-tutorials",
+  "slug": "/tools/aptos-cli/use-cli/move-tutorials/arguments-in-json-tutorial",
+  "permalink": "/tools/aptos-cli/use-cli/move-tutorials/arguments-in-json-tutorial",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tools/aptos-cli/use-cli/move-tutorials/arguments-in-json-tutorial.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1718709339,
+  "formattedLastUpdatedAt": "2024年6月18日",
+  "frontMatter": {
+    "title": "Arguments in JSON Tutorial"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Working With Move Contracts",
+    "permalink": "/tools/aptos-cli/use-cli/working-with-move-contracts"
+  },
+  "next": {
+    "title": "Multisig Governance Tutorial",
+    "permalink": "/tools/aptos-cli/use-cli/move-tutorials/multi-signature-tutorial"
+  }
+}

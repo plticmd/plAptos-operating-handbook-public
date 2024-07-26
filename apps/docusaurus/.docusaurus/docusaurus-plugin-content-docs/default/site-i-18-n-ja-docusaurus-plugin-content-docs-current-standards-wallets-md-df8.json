@@ -1,0 +1,28 @@
+{
+  "id": "standards/wallets",
+  "title": "Aptos Wallet Standard",
+  "description": "ウォレット標準は、ウォレットの種類間の相互運用性に関するガイドラインを提供します。これにより、dapp開発者は、異なるウォレットを処理するためアプリケーションを変更する必要がなくなります。この標準は全てのdapp開発者へ単一のインターフェイスを提供し、各アプリケーションへの新しいウォレットの追加やより多くのユーザーの追加が簡単です。この相互運用性により、ユーザーはアプリがユースケースをサポートしているかどうかを気にする事無く、必要なウォレットを選択できます。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/standards/wallets.md",
+  "sourceDirName": "standards",
+  "slug": "/standards/wallets",
+  "permalink": "/standards/wallets",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/standards/wallets.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1715217907,
+  "formattedLastUpdatedAt": "2024年5月9日",
+  "frontMatter": {
+    "title": "Aptos Wallet Standard"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Aptos Token (Legacy)",
+    "permalink": "/standards/aptos-token"
+  },
+  "next": {
+    "title": "アプトスAPI",
+    "permalink": "/apis/"
+  }
+}

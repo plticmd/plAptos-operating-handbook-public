@@ -1,0 +1,26 @@
+{
+  "id": "move/book/uses",
+  "title": "用途と別名(エイリアス)",
+  "description": "use構文を使用して他のモジュールのメンバーへのエイリアスを作成出来ます。useを使用してモジュール全体または特定の式ブロックスコープのエイリアスを作成出来ます。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/uses.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/uses",
+  "permalink": "/move/book/uses",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/uses.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1720275149,
+  "formattedLastUpdatedAt": "2024年7月6日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Abilities(機能)",
+    "permalink": "/move/book/abilities"
+  },
+  "next": {
+    "title": "フレンズ",
+    "permalink": "/move/book/friends"
+  }
+}

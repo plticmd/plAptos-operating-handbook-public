@@ -1,0 +1,28 @@
+{
+  "id": "guides/system-integrators-guide",
+  "title": "Application Integration Guide",
+  "description": "あなたが顧客へのブロックチェーンサービス提供者で、プラットフォームにAptosブロックチェーンを追加したい場合は、このガイドが役立ちます。このシステムインテグレーターガイドは、プラットフォームにAptosブロックチェーンを統合する際必要な全ての手順を解説します。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/guides/system-integrators-guide.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/system-integrators-guide",
+  "permalink": "/guides/system-integrators-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/guides/system-integrators-guide.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1717818509,
+  "formattedLastUpdatedAt": "2024年6月8日",
+  "frontMatter": {
+    "title": "Application Integration Guide"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Aptos Error Codes",
+    "permalink": "/reference/error-codes"
+  },
+  "next": {
+    "title": "Build E2E Dapp on Aptos",
+    "permalink": "/tutorials/build-e2e-dapp/e2e-dapp-index"
+  }
+}

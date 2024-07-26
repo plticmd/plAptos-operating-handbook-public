@@ -1,0 +1,24 @@
+{
+  "id": "concepts/index",
+  "title": "Learn about Aptos",
+  "description": "Start here to get into the core concepts of the Aptos blockchain. Then review our research papers and the Aptos source code found in the Aptos-core repository of GitHub while continuing your journey through this site. The source contains READMEs and code comments invaluable to developing on Aptos.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/concepts/index.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/",
+  "permalink": "/concepts/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/concepts/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Learn about Aptos"
+  },
+  "sidebar": "aptosSidebar",
+  "next": {
+    "title": "Aptos Blockchain Deep Dive",
+    "permalink": "/concepts/blockchain"
+  }
+}

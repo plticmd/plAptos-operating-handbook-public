@@ -1,0 +1,28 @@
+{
+  "id": "concepts/node-networks-sync",
+  "title": "Node Networks and Sync",
+  "description": "Validator nodes and fullnodes form a hierarchical structure with validator nodes at the root and fullnodes everywhere else. The Aptos blockchain distinguishes two types of fullnodes: validator fullnodes and public fullnodes. Validator fullnodes connect directly to validator nodes and offer scalability alongside DDoS mitigation. Public fullnodes connect to validator fullnodes (or other public fullnodes) to gain low-latency access to the Aptos network.",
+  "source": "@site/docs/concepts/node-networks-sync.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/node-networks-sync",
+  "permalink": "/concepts/node-networks-sync",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/concepts/node-networks-sync.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Node Networks and Sync"
+  },
+  "sidebar": "aptosSidebar",
+  "previous": {
+    "title": "Fullnodes Overview",
+    "permalink": "/concepts/fullnodes"
+  },
+  "next": {
+    "title": "Move - A Web3 Language and Runtime",
+    "permalink": "/concepts/move-on-aptos"
+  }
+}

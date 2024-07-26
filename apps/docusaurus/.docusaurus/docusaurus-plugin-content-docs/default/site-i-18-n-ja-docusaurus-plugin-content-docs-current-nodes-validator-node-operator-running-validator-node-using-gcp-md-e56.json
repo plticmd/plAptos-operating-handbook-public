@@ -1,0 +1,29 @@
+{
+  "id": "nodes/validator-node/operator/running-validator-node/using-gcp",
+  "title": "Using GCP",
+  "description": "This is a step-by-step guide to deploy an Aptos validator and validator fullnode (VFN) using Google Cloud Platform Services (GCP).",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/validator-node/operator/running-validator-node/using-gcp.md",
+  "sourceDirName": "nodes/validator-node/operator/running-validator-node",
+  "slug": "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-gcp",
+  "permalink": "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-gcp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/validator-node/operator/running-validator-node/using-gcp.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Using GCP",
+    "slug": "run-validator-node-using-gcp"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Using Azure",
+    "permalink": "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-azure"
+  },
+  "next": {
+    "title": "Connect Nodes",
+    "permalink": "/nodes/validator-node/operator/connect-nodes/connect-validator-node"
+  }
+}

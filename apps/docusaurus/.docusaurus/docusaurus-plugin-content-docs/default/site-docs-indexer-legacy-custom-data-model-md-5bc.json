@@ -1,0 +1,28 @@
+{
+  "id": "indexer/legacy/custom-data-model",
+  "title": "Custom Data Model",
+  "description": "This is documentation for the legacy indexer. To learn how to write a custom processor with the latest indexer stack, see Custom Processors.",
+  "source": "@site/docs/indexer/legacy/custom-data-model.md",
+  "sourceDirName": "indexer/legacy",
+  "slug": "/indexer/legacy/custom-data-model",
+  "permalink": "/indexer/legacy/custom-data-model",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/legacy/custom-data-model.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "Apr 18, 2024",
+  "frontMatter": {
+    "title": "Custom Data Model"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Run an Indexer Fullnode",
+    "permalink": "/indexer/legacy/indexer-fullnode"
+  },
+  "next": {
+    "title": "Migrate to Transaction Stream Service",
+    "permalink": "/indexer/legacy/migration"
+  }
+}

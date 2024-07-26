@@ -1,0 +1,26 @@
+{
+  "id": "move/book/equality",
+  "title": "等価",
+  "description": "Moveは==と!=の2つの等価演算をサポートします。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/equality.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/equality",
+  "permalink": "/move/book/equality",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/equality.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1719037168,
+  "formattedLastUpdatedAt": "2024年6月22日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "ローカル変数とスコープ",
+    "permalink": "/move/book/variables"
+  },
+  "next": {
+    "title": "Abort(中止)とAssert",
+    "permalink": "/move/book/abort-and-assert"
+  }
+}

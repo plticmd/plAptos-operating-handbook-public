@@ -1,0 +1,26 @@
+{
+  "id": "move/book/abilities",
+  "title": "Abilities(機能)",
+  "description": "Abilitiesは、Moveの型指定機能であり、特定の型の値に対して許可されるアクションを制御します。このシステムにより値の\"linear\"typing動作、及びグローバルストレージでの値の使用の有無と使用方法をきめ細かく制御出来ます。これは、特定のバイトコード指示へのアクセスをゲートすることで実装されます。そのため値がバイトコード指示で使用されるため必要とするAbilityが必要(必要な場合、全ての指示がAbilityによってゲートされるわけではありません)。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/abilities.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/abilities",
+  "permalink": "/move/book/abilities",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/abilities.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1718709339,
+  "formattedLastUpdatedAt": "2024年6月18日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "ジェネリクス",
+    "permalink": "/move/book/generics"
+  },
+  "next": {
+    "title": "用途と別名(エイリアス)",
+    "permalink": "/move/book/uses"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "integration/wallet-adapter-concept",
+  "title": "Integrate with Aptos Wallets",
+  "description": "Decentralized applications often run through a browser extension or mobile application to read on-chain data and submit",
+  "source": "@site/docs/integration/wallet-adapter-concept.md",
+  "sourceDirName": "integration",
+  "slug": "/integration/wallet-adapter-concept",
+  "permalink": "/integration/wallet-adapter-concept",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/integration/wallet-adapter-concept.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713731976,
+  "formattedLastUpdatedAt": "Apr 21, 2024",
+  "frontMatter": {
+    "title": "Integrate with Aptos Wallets",
+    "id": "wallet-adapter-concept"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Aptos Token Overview",
+    "permalink": "/guides/nfts/aptos-token-overview"
+  },
+  "next": {
+    "title": "For Dapps",
+    "permalink": "/integration/wallet-adapter-for-dapp"
+  }
+}

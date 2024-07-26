@@ -1,0 +1,29 @@
+{
+  "id": "nodes/node-files-all-networks/node-files-testnet",
+  "title": "Files For Testnet",
+  "description": "When deploying an Aptos node in testnet, you may need to download the files listed on this page. The files are",
+  "source": "@site/docs/nodes/node-files-all-networks/node-files-testnet.md",
+  "sourceDirName": "nodes/node-files-all-networks",
+  "slug": "/nodes/node-files-all-networks/node-files-testnet",
+  "permalink": "/nodes/node-files-all-networks/node-files-testnet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/node-files-all-networks/node-files-testnet.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Files For Testnet",
+    "slug": "node-files-testnet"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Files For Mainnet",
+    "permalink": "/nodes/node-files-all-networks/node-files"
+  },
+  "next": {
+    "title": "Files For Devnet",
+    "permalink": "/nodes/node-files-all-networks/node-files-devnet"
+  }
+}

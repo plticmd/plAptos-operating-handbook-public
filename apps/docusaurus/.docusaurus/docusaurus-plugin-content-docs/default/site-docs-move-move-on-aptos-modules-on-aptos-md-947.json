@@ -1,0 +1,28 @@
+{
+  "id": "move/move-on-aptos/modules-on-aptos",
+  "title": "Modules on Aptos",
+  "description": "Aptos allows for permissionless publishing of modules within a package as well as upgrading those that have appropriate compatibility policy set.",
+  "source": "@site/docs/move/move-on-aptos/modules-on-aptos.md",
+  "sourceDirName": "move/move-on-aptos",
+  "slug": "/move/move-on-aptos/modules-on-aptos",
+  "permalink": "/move/move-on-aptos/modules-on-aptos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/move-on-aptos/modules-on-aptos.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Modules on Aptos"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Resource Accounts",
+    "permalink": "/move/move-on-aptos/resource-accounts"
+  },
+  "next": {
+    "title": "Aptos CLI",
+    "permalink": "/move/move-on-aptos/cli"
+  }
+}

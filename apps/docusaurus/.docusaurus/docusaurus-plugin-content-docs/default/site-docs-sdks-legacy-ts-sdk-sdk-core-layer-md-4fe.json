@@ -1,0 +1,29 @@
+{
+  "id": "sdks/legacy-ts-sdk/sdk-core-layer",
+  "title": "Core Layer",
+  "description": "The core SDK layer exposes the functionalities needed by most applications:",
+  "source": "@site/docs/sdks/legacy-ts-sdk/sdk-core-layer.md",
+  "sourceDirName": "sdks/legacy-ts-sdk",
+  "slug": "/sdks/legacy-ts-sdk/typescript-sdk-core-layer",
+  "permalink": "/sdks/legacy-ts-sdk/typescript-sdk-core-layer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/legacy-ts-sdk/sdk-core-layer.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Core Layer",
+    "slug": "typescript-sdk-core-layer"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "IndexerClient Class",
+    "permalink": "/sdks/legacy-ts-sdk/typescript-sdk-indexer-client-class"
+  },
+  "next": {
+    "title": "Plugins Layer",
+    "permalink": "/sdks/legacy-ts-sdk/typescript-sdk-plugins-layer"
+  }
+}

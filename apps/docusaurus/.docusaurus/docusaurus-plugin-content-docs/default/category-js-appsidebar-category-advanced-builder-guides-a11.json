@@ -1,0 +1,16 @@
+{
+  "title": "Advanced Builder Guides",
+  "description": "Take the next step into building complex applications on Aptos.",
+  "slug": "/category/advanced-builders",
+  "permalink": "/js/category/advanced-builders",
+  "navigation": {
+    "previous": {
+      "title": "6. Handle Tasks",
+      "permalink": "/js/tutorials/build-e2e-dapp/handle-tasks"
+    },
+    "next": {
+      "title": "Develop with Local Testnet",
+      "permalink": "/js/nodes/local-testnet/local-testnet-index"
+    }
+  }
+}

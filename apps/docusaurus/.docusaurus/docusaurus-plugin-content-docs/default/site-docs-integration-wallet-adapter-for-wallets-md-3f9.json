@@ -1,0 +1,29 @@
+{
+  "id": "integration/wallet-adapter-for-wallets",
+  "title": "For Wallets",
+  "description": "To gain from dapps in the Aptos Ecosystem and provide your users the functionality they are looking for in a wallet, your wallet plugin should follow the Aptos Wallet Standard and be built from the Aptos Wallet Adapter.",
+  "source": "@site/docs/integration/wallet-adapter-for-wallets.md",
+  "sourceDirName": "integration",
+  "slug": "/integration/wallet-adapter-for-wallets",
+  "permalink": "/integration/wallet-adapter-for-wallets",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/integration/wallet-adapter-for-wallets.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713731976,
+  "formattedLastUpdatedAt": "Apr 21, 2024",
+  "frontMatter": {
+    "title": "For Wallets",
+    "id": "wallet-adapter-for-wallets"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "For Dapps",
+    "permalink": "/integration/wallet-adapter-for-dapp"
+  },
+  "next": {
+    "title": "Integrate with Aptos Names Service",
+    "permalink": "/integration/aptos-names-service-package"
+  }
+}

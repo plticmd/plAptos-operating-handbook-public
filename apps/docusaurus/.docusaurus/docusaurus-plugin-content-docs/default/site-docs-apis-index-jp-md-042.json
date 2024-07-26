@@ -1,0 +1,29 @@
+{
+  "id": "apis/index-jp",
+  "title": "アプトスAPI (in Japanese)",
+  "description": "ユースケースに応じて、いくつかのAPIからAptosブロックチェーンネットワークにアクセスできます。",
+  "source": "@site/docs/apis/index-jp.md",
+  "sourceDirName": "apis",
+  "slug": "/apis/apis-index-jp",
+  "permalink": "/ja/apis/apis-index-jp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/apis/index-jp.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "アプトスAPI (in Japanese)",
+    "slug": "apis-index-jp"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Aptos APIs",
+    "permalink": "/ja/apis/apis-index"
+  },
+  "next": {
+    "title": "Fullnode Rest API",
+    "permalink": "/ja/apis/apis-fullnode-rest-api"
+  }
+}

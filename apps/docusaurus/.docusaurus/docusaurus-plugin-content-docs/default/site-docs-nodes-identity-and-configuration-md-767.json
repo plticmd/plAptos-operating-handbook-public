@@ -1,0 +1,19 @@
+{
+  "id": "nodes/identity-and-configuration",
+  "title": "Identity and Configuration",
+  "description": "When installing a node on an Aptos network, the installation steps require you to work with identities and configurations. This document describes how to interpret the terms identity and configuration, and presents a description of the identity YAML files.",
+  "source": "@site/docs/nodes/identity-and-configuration.md",
+  "sourceDirName": "nodes",
+  "slug": "/nodes/identity-and-configuration",
+  "permalink": "/nodes/identity-and-configuration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/identity-and-configuration.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Identity and Configuration"
+  }
+}

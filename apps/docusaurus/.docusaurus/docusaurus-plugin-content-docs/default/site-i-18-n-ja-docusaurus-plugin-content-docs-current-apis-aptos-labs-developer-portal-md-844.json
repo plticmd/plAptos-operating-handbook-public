@@ -1,0 +1,28 @@
+{
+  "id": "apis/aptos-labs-developer-portal",
+  "title": "Aptosラボ開発者ポータル",
+  "description": "Aptosラボ開発者ポータルは、Aptosラボ提供のAPIに素早く簡単にアクセスするためのゲートウェイで、あなたのdappを強化します。Aptosラボが運営するポータル(UI)と一連のAPIゲートウェイで構成されます。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/apis/aptos-labs-developer-portal.md",
+  "sourceDirName": "apis",
+  "slug": "/apis/aptos-labs-developer-portal",
+  "permalink": "/apis/aptos-labs-developer-portal",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/apis/aptos-labs-developer-portal.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713437468,
+  "formattedLastUpdatedAt": "2024年4月18日",
+  "frontMatter": {
+    "title": "Aptosラボ開発者ポータル"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "フルノードREST API",
+    "permalink": "/apis/fullnode-rest-api"
+  },
+  "next": {
+    "title": "インデクサー",
+    "permalink": "/indexer/indexer-landing"
+  }
+}

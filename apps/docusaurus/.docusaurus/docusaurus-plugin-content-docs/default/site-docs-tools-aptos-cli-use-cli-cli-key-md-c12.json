@@ -1,0 +1,29 @@
+{
+  "id": "tools/aptos-cli/use-cli/cli-key",
+  "title": "Key",
+  "description": "Key examples",
+  "source": "@site/docs/tools/aptos-cli/use-cli/cli-key.md",
+  "sourceDirName": "tools/aptos-cli/use-cli",
+  "slug": "/tools/aptos-cli/use-cli/cli-key",
+  "permalink": "/tools/aptos-cli/use-cli/cli-key",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tools/aptos-cli/use-cli/cli-key.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Key",
+    "id": "cli-key"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Account",
+    "permalink": "/tools/aptos-cli/use-cli/cli-account"
+  },
+  "next": {
+    "title": "Node",
+    "permalink": "/tools/aptos-cli/use-cli/cli-node"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "indexer/txn-stream/labs-hosted",
+  "title": "Labs-Hosted Transaction Stream Service",
+  "description": "If you are running your own instance of the Indexer API, or a custom processor, you must have access to an instance of the Transaction Stream Service. This page contains information about how to use the Labs-Hosted Transaction Stream Service.",
+  "source": "@site/docs/indexer/txn-stream/labs-hosted.md",
+  "sourceDirName": "indexer/txn-stream",
+  "slug": "/indexer/txn-stream/labs-hosted",
+  "permalink": "/indexer/txn-stream/labs-hosted",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/txn-stream/labs-hosted.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "Apr 18, 2024",
+  "frontMatter": {
+    "title": "Labs-Hosted Transaction Stream Service"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Transaction Stream Service",
+    "permalink": "/indexer/txn-stream/"
+  },
+  "next": {
+    "title": "Self-Hosted Transaction Stream Service",
+    "permalink": "/indexer/txn-stream/self-hosted"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tools/aptos-cli/use-cli/running-a-local-network",
+  "title": "Running a Local Network",
+  "description": "ローカルネットワークは、コードをテストする時役立ちます。メインネットのようなAptosネットワークにはどのプロダクションも接続されていませんが、主に次の3つの事由で役立ちます。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/tools/aptos-cli/use-cli/running-a-local-network.md",
+  "sourceDirName": "tools/aptos-cli/use-cli",
+  "slug": "/tools/aptos-cli/use-cli/running-a-local-network",
+  "permalink": "/tools/aptos-cli/use-cli/running-a-local-network",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tools/aptos-cli/use-cli/running-a-local-network.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1716499078,
+  "formattedLastUpdatedAt": "2024年5月23日",
+  "frontMatter": {
+    "title": "Running a Local Network"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Use Aptos CLI with Ledger",
+    "permalink": "/tools/aptos-cli/use-cli/use-aptos-ledger"
+  },
+  "next": {
+    "title": "Running a Public Network",
+    "permalink": "/tools/aptos-cli/use-cli/public-network/run-public-network"
+  }
+}

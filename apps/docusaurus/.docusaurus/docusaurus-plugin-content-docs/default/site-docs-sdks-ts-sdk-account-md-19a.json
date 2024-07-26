@@ -1,0 +1,28 @@
+{
+  "id": "sdks/ts-sdk/account",
+  "title": "Account",
+  "description": "The SDK provides an Account class for creating and managing accounts on Aptos network.",
+  "source": "@site/docs/sdks/ts-sdk/account.md",
+  "sourceDirName": "sdks/ts-sdk",
+  "slug": "/sdks/ts-sdk/account",
+  "permalink": "/sdks/ts-sdk/account",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/ts-sdk/account.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Account"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Migration Guide",
+    "permalink": "/sdks/ts-sdk/migration-guide"
+  },
+  "next": {
+    "title": "SDK Configuration",
+    "permalink": "/sdks/ts-sdk/sdk-configuration"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "move/book/functions",
+  "title": "関数",
+  "description": "Moveの関数構文は、モジュール関数とスクリプト関数間で共有されます。モジュール内の関数は再利用可能ですが、スクリプト関数はトランザクションを呼び出すための1回だけ使用されます。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/functions.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/functions",
+  "permalink": "/move/book/functions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/functions.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1719037168,
+  "formattedLastUpdatedAt": "2024年6月22日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "While, For, ループ",
+    "permalink": "/move/book/loops"
+  },
+  "next": {
+    "title": "構造とリソース",
+    "permalink": "/move/book/structs-and-resources"
+  }
+}

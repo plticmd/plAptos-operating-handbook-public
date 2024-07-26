@@ -1,0 +1,30 @@
+{
+  "id": "sdks/index",
+  "title": "Use Aptos SDKs",
+  "description": "Use these Aptos software development kits (SDKs), in combination with the Aptos CLI for your development on the Aptos blockchain.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/sdks/index.md",
+  "sourceDirName": "sdks",
+  "slug": "/sdks/index",
+  "permalink": "/sdks/index",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713535793,
+  "formattedLastUpdatedAt": "2024年4月19日",
+  "frontMatter": {
+    "title": "Use Aptos SDKs",
+    "slug": "index",
+    "hidden": false
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "トランザクション ストリーム サービスへの移行",
+    "permalink": "/indexer/legacy/migration"
+  },
+  "next": {
+    "title": "TypeScript Index",
+    "permalink": "/sdks/ts-sdk/"
+  }
+}

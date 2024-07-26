@@ -1,0 +1,26 @@
+{
+  "id": "move/book/unit-testing",
+  "title": "Unit Tests",
+  "description": "Unit testing for Move adds three new annotations to the Move source language:",
+  "source": "@site/docs/move/book/unit-testing.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/unit-testing",
+  "permalink": "/move/book/unit-testing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/unit-testing.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Package Upgrades",
+    "permalink": "/move/book/package-upgrades"
+  },
+  "next": {
+    "title": "Global Storage - Structure",
+    "permalink": "/move/book/global-storage-structure"
+  }
+}

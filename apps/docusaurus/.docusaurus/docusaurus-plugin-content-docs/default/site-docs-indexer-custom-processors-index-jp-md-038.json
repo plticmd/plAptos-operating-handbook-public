@@ -1,0 +1,29 @@
+{
+  "id": "indexer/custom-processors/index-jp",
+  "title": "カスタムプロセッサー(in Japanese)",
+  "description": "このセクションでは、カスタムプロセッサとは何か、カスタム プロセッサを作成してデプロイする方法、トランザクションストリームサービスからのトランザクションの解析方法について解説します。",
+  "source": "@site/docs/indexer/custom-processors/index-jp.md",
+  "sourceDirName": "indexer/custom-processors",
+  "slug": "/indexer/custom-processors/indexer-custom-processors-index-jp",
+  "permalink": "/ja/indexer/custom-processors/indexer-custom-processors-index-jp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/custom-processors/index-jp.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "カスタムプロセッサー(in Japanese)",
+    "slug": "indexer-custom-processors-index-jp"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Custom Processors",
+    "permalink": "/ja/indexer/custom-processors/indexer-custom-processors-index"
+  },
+  "next": {
+    "title": "End-to-End Tutorial",
+    "permalink": "/ja/indexer/custom-processors/indexer-custom-processors-e2e-tutorial"
+  }
+}

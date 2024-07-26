@@ -1,0 +1,29 @@
+{
+  "id": "nodes/localnet/index",
+  "title": "Develop with Localnet",
+  "description": "Recommended",
+  "source": "@site/docs/nodes/localnet/index.md",
+  "sourceDirName": "nodes/localnet",
+  "slug": "/nodes/localnet/localnet-index",
+  "permalink": "/nodes/localnet/localnet-index",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/localnet/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1717818509,
+  "formattedLastUpdatedAt": "Jun 8, 2024",
+  "frontMatter": {
+    "title": "Develop with Localnet",
+    "slug": "localnet-index"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Advanced Builder Guides",
+    "permalink": "/category/advanced-builders"
+  },
+  "next": {
+    "title": "Run a Local Development Network",
+    "permalink": "/guides/local-development-network"
+  }
+}

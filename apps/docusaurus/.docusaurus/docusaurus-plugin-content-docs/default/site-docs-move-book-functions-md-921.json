@@ -1,0 +1,26 @@
+{
+  "id": "move/book/functions",
+  "title": "Functions",
+  "description": "Function syntax in Move is shared between module functions and script functions. Functions inside of modules are reusable, whereas script functions are only used once to invoke a transaction.",
+  "source": "@site/docs/move/book/functions.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/functions",
+  "permalink": "/move/book/functions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/functions.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1719037168,
+  "formattedLastUpdatedAt": "Jun 22, 2024",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "While, For, and Loop",
+    "permalink": "/move/book/loops"
+  },
+  "next": {
+    "title": "Structs and Resources",
+    "permalink": "/move/book/structs-and-resources"
+  }
+}

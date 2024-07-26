@@ -1,0 +1,26 @@
+{
+  "id": "move/book/abort-and-assert",
+  "title": "Abort(中止)とAssert",
+  "description": "returnとabortは実行を終了する2つの制御フロー構造です。ひとつは現在の関数用、もうひとつはトランザクション全体用です。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/abort-and-assert.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/abort-and-assert",
+  "permalink": "/move/book/abort-and-assert",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/abort-and-assert.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1718709339,
+  "formattedLastUpdatedAt": "2024年6月18日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "等価",
+    "permalink": "/move/book/equality"
+  },
+  "next": {
+    "title": "条件文",
+    "permalink": "/move/book/conditionals"
+  }
+}

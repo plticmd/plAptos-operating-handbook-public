@@ -1,0 +1,26 @@
+{
+  "id": "move/book/bool",
+  "title": "Bool",
+  "description": "bool is Move's primitive type for boolean true and false values.",
+  "source": "@site/docs/move/book/bool.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/bool",
+  "permalink": "/move/book/bool",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/bool.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Integers",
+    "permalink": "/move/book/integers"
+  },
+  "next": {
+    "title": "Address",
+    "permalink": "/move/book/address"
+  }
+}

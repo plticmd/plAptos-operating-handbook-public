@@ -1,0 +1,26 @@
+{
+  "id": "move/book/signer",
+  "title": "signer(署名者)",
+  "description": "signerは組み込みのMoveリソース型です。signerは、所有者が特定のaddressに代わって動作出来ようにする機能です 。ネイティブ実装は以下のように考える事が出来ます。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/signer.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/signer",
+  "permalink": "/move/book/signer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/signer.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1720084421,
+  "formattedLastUpdatedAt": "2024年7月4日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Vector",
+    "permalink": "/move/book/vector"
+  },
+  "next": {
+    "title": "参照",
+    "permalink": "/move/book/references"
+  }
+}

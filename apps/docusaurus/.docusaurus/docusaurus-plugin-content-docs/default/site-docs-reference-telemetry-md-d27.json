@@ -1,0 +1,28 @@
+{
+  "id": "reference/telemetry",
+  "title": "Telemetry",
+  "description": "When you run a node on an Aptos network, your node will send telemetry data to Aptos Labs. All node types",
+  "source": "@site/docs/reference/telemetry.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/telemetry",
+  "permalink": "/reference/telemetry",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/reference/telemetry.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Telemetry"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Data Pruning",
+    "permalink": "/guides/data-pruning"
+  },
+  "next": {
+    "title": "Locating Node Files",
+    "permalink": "/nodes/node-files-all-networks/node-files-index"
+  }
+}

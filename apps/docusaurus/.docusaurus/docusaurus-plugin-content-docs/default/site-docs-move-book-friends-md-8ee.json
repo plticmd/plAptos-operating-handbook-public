@@ -1,0 +1,26 @@
+{
+  "id": "move/book/friends",
+  "title": "Friends",
+  "description": "The friend syntax is used to declare modules that are trusted by the current module.",
+  "source": "@site/docs/move/book/friends.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/friends",
+  "permalink": "/move/book/friends",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/friends.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Uses and Aliases",
+    "permalink": "/move/book/uses"
+  },
+  "next": {
+    "title": "Packages",
+    "permalink": "/move/book/packages"
+  }
+}

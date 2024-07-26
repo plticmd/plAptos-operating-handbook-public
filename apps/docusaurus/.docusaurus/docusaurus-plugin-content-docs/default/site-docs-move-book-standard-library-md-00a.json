@@ -1,0 +1,26 @@
+{
+  "id": "move/book/standard-library",
+  "title": "Libraries",
+  "description": "Aptos provides multiple useful libraries for developers. The complete up-to-date docs can be found here.",
+  "source": "@site/docs/move/book/standard-library.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/standard-library",
+  "permalink": "/move/book/standard-library",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/standard-library.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Global Storage - Operators",
+    "permalink": "/move/book/global-storage-operators"
+  },
+  "next": {
+    "title": "Move Coding Conventions",
+    "permalink": "/move/book/coding-conventions"
+  }
+}

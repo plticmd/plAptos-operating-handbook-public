@@ -1,0 +1,29 @@
+{
+  "id": "indexer/custom-processors/e2e-tutorial-jp",
+  "title": "End-to-Endチュートリアル(Japaneses)",
+  "description": "このチュートリアルでは、基本的なカスタムインデクサープロセッサーを作成しAptosブロックチェーン上のイベントとデータを追跡する手順を解説します。",
+  "source": "@site/docs/indexer/custom-processors/e2e-tutorial-jp.md",
+  "sourceDirName": "indexer/custom-processors",
+  "slug": "/indexer/custom-processors/indexer-custom-processors-e2e-tutorial-jp",
+  "permalink": "/ja/indexer/custom-processors/indexer-custom-processors-e2e-tutorial-jp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/custom-processors/e2e-tutorial-jp.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "End-to-Endチュートリアル(Japaneses)",
+    "slug": "indexer-custom-processors-e2e-tutorial-jp"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "End-to-End Tutorial",
+    "permalink": "/ja/indexer/custom-processors/indexer-custom-processors-e2e-tutorial"
+  },
+  "next": {
+    "title": "Parsing Transactions",
+    "permalink": "/ja/indexer/custom-processors/indexer-custom-processors-txns"
+  }
+}

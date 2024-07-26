@@ -1,0 +1,29 @@
+{
+  "id": "tutorials/first-fungible-asset",
+  "title": "Your First Fungible Asset",
+  "description": "This tutorial introduces how you can compile, deploy, and mint your own fungible asset (FA), named FACoin.",
+  "source": "@site/docs/tutorials/first-fungible-asset.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/your-first-fungible-asset",
+  "permalink": "/tutorials/your-first-fungible-asset",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tutorials/first-fungible-asset.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713278317,
+  "formattedLastUpdatedAt": "Apr 16, 2024",
+  "frontMatter": {
+    "title": "Your First Fungible Asset",
+    "slug": "your-first-fungible-asset"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Your First Coin",
+    "permalink": "/tutorials/your-first-coin"
+  },
+  "next": {
+    "title": "Your First Move Module",
+    "permalink": "/tutorials/first-move-module"
+  }
+}

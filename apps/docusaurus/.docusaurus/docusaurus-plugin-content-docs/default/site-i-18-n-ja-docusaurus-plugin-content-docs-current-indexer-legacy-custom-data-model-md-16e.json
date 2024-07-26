@@ -1,0 +1,28 @@
+{
+  "id": "indexer/legacy/custom-data-model",
+  "title": "カスタムデータモデル",
+  "description": "これは従来のインデクサーに関するドキュメントです。最新のインデクサースタックを使用してカスタムプロセッサを作成する方法についてはカスタムプロセッサーを御覧下さい。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/indexer/legacy/custom-data-model.md",
+  "sourceDirName": "indexer/legacy",
+  "slug": "/indexer/legacy/custom-data-model",
+  "permalink": "/indexer/legacy/custom-data-model",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/legacy/custom-data-model.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "2024年4月18日",
+  "frontMatter": {
+    "title": "カスタムデータモデル"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "インデクサーフルノードを実行する",
+    "permalink": "/indexer/legacy/indexer-fullnode"
+  },
+  "next": {
+    "title": "トランザクション ストリーム サービスへの移行",
+    "permalink": "/indexer/legacy/migration"
+  }
+}

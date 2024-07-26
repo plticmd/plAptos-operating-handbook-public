@@ -1,0 +1,28 @@
+{
+  "id": "indexer/custom-processors/e2e-tutorial",
+  "title": "End-to-End Tutorial",
+  "description": "In this tutorial, we're going to walk you through all the steps involved with creating a very basic custom indexer processor to track events and data on the Aptos blockchain.",
+  "source": "@site/docs/indexer/custom-processors/e2e-tutorial.md",
+  "sourceDirName": "indexer/custom-processors",
+  "slug": "/indexer/custom-processors/e2e-tutorial",
+  "permalink": "/indexer/custom-processors/e2e-tutorial",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/custom-processors/e2e-tutorial.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "Apr 18, 2024",
+  "frontMatter": {
+    "title": "End-to-End Tutorial"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Custom Processors",
+    "permalink": "/indexer/custom-processors/"
+  },
+  "next": {
+    "title": "Parsing Transactions",
+    "permalink": "/indexer/custom-processors/parsing-txns"
+  }
+}

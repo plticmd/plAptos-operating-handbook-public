@@ -1,0 +1,28 @@
+{
+  "id": "tools/aptos-cli/install-cli/build-from-source",
+  "title": "Build CLI from Source Code",
+  "description": "If you are an advanced user and would like to build the CLI binary by downloading the source code, follow the below steps, selecting the network branch that meets your use case. Otherwise, install the prebuilt CLI binaries to ease ramp up and reduce variables in your environment.",
+  "source": "@site/docs/tools/aptos-cli/install-cli/build-from-source.md",
+  "sourceDirName": "tools/aptos-cli/install-cli",
+  "slug": "/tools/aptos-cli/install-cli/build-from-source",
+  "permalink": "/tools/aptos-cli/install-cli/build-from-source",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tools/aptos-cli/install-cli/build-from-source.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Build CLI from Source Code"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Install the CLI with Brew",
+    "permalink": "/tools/aptos-cli/install-cli/install-from-brew"
+  },
+  "next": {
+    "title": "Install the Move Prover",
+    "permalink": "/tools/aptos-cli/install-cli/install-move-prover"
+  }
+}

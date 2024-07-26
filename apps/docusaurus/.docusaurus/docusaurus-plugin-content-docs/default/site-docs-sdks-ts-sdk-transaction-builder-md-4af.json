@@ -1,0 +1,28 @@
+{
+  "id": "sdks/ts-sdk/transaction-builder",
+  "title": "Transaction Builder",
+  "description": "The SDK provides a simplified and meaningful transaction builder flow to handles the transaction creation lifecycle.",
+  "source": "@site/docs/sdks/ts-sdk/transaction-builder.md",
+  "sourceDirName": "sdks/ts-sdk",
+  "slug": "/sdks/ts-sdk/transaction-builder",
+  "permalink": "/sdks/ts-sdk/transaction-builder",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/ts-sdk/transaction-builder.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Transaction Builder"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Fetch data from chain",
+    "permalink": "/sdks/ts-sdk/fetch-data-from-chain"
+  },
+  "next": {
+    "title": "HTTP Client",
+    "permalink": "/sdks/ts-sdk/http-client"
+  }
+}

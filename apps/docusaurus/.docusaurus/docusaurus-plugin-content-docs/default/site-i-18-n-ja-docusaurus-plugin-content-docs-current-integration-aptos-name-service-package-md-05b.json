@@ -1,0 +1,29 @@
+{
+  "id": "integration/aptos-names-service-package",
+  "title": "Aptosネームサービスとの統合",
+  "description": "Aptosネームサービスは、開発者がボタンとモーダルをカスタマイズ可能なReactUIパッケージを提供し、ユーザーがWebサイトから直接Aptos名を検索、ミント出来る様にします。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/integration/aptos-name-service-package.md",
+  "sourceDirName": "integration",
+  "slug": "/integration/aptos-names-service-package",
+  "permalink": "/integration/aptos-names-service-package",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/integration/aptos-name-service-package.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713783404,
+  "formattedLastUpdatedAt": "2024年4月22日",
+  "frontMatter": {
+    "title": "Aptosネームサービスとの統合",
+    "id": "aptos-names-service-package"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "ウォレット用",
+    "permalink": "/integration/wallet-adapter-for-wallets"
+  },
+  "next": {
+    "title": "Aptos Error Codes",
+    "permalink": "/reference/error-codes"
+  }
+}

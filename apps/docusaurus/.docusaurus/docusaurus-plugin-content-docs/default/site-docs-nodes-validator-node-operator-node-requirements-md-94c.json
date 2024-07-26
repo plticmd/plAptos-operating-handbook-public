@@ -1,0 +1,28 @@
+{
+  "id": "nodes/validator-node/operator/node-requirements",
+  "title": "Node Requirements",
+  "description": "To ensure that your validator and validator fullnode (VFN) operate smoothly, both nodes should meet the",
+  "source": "@site/docs/nodes/validator-node/operator/node-requirements.md",
+  "sourceDirName": "nodes/validator-node/operator",
+  "slug": "/nodes/validator-node/operator/node-requirements",
+  "permalink": "/nodes/validator-node/operator/node-requirements",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/validator-node/operator/node-requirements.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Node Requirements"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Run a Validator and VFN",
+    "permalink": "/nodes/validator-node/validators"
+  },
+  "next": {
+    "title": "Deploy Nodes",
+    "permalink": "/nodes/validator-node/operator/running-validator-node/running-validator-node"
+  }
+}

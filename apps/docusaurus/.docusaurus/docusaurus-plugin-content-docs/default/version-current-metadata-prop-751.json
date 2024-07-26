@@ -1,0 +1,3122 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "aptosSidebar": [
+      {
+        "type": "html",
+        "value": "Start",
+        "className": "sidebar-title"
+      },
+      {
+        "type": "category",
+        "label": "Learn about Aptos",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "Aptos Blockchain Deep Dive",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Validator Nodes Overview",
+                "href": "/concepts/validator-nodes",
+                "docId": "concepts/validator-nodes",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Fullnodes Overview",
+                "href": "/concepts/fullnodes",
+                "docId": "concepts/fullnodes",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Node Networks and Sync",
+                "href": "/concepts/node-networks-sync",
+                "docId": "concepts/node-networks-sync",
+                "unlisted": false
+              }
+            ],
+            "href": "/concepts/blockchain"
+          },
+          {
+            "type": "link",
+            "label": "Move - A Web3 Language and Runtime",
+            "href": "/concepts/move-on-aptos",
+            "docId": "concepts/move",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Accounts",
+            "href": "/concepts/accounts",
+            "docId": "concepts/accounts",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Resources",
+            "href": "/concepts/resources",
+            "docId": "concepts/resources",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Events",
+            "href": "/concepts/events",
+            "docId": "concepts/events",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Transactions and States",
+            "href": "/concepts/txns-states",
+            "docId": "concepts/txns-states",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Gas and Storage Fees",
+            "href": "/concepts/gas-txn-fee",
+            "docId": "concepts/gas-txn-fee",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Computing Transaction Gas",
+            "href": "/concepts/base-gas",
+            "docId": "concepts/base-gas",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Blocks",
+            "href": "/concepts/blocks",
+            "docId": "concepts/blocks",
+            "unlisted": false
+          },
+          {
+            "type": "category",
+            "label": "Staking",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Delegated Staking",
+                "href": "/concepts/delegated-staking",
+                "docId": "concepts/delegated-staking",
+                "unlisted": false
+              }
+            ],
+            "href": "/concepts/staking"
+          },
+          {
+            "type": "link",
+            "label": "Governance",
+            "href": "/concepts/governance",
+            "docId": "concepts/governance",
+            "unlisted": false
+          }
+        ],
+        "href": "/concepts/"
+      },
+      {
+        "type": "link",
+        "label": "Explore Aptos",
+        "href": "/guides/explore-aptos",
+        "docId": "guides/explore-aptos",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Latest Aptos Releases",
+        "href": "/releases/aptos-releases",
+        "docId": "releases/index",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Networks",
+        "href": "/nodes/networks",
+        "docId": "nodes/networks",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Aptos White Paper(日本語)",
+        "href": "/aptos-white-paper/",
+        "docId": "aptos-white-paper/index",
+        "unlisted": false
+      }
+    ],
+    "appSidebar": [
+      {
+        "type": "html",
+        "value": "Build",
+        "className": "sidebar-title"
+      },
+      {
+        "type": "category",
+        "label": "Tutorials",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Your First Transaction",
+            "href": "/tutorials/your-first-transaction",
+            "docId": "tutorials/first-transaction",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Your First NFT",
+            "href": "/tutorials/your-first-nft",
+            "docId": "tutorials/your-first-nft",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Your First Coin",
+            "href": "/tutorials/your-first-coin",
+            "docId": "tutorials/first-coin",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Your First Fungible Asset",
+            "href": "/tutorials/your-first-fungible-asset",
+            "docId": "tutorials/first-fungible-asset",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Your First Move Module",
+            "href": "/tutorials/first-move-module",
+            "docId": "tutorials/first-move-module",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Your First Multisig",
+            "href": "/tutorials/your-first-multisig",
+            "docId": "tutorials/first-multisig",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Build E2E Dapp on Aptos",
+            "href": "/tutorials/build-e2e-dapp/e2e-dapp-index",
+            "docId": "tutorials/build-e2e-dapp/index",
+            "unlisted": false
+          }
+        ],
+        "href": "/tutorials/"
+      },
+      {
+        "type": "category",
+        "label": "Learn the Move Language",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "The Move Book",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "category",
+                "label": "Getting Started",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Introduction",
+                    "href": "/move/book/introduction",
+                    "docId": "move/book/introduction",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Modules and Scripts",
+                    "href": "/move/book/modules-and-scripts",
+                    "docId": "move/book/modules-and-scripts",
+                    "unlisted": false
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Primitive Types",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Moveチュートリアル",
+                    "href": "/move/book/creating-coins",
+                    "docId": "move/book/creating-coins",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "整数(インテジャー)",
+                    "href": "/move/book/integers",
+                    "docId": "move/book/integers",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "ブール",
+                    "href": "/move/book/bool",
+                    "docId": "move/book/bool",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "アドレス",
+                    "href": "/move/book/address",
+                    "docId": "move/book/address",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Vector",
+                    "href": "/move/book/vector",
+                    "docId": "move/book/vector",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "signer(署名者)",
+                    "href": "/move/book/signer",
+                    "docId": "move/book/signer",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "参照",
+                    "href": "/move/book/references",
+                    "docId": "move/book/references",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "タプルとユニット",
+                    "href": "/move/book/tuples",
+                    "docId": "move/book/tuples",
+                    "unlisted": false
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Basic Concepts",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "ローカル変数とスコープ",
+                    "href": "/move/book/variables",
+                    "docId": "move/book/variables",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "等価",
+                    "href": "/move/book/equality",
+                    "docId": "move/book/equality",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Abort(中止)とAssert",
+                    "href": "/move/book/abort-and-assert",
+                    "docId": "move/book/abort-and-assert",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "条件文",
+                    "href": "/move/book/conditionals",
+                    "docId": "move/book/conditionals",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "While, For, ループ",
+                    "href": "/move/book/loops",
+                    "docId": "move/book/loops",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "関数",
+                    "href": "/move/book/functions",
+                    "docId": "move/book/functions",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "構造とリソース",
+                    "href": "/move/book/structs-and-resources",
+                    "docId": "move/book/structs-and-resources",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "定数",
+                    "href": "/move/book/constants",
+                    "docId": "move/book/constants",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "ジェネリクス",
+                    "href": "/move/book/generics",
+                    "docId": "move/book/generics",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Abilities(機能)",
+                    "href": "/move/book/abilities",
+                    "docId": "move/book/abilities",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "用途と別名(エイリアス)",
+                    "href": "/move/book/uses",
+                    "docId": "move/book/uses",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "フレンズ",
+                    "href": "/move/book/friends",
+                    "docId": "move/book/friends",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "パッケージ",
+                    "href": "/move/book/packages",
+                    "docId": "move/book/packages",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "パッケージのアップグレード",
+                    "href": "/move/book/package-upgrades",
+                    "docId": "move/book/package-upgrades",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "ユニットテスト",
+                    "href": "/move/book/unit-testing",
+                    "docId": "move/book/unit-testing",
+                    "unlisted": false
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Global Storage",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Global Storage - Structure",
+                    "href": "/move/book/global-storage-structure",
+                    "docId": "move/book/global-storage-structure",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Global Storage - Operators",
+                    "href": "/move/book/global-storage-operators",
+                    "docId": "move/book/global-storage-operators",
+                    "unlisted": false
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Reference",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "ライブラリ",
+                    "href": "/move/book/standard-library",
+                    "docId": "move/book/standard-library",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Moveコーディング規則",
+                    "href": "/move/book/coding-conventions",
+                    "docId": "move/book/coding-conventions",
+                    "unlisted": false
+                  }
+                ]
+              }
+            ],
+            "href": "/move/book/SUMMARY"
+          },
+          {
+            "type": "category",
+            "label": "Advanced Move Guides",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "category",
+                "label": "Objects",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Creating objects",
+                    "href": "/move/move-on-aptos/objects/creating-objects",
+                    "docId": "move/move-on-aptos/objects/creating-objects",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Configuring objects",
+                    "href": "/move/move-on-aptos/objects/configuring-objects",
+                    "docId": "move/move-on-aptos/objects/configuring-objects",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Using objects",
+                    "href": "/move/move-on-aptos/objects/using-objects",
+                    "docId": "move/move-on-aptos/objects/using-objects",
+                    "unlisted": false
+                  }
+                ],
+                "href": "/move/move-on-aptos/objects/"
+              },
+              {
+                "type": "category",
+                "label": "Move Scripts",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Writing Move Scripts",
+                    "href": "/move/move-on-aptos/scripts/writing-scripts",
+                    "docId": "move/move-on-aptos/scripts/writing-scripts",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Compiling Move Scripts",
+                    "href": "/move/move-on-aptos/scripts/compiling-scripts",
+                    "docId": "move/move-on-aptos/scripts/compiling-scripts",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Running Move Scripts",
+                    "href": "/move/move-on-aptos/scripts/running-scripts",
+                    "docId": "move/move-on-aptos/scripts/running-scripts",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Move Scripts Tutorial",
+                    "href": "/move/move-on-aptos/scripts/script-tutorial",
+                    "docId": "move/move-on-aptos/scripts/script-tutorial",
+                    "unlisted": false
+                  }
+                ],
+                "href": "/move/move-on-aptos/scripts/"
+              },
+              {
+                "type": "link",
+                "label": "Resource Accounts",
+                "href": "/move/move-on-aptos/resource-accounts",
+                "docId": "move/move-on-aptos/resource-accounts",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Modules on Aptos",
+                "href": "/move/move-on-aptos/modules-on-aptos",
+                "docId": "move/move-on-aptos/modules-on-aptos",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Aptos CLI",
+                "href": "/move/move-on-aptos/cli",
+                "docId": "move/move-on-aptos/cli",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Cryptography",
+                "href": "/move/move-on-aptos/cryptography",
+                "docId": "move/move-on-aptos/cryptography",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Gas Profiling",
+                "href": "/move/move-on-aptos/gas-profiling",
+                "docId": "move/move-on-aptos/gas-profiling",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Security",
+                "href": "/move/move-on-aptos/move-security-guidelines",
+                "docId": "move/move-on-aptos/move-security-guidelines",
+                "unlisted": false
+              }
+            ],
+            "href": "/move/aptos-move"
+          },
+          {
+            "type": "category",
+            "label": "The Move Prover Book",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Move Proverユーザーガイド",
+                "href": "/move/prover/prover-guide",
+                "docId": "move/prover/prover-guide",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Move Specification Language",
+                "href": "/move/prover/spec-lang",
+                "docId": "move/prover/spec-lang",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Supporting Resources",
+                "href": "/move/prover/supporting-resources",
+                "docId": "move/prover/supporting-resources",
+                "unlisted": false
+              }
+            ],
+            "href": "/move/prover/move-prover"
+          }
+        ],
+        "href": "/move/move-on-aptos"
+      },
+      {
+        "type": "category",
+        "label": "Aptos Standards",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Object",
+            "href": "/standards/aptos-object",
+            "docId": "standards/aptos-object",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Aptos Coin (Legacy)",
+            "href": "/standards/aptos-coin",
+            "docId": "standards/aptos-coin",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Aptos Fungible Asset Standard",
+            "href": "/standards/fungible-asset",
+            "docId": "standards/fungible-asset",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Aptos Digital Asset Standard",
+            "href": "/standards/digital-asset",
+            "docId": "standards/digital-asset",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Aptos Token (Legacy)",
+            "href": "/standards/aptos-token",
+            "docId": "standards/aptos-token",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Aptos Wallet Standard",
+            "href": "/standards/wallets",
+            "docId": "standards/wallets",
+            "unlisted": false
+          }
+        ],
+        "href": "/standards/"
+      },
+      {
+        "type": "category",
+        "label": "Aptos APIs",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "フルノードREST API",
+            "href": "/apis/fullnode-rest-api",
+            "docId": "apis/fullnode-rest-api",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Aptosラボ開発者ポータル",
+            "href": "/apis/aptos-labs-developer-portal",
+            "docId": "apis/aptos-labs-developer-portal",
+            "unlisted": false
+          },
+          {
+            "type": "category",
+            "label": "Indexing",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "インデクサーAPI",
+                "href": "/indexer/api/",
+                "docId": "indexer/api/index",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "ラボがホストするインデクサーAPI",
+                "href": "/indexer/api/labs-hosted",
+                "docId": "indexer/api/labs-hosted",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "セルフホスト型インデクサーAPI",
+                "href": "/indexer/api/self-hosted",
+                "docId": "indexer/api/self-hosted",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "インデクサーAPIクエリの例",
+                "href": "/indexer/api/example-queries",
+                "docId": "indexer/api/example-queries",
+                "unlisted": false
+              }
+            ],
+            "href": "/indexer/indexer-landing"
+          },
+          {
+            "type": "category",
+            "label": "Custom Processors",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "End-to-Endチュートリアル",
+                "href": "/indexer/custom-processors/e2e-tutorial",
+                "docId": "indexer/custom-processors/e2e-tutorial",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "トランザクションの解析",
+                "href": "/indexer/custom-processors/parsing-txns",
+                "docId": "indexer/custom-processors/parsing-txns",
+                "unlisted": false
+              }
+            ],
+            "href": "/indexer/custom-processors/"
+          },
+          {
+            "type": "category",
+            "label": "Transaction Stream Service",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "ラボがホストするトランザクション ストリームサービス",
+                "href": "/indexer/txn-stream/labs-hosted",
+                "docId": "indexer/txn-stream/labs-hosted",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "自己ホスト型トランザクション ストリーム サービス",
+                "href": "/indexer/txn-stream/self-hosted",
+                "docId": "indexer/txn-stream/self-hosted",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "ローカルで実行する",
+                "href": "/indexer/txn-stream/local-development",
+                "docId": "indexer/txn-stream/local-development",
+                "unlisted": false
+              }
+            ],
+            "href": "/indexer/txn-stream/"
+          },
+          {
+            "type": "category",
+            "label": "Legacy Indexer",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "インデクサーフルノードを実行する",
+                "href": "/indexer/legacy/indexer-fullnode",
+                "docId": "indexer/legacy/indexer-fullnode",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "カスタムデータモデル",
+                "href": "/indexer/legacy/custom-data-model",
+                "docId": "indexer/legacy/custom-data-model",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "トランザクション ストリーム サービスへの移行",
+                "href": "/indexer/legacy/migration",
+                "docId": "indexer/legacy/migration",
+                "unlisted": false
+              }
+            ],
+            "href": "/indexer/legacy/"
+          }
+        ],
+        "href": "/apis/"
+      },
+      {
+        "type": "category",
+        "label": "Aptos SDKs",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "TypeScript SDK",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Migration Guide",
+                "href": "/sdks/ts-sdk/migration-guide",
+                "docId": "sdks/ts-sdk/migration-guide",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Account",
+                "href": "/sdks/ts-sdk/account",
+                "docId": "sdks/ts-sdk/account",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "SDK Configuration",
+                "href": "/sdks/ts-sdk/sdk-configuration",
+                "docId": "sdks/ts-sdk/sdk-configuration",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Fetch data from chain",
+                "href": "/sdks/ts-sdk/fetch-data-from-chain",
+                "docId": "sdks/ts-sdk/fetch-data-from-chain",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Transaction Builder",
+                "href": "/sdks/ts-sdk/transaction-builder",
+                "docId": "sdks/ts-sdk/transaction-builder",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "HTTP Client",
+                "href": "/sdks/ts-sdk/http-client",
+                "docId": "sdks/ts-sdk/http-client",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Move Types",
+                "href": "/sdks/ts-sdk/move-types",
+                "docId": "sdks/ts-sdk/move-types",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Testing",
+                "href": "/sdks/ts-sdk/testing",
+                "docId": "sdks/ts-sdk/testing",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Typescript",
+                "href": "/sdks/ts-sdk/typescript",
+                "docId": "sdks/ts-sdk/typescript",
+                "unlisted": false
+              }
+            ],
+            "href": "/sdks/ts-sdk/"
+          },
+          {
+            "type": "category",
+            "label": "Legacy TypeScript SDK",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "TypeScript SDK Architecture",
+                "href": "/sdks/legacy-ts-sdk/typescript-sdk-overview",
+                "docId": "sdks/legacy-ts-sdk/typescript-sdk-overview",
+                "unlisted": false
+              },
+              {
+                "type": "category",
+                "label": "API Client Layer",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "AptosClient Class",
+                    "href": "/sdks/legacy-ts-sdk/typescript-sdk-aptos-client-class",
+                    "docId": "sdks/legacy-ts-sdk/aptos-client",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "IndexerClient Class",
+                    "href": "/sdks/legacy-ts-sdk/typescript-sdk-indexer-client-class",
+                    "docId": "sdks/legacy-ts-sdk/indexer-client",
+                    "unlisted": false
+                  }
+                ],
+                "href": "/sdks/legacy-ts-sdk/typescript-sdk-client-layer"
+              },
+              {
+                "type": "link",
+                "label": "Core Layer",
+                "href": "/sdks/legacy-ts-sdk/typescript-sdk-core-layer",
+                "docId": "sdks/legacy-ts-sdk/sdk-core-layer",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "プラグインレイヤー",
+                "href": "/sdks/legacy-ts-sdk/typescript-sdk-plugins-layer",
+                "docId": "sdks/legacy-ts-sdk/sdk-plugins-layer",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "テストと検証",
+                "href": "/sdks/legacy-ts-sdk/typescript-sdk-tests",
+                "docId": "sdks/legacy-ts-sdk/sdk-tests",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Python SDK(日本語)",
+                "href": "/sdks/python-sdk/",
+                "docId": "sdks/python-sdk/index",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Rust SDK(日本語)",
+                "href": "/sdks/rust-sdk/",
+                "docId": "sdks/rust-sdk/index",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Unity SDK(日本語)",
+                "href": "/sdks/unity-sdk/",
+                "docId": "sdks/unity-sdk/index",
+                "unlisted": false
+              }
+            ],
+            "href": "/sdks/legacy-ts-sdk/index"
+          }
+        ],
+        "href": "/sdks/index"
+      },
+      {
+        "type": "category",
+        "label": "Aptos CLI",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "Install the Aptos CLI",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Install CLI by Script",
+                "href": "/tools/aptos-cli/install-cli/automated-install",
+                "docId": "tools/aptos-cli/install-cli/automated-install",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Download CLI Binaries",
+                "href": "/tools/aptos-cli/install-cli/download-cli-binaries",
+                "docId": "tools/aptos-cli/install-cli/download-cli-binaries",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Install the CLI with Brew",
+                "href": "/tools/aptos-cli/install-cli/install-from-brew",
+                "docId": "tools/aptos-cli/install-cli/install-from-brew",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Build CLI from Source Code",
+                "href": "/tools/aptos-cli/install-cli/build-from-source",
+                "docId": "tools/aptos-cli/install-cli/build-from-source",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Install the Move Prover",
+                "href": "/tools/aptos-cli/install-cli/install-move-prover",
+                "docId": "tools/aptos-cli/install-cli/install-move-prover",
+                "unlisted": false
+              }
+            ],
+            "href": "/tools/aptos-cli/install-cli/"
+          },
+          {
+            "type": "category",
+            "label": "Use Aptos CLI",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Configuration",
+                "href": "/tools/aptos-cli/use-cli/cli-configuration",
+                "docId": "tools/aptos-cli/use-cli/cli-configuration",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Account",
+                "href": "/tools/aptos-cli/use-cli/cli-account",
+                "docId": "tools/aptos-cli/use-cli/cli-account",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Key",
+                "href": "/tools/aptos-cli/use-cli/cli-key",
+                "docId": "tools/aptos-cli/use-cli/cli-key",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Node",
+                "href": "/tools/aptos-cli/use-cli/cli-node",
+                "docId": "tools/aptos-cli/use-cli/cli-node",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Genesis",
+                "href": "/tools/aptos-cli/use-cli/cli-genesis",
+                "docId": "tools/aptos-cli/use-cli/cli-genesis",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Use Aptos CLI with Ledger",
+                "href": "/tools/aptos-cli/use-cli/use-aptos-ledger",
+                "docId": "tools/aptos-cli/use-cli/use-aptos-ledger",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Running a Local Network",
+                "href": "/tools/aptos-cli/use-cli/running-a-local-network",
+                "docId": "tools/aptos-cli/use-cli/running-a-local-network",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Running a Public Network",
+                "href": "/tools/aptos-cli/use-cli/public-network/run-public-network",
+                "docId": "tools/aptos-cli/use-cli/public-network/run-public-network",
+                "unlisted": false
+              }
+            ],
+            "href": "/tools/aptos-cli/use-cli/use-aptos-cli"
+          },
+          {
+            "type": "category",
+            "label": "Working With Move Contracts",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Arguments in JSON Tutorial",
+                "href": "/tools/aptos-cli/use-cli/move-tutorials/arguments-in-json-tutorial",
+                "docId": "tools/aptos-cli/use-cli/move-tutorials/arguments-in-json-tutorial",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Multisig Governance Tutorial",
+                "href": "/tools/aptos-cli/use-cli/move-tutorials/multi-signature-tutorial",
+                "docId": "tools/aptos-cli/use-cli/move-tutorials/multi-signature-tutorial",
+                "unlisted": false
+              }
+            ],
+            "href": "/tools/aptos-cli/use-cli/working-with-move-contracts"
+          }
+        ],
+        "href": "/tools/aptos-cli/"
+      },
+      {
+        "type": "category",
+        "label": "Integrate with Aptos",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Aptos Token Overview",
+            "href": "/guides/nfts/aptos-token-overview",
+            "docId": "guides/nfts/aptos-token-overview",
+            "unlisted": false
+          },
+          {
+            "type": "category",
+            "label": "Integrate with Wallets",
+            "items": [
+              {
+                "type": "link",
+                "label": "Dapps用",
+                "href": "/integration/wallet-adapter-for-dapp",
+                "docId": "integration/wallet-adapter-for-dapp",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "ウォレット用",
+                "href": "/integration/wallet-adapter-for-wallets",
+                "docId": "integration/wallet-adapter-for-wallets",
+                "unlisted": false
+              }
+            ],
+            "collapsible": true,
+            "collapsed": true,
+            "href": "/integration/wallet-adapter-concept"
+          },
+          {
+            "type": "link",
+            "label": "Aptosネームサービスとの統合",
+            "href": "/integration/aptos-names-service-package",
+            "docId": "integration/aptos-names-service-package",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Aptos Error Codes",
+            "href": "/reference/error-codes",
+            "docId": "reference/error-codes",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Application Integration Guide",
+            "href": "/guides/system-integrators-guide",
+            "docId": "guides/system-integrators-guide",
+            "unlisted": false
+          }
+        ],
+        "href": "/integration/"
+      },
+      {
+        "type": "category",
+        "label": "Build E2E Dapp with Aptos",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "1. Create a Smart Contract",
+            "href": "/tutorials/build-e2e-dapp/create-a-smart-contract",
+            "docId": "tutorials/build-e2e-dapp/create-a-smart-contract",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "2. Set up React App",
+            "href": "/tutorials/build-e2e-dapp/set-up-react-app",
+            "docId": "tutorials/build-e2e-dapp/set-up-react-app",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "3. Add Wallet Support",
+            "href": "/tutorials/build-e2e-dapp/add-wallet-support",
+            "docId": "tutorials/build-e2e-dapp/add-wallet-support",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "4. Fetch Data from Chain",
+            "href": "/tutorials/build-e2e-dapp/fetch-data-from-chain",
+            "docId": "tutorials/build-e2e-dapp/fetch-data-from-chain",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "5. Submit Data to Chain",
+            "href": "/tutorials/build-e2e-dapp/submit-data-to-chain",
+            "docId": "tutorials/build-e2e-dapp/submit-data-to-chain",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "6. Handle Tasks",
+            "href": "/tutorials/build-e2e-dapp/handle-tasks",
+            "docId": "tutorials/build-e2e-dapp/handle-tasks",
+            "unlisted": false
+          }
+        ],
+        "href": "/tutorials/build-e2e-dapp/e2e-dapp-index"
+      },
+      {
+        "type": "category",
+        "label": "Advanced Builder Guides",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "Develop Locally",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Run a Local Development Network",
+                "href": "/guides/local-development-network",
+                "docId": "guides/local-development-network",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Run a Localnet with Validator",
+                "href": "/nodes/localnet/run-a-localnet",
+                "docId": "nodes/localnet/run-a-localnet",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Run a Local Multi-node Network",
+                "href": "/guides/running-a-local-multi-node-network",
+                "docId": "guides/running-a-local-multi-node-network",
+                "unlisted": false
+              }
+            ],
+            "href": "/nodes/localnet/localnet-index"
+          },
+          {
+            "type": "link",
+            "label": "スポンサードトランザクション",
+            "href": "/guides/sponsored-transactions",
+            "docId": "guides/sponsored-transactions",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "トランザクション管理",
+            "href": "/guides/transaction-management",
+            "docId": "guides/transaction-management",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "認証キーのローテーション",
+            "href": "/guides/account-management/key-rotation",
+            "docId": "guides/account-management/key-rotation",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Building Aptos From Source",
+            "href": "/guides/building-from-source",
+            "docId": "guides/building-from-source",
+            "unlisted": false
+          }
+        ],
+        "href": "/category/advanced-builders"
+      }
+    ],
+    "nodeSidebar": [
+      {
+        "type": "html",
+        "value": "Run Nodes",
+        "className": "sidebar-title"
+      },
+      {
+        "type": "link",
+        "label": "Learn about Nodes",
+        "href": "/nodes/nodes-landing",
+        "docId": "nodes/nodes-landing",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Run a Validator and VFN",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Node Requirements",
+            "href": "/nodes/validator-node/operator/node-requirements",
+            "docId": "nodes/validator-node/operator/node-requirements",
+            "unlisted": false
+          },
+          {
+            "type": "category",
+            "label": "Deploy Nodes",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Using Source Code",
+                "href": "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-source",
+                "docId": "nodes/validator-node/operator/running-validator-node/using-source-code",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Using Docker",
+                "href": "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-docker",
+                "docId": "nodes/validator-node/operator/running-validator-node/using-docker",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Using AWS",
+                "href": "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-aws",
+                "docId": "nodes/validator-node/operator/running-validator-node/using-aws",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Using Azure",
+                "href": "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-azure",
+                "docId": "nodes/validator-node/operator/running-validator-node/using-azure",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Using GCP",
+                "href": "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-gcp",
+                "docId": "nodes/validator-node/operator/running-validator-node/using-gcp",
+                "unlisted": false
+              }
+            ],
+            "href": "/nodes/validator-node/operator/running-validator-node/running-validator-node"
+          },
+          {
+            "type": "category",
+            "label": "Connect Nodes",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Connect to a Network",
+                "href": "/nodes/validator-node/operator/connect-to-aptos-network",
+                "docId": "nodes/validator-node/operator/connect-to-aptos-network",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Staking Pool Operations",
+                "href": "/nodes/validator-node/operator/staking-pool-operations",
+                "docId": "nodes/validator-node/operator/staking-pool-operations",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Delegation Pool Operations",
+                "href": "/nodes/validator-node/operator/delegation-pool-operations",
+                "docId": "nodes/validator-node/operator/delegation-pool-operations",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Staking Pool Voter",
+                "href": "/nodes/validator-node/voter/index",
+                "docId": "nodes/validator-node/voter/index",
+                "unlisted": false
+              }
+            ],
+            "href": "/nodes/validator-node/operator/connect-nodes/connect-validator-node"
+          },
+          {
+            "type": "category",
+            "label": "Verify Nodes",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Node Health",
+                "href": "/nodes/validator-node/operator/node-liveness-criteria",
+                "docId": "nodes/validator-node/operator/node-liveness-criteria",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Validator Leaderboard",
+                "href": "/nodes/leaderboard-metrics",
+                "docId": "nodes/leaderboard-metrics",
+                "unlisted": false
+              }
+            ],
+            "href": "/nodes/validator-node/operator/verify-nodes/verify-validator-node"
+          },
+          {
+            "type": "category",
+            "label": "Modify Nodes",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Upgrade Nodes",
+                "href": "/nodes/validator-node/operator/update-validator-node",
+                "docId": "nodes/validator-node/operator/update-validator-node",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Shutdown Nodes",
+                "href": "/nodes/validator-node/operator/shutting-down-nodes",
+                "docId": "nodes/validator-node/operator/shutting-down-nodes",
+                "unlisted": false
+              }
+            ],
+            "href": "/nodes/validator-node/operator/modify-nodes/modify-validator-node"
+          }
+        ],
+        "href": "/nodes/validator-node/validators"
+      },
+      {
+        "type": "category",
+        "label": "Run a Public Fullnode",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "PFN Requirements",
+            "href": "/nodes/full-node/pfn-requirements",
+            "docId": "nodes/full-node/pfn-requirements",
+            "unlisted": false
+          },
+          {
+            "type": "category",
+            "label": "Deploy a PFN",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Using Source Code",
+                "href": "/nodes/full-node/deployments/deploy-a-pfn-source-code",
+                "docId": "nodes/full-node/deployments/using-source-code",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Using Docker",
+                "href": "/nodes/full-node/deployments/deploy-a-pfn-docker",
+                "docId": "nodes/full-node/deployments/using-docker",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Using GCP",
+                "href": "/nodes/full-node/deployments/deploy-a-pfn-gcp",
+                "docId": "nodes/full-node/deployments/using-gcp",
+                "unlisted": false
+              }
+            ],
+            "href": "/nodes/full-node/deployments/deploy-a-pfn"
+          },
+          {
+            "type": "link",
+            "label": "Verify a PFN",
+            "href": "/nodes/full-node/verify-pfn",
+            "docId": "nodes/full-node/verify-pfn",
+            "unlisted": false
+          },
+          {
+            "type": "category",
+            "label": "Modify a PFN",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Upgrade your PFN",
+                "href": "/nodes/full-node/update-fullnode-with-new-devnet-releases",
+                "docId": "nodes/full-node/update-fullnode-with-new-releases",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Generate a PFN Identity",
+                "href": "/nodes/full-node/network-identity-fullnode",
+                "docId": "nodes/full-node/network-identity-fullnode",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Customize PFN Networks",
+                "href": "/nodes/full-node/fullnode-network-connections",
+                "docId": "nodes/full-node/fullnode-network-connections",
+                "unlisted": false
+              }
+            ],
+            "href": "/nodes/modify/modify-index"
+          }
+        ],
+        "href": "/nodes/full-node/public-fullnode"
+      },
+      {
+        "type": "category",
+        "label": "Bootstrap a Node",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Bootstrap from a Snapshot",
+            "href": "/nodes/full-node/bootstrap-fullnode",
+            "docId": "nodes/full-node/bootstrap-fullnode",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Bootstrap from a Backup",
+            "href": "/nodes/full-node/aptos-db-restore",
+            "docId": "nodes/full-node/aptos-db-restore",
+            "unlisted": false
+          }
+        ],
+        "href": "/nodes/operations/operations-index"
+      },
+      {
+        "type": "category",
+        "label": "Configure a Node",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "State Synchronization",
+            "href": "/guides/state-sync",
+            "docId": "guides/state-sync",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Data Pruning",
+            "href": "/guides/data-pruning",
+            "docId": "guides/data-pruning",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Telemetry",
+            "href": "/reference/telemetry",
+            "docId": "reference/telemetry",
+            "unlisted": false
+          },
+          {
+            "type": "category",
+            "label": "Locating Node Files",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Files For Mainnet",
+                "href": "/nodes/node-files-all-networks/node-files",
+                "docId": "nodes/node-files-all-networks/node-files",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Files For Testnet",
+                "href": "/nodes/node-files-all-networks/node-files-testnet",
+                "docId": "nodes/node-files-all-networks/node-files-testnet",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Files For Devnet",
+                "href": "/nodes/node-files-all-networks/node-files-devnet",
+                "docId": "nodes/node-files-all-networks/node-files-devnet",
+                "unlisted": false
+              }
+            ],
+            "href": "/nodes/node-files-all-networks/node-files-index"
+          }
+        ],
+        "href": "/nodes/configure/configure-index"
+      },
+      {
+        "type": "category",
+        "label": "Monitor a Node",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Node Inspection Service",
+            "href": "/nodes/measure/node-inspection-service",
+            "docId": "nodes/measure/node-inspection-service",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Important Node Metrics",
+            "href": "/nodes/measure/important-metrics",
+            "docId": "nodes/measure/important-metrics",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Node Health Checker",
+            "href": "/nodes/measure/node-health-checker",
+            "docId": "nodes/measure/node-health-checker",
+            "unlisted": false
+          }
+        ],
+        "href": "/nodes/measure/measure-index"
+      }
+    ],
+    "refSidebar": [
+      {
+        "type": "html",
+        "value": "Aptos References",
+        "className": "sidebar-title"
+      },
+      {
+        "type": "link",
+        "label": "Aptos API Spec",
+        "href": "/nodes/aptos-api-spec",
+        "docId": "nodes/aptos-api-spec",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Aptos Error Codes",
+        "href": "/reference/error-codes",
+        "docId": "reference/error-codes",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "参考文献",
+        "href": "/reference/move",
+        "docId": "reference/move",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Aptos Glossary",
+        "href": "/reference/glossary",
+        "docId": "reference/glossary",
+        "unlisted": false
+      }
+    ],
+    "comSidebar": [
+      {
+        "type": "html",
+        "value": "Aptos Community",
+        "className": "sidebar-title"
+      },
+      {
+        "type": "link",
+        "label": "Contribute to the Aptos Ecosystem",
+        "href": "/community/",
+        "docId": "community/index",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "External Resources",
+        "href": "/community/external-resources",
+        "docId": "community/external-resources",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Update Aptos.dev",
+        "href": "/community/site-updates",
+        "docId": "community/site-updates",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Follow Aptos Style",
+        "href": "/community/aptos-style",
+        "docId": "community/aptos-style",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Contributors",
+        "href": "/community/contributors",
+        "docId": "community/contributors",
+        "unlisted": false
+      }
+    ]
+  },
+  "docs": {
+    "apis/aptos-labs-developer-portal": {
+      "id": "apis/aptos-labs-developer-portal",
+      "title": "Aptosラボ開発者ポータル",
+      "description": "Aptosラボ開発者ポータルは、Aptosラボ提供のAPIに素早く簡単にアクセスするためのゲートウェイで、あなたのdappを強化します。Aptosラボが運営するポータル(UI)と一連のAPIゲートウェイで構成されます。",
+      "sidebar": "appSidebar"
+    },
+    "apis/fullnode-rest-api": {
+      "id": "apis/fullnode-rest-api",
+      "title": "フルノードREST API",
+      "description": "Aptos APIを使用したい場合はこのガイドが最適です。このガイドではAptos APIを使用してAptosブロックチェーンをプラットフォームに統合するための手順を全て解説します。",
+      "sidebar": "appSidebar"
+    },
+    "apis/index": {
+      "id": "apis/index",
+      "title": "アプトスAPI",
+      "description": "ユースケースに応じて、いくつかのAPIからAptosブロックチェーンネットワークにアクセスできます。",
+      "sidebar": "appSidebar"
+    },
+    "aptos-white-paper/index": {
+      "id": "aptos-white-paper/index",
+      "title": "Aptos White Paper(日本語)",
+      "description": "安全でスケーラブル、アップグレード可能なWeb3インフラ",
+      "sidebar": "aptosSidebar"
+    },
+    "community/aptos-style": {
+      "id": "community/aptos-style",
+      "title": "Follow Aptos Style",
+      "description": "When making site updates, Aptos recommends adhering to this writing and formatting style guide for consistency with the rest of Aptos.dev, as well as accessibility directly in GitHub.com and source code editors.",
+      "sidebar": "comSidebar"
+    },
+    "community/contributions/remix-ide-plugin": {
+      "id": "community/contributions/remix-ide-plugin",
+      "title": "Use Remix IDE Plugin",
+      "description": "This tutorial explains how to deploy and run Move modules with the WELLDONE Code Remix IDE plugin. This tool offers a graphical interface for developing Move modules."
+    },
+    "community/contributors": {
+      "id": "community/contributors",
+      "title": "Contributors",
+      "description": "",
+      "sidebar": "comSidebar"
+    },
+    "community/external-resources": {
+      "id": "community/external-resources",
+      "title": "External Resources",
+      "description": "This page links to third-party contents. Aptos neither endorses nor supports these contributions. Nor can we guarantee their effects.",
+      "sidebar": "comSidebar"
+    },
+    "community/index": {
+      "id": "community/index",
+      "title": "Contribute to the Aptos Ecosystem",
+      "description": "We welcome your own contributions to the Aptos blockchain and this site! Aptos exists to foster an inclusive ecosystem. This page describes ways you can help, while the other pages in this section highlight our community's contributions.",
+      "sidebar": "comSidebar"
+    },
+    "community/site-updates": {
+      "id": "community/site-updates",
+      "title": "Update Aptos.dev",
+      "description": "As an open source project, Aptos needs your knowledge to grow. Follow the instructions on this page to update Aptos.dev, the developer website for the Aptos blockchain. Every contributor to Aptos.dev is listed as an author on the pages they edit and update. See the Authors list at the bottom of any page for an example.",
+      "sidebar": "comSidebar"
+    },
+    "concepts/accounts": {
+      "id": "concepts/accounts",
+      "title": "Accounts",
+      "description": "An account on the Aptos blockchain represents access control over a set of assets including on-chain currency and NFTs. In Aptos, these assets are represented by a Move language primitive known as a resource that emphasizes both access control and scarcity.",
+      "sidebar": "aptosSidebar"
+    },
+    "concepts/base-gas": {
+      "id": "concepts/base-gas",
+      "title": "Computing Transaction Gas",
+      "description": "Aptos transactions by default charge a base gas fee, regardless of market conditions.",
+      "sidebar": "aptosSidebar"
+    },
+    "concepts/blockchain": {
+      "id": "concepts/blockchain",
+      "title": "Aptos Blockchain Deep Dive",
+      "description": "For a deeper understanding of the lifecycle of an Aptos transaction (from an operational perspective), we will follow a transaction on its journey, from being submitted to an Aptos fullnode, to being committed to the Aptos blockchain. We will then focus on the logical components of Aptos nodes and take a look at how the transaction interacts with these components.",
+      "sidebar": "aptosSidebar"
+    },
+    "concepts/blocks": {
+      "id": "concepts/blocks",
+      "title": "Blocks",
+      "description": "Aptos is a per-transaction versioned database. When transactions are executed, the resulting state of each transaction is stored separately and thus allows for more granular data access. This is different from other blockchains where only the resulting state of a block (a group of transactions) is stored.",
+      "sidebar": "aptosSidebar"
+    },
+    "concepts/delegated-staking": {
+      "id": "concepts/delegated-staking",
+      "title": "Delegated Staking",
+      "description": "Delegated Staking on the Aptos Blockchain",
+      "sidebar": "aptosSidebar"
+    },
+    "concepts/events": {
+      "id": "concepts/events",
+      "title": "Events",
+      "description": "Events are emitted during the execution of a transaction. Each Move module can define its own events and choose when to emit the events upon execution of the module. Aptos Move supports two form of events: module events and EventHandle events. Module events are the modern event mechanism and shipped in the framework release 1.7. EventHandle events are deprecated and shipped with the original framework. Because of how blockchains work, EventHandle events will likely never be fully removed from Aptos.",
+      "sidebar": "aptosSidebar"
+    },
+    "concepts/fullnodes": {
+      "id": "concepts/fullnodes",
+      "title": "Fullnodes Overview",
+      "description": "An Aptos node is an entity of the Aptos ecosystem that tracks the state of the Aptos blockchain. Clients interact with the blockchain via Aptos nodes. There are two types of nodes:",
+      "sidebar": "aptosSidebar"
+    },
+    "concepts/gas-txn-fee": {
+      "id": "concepts/gas-txn-fee",
+      "title": "Gas and Storage Fees",
+      "description": "Any transaction execution on the Aptos blockchain requires a processing fee. As of today, this fee comprises two components:",
+      "sidebar": "aptosSidebar"
+    },
+    "concepts/governance": {
+      "id": "concepts/governance",
+      "title": "Governance",
+      "description": "The Aptos on-chain governance is a process by which the Aptos community members can create and vote on proposals that minimize the cost of blockchain upgrades. The following describes the scope of these proposals for the Aptos on-chain governance:",
+      "sidebar": "aptosSidebar"
+    },
+    "concepts/index": {
+      "id": "concepts/index",
+      "title": "Learn about Aptos",
+      "description": "Start here to get into the core concepts of the Aptos blockchain. Then review our research papers and the Aptos source code found in the Aptos-core repository of GitHub while continuing your journey through this site. The source contains READMEs and code comments invaluable to developing on Aptos.",
+      "sidebar": "aptosSidebar"
+    },
+    "concepts/move": {
+      "id": "concepts/move",
+      "title": "Move - A Web3 Language and Runtime",
+      "description": "The Aptos blockchain consists of validator nodes that run a consensus protocol. The consensus protocol agrees upon the ordering of transactions and their output when executed on the Move Virtual Machine (MoveVM). Each validator node translates transactions along with the current blockchain ledger state as input into the VM. The MoveVM processes this input to produce a changeset or storage delta as output. Once consensus agrees and commits to the output, it becomes publicly visible. In this guide, we will introduce you to core Move concepts and how they apply to developing on Aptos.",
+      "sidebar": "aptosSidebar"
+    },
+    "concepts/node-networks-sync": {
+      "id": "concepts/node-networks-sync",
+      "title": "Node Networks and Sync",
+      "description": "Validator nodes and fullnodes form a hierarchical structure with validator nodes at the root and fullnodes everywhere else. The Aptos blockchain distinguishes two types of fullnodes: validator fullnodes and public fullnodes. Validator fullnodes connect directly to validator nodes and offer scalability alongside DDoS mitigation. Public fullnodes connect to validator fullnodes (or other public fullnodes) to gain low-latency access to the Aptos network.",
+      "sidebar": "aptosSidebar"
+    },
+    "concepts/resources": {
+      "id": "concepts/resources",
+      "title": "Resources",
+      "description": "On Aptos, on-chain state is organized into resources and modules. These are then stored within the individual accounts. This is different from other blockchains, such as Ethereum, where each smart contract maintains their own storage space. See Accounts for more details on accounts.",
+      "sidebar": "aptosSidebar"
+    },
+    "concepts/staking": {
+      "id": "concepts/staking",
+      "title": "Staking",
+      "description": "We strongly recommend that you read the consensus section of Aptos Blockchain Deep Dive before proceeding further.",
+      "sidebar": "aptosSidebar"
+    },
+    "concepts/txns-states": {
+      "id": "concepts/txns-states",
+      "title": "Transactions and States",
+      "description": "The Aptos blockchain stores three types of data:",
+      "sidebar": "aptosSidebar"
+    },
+    "concepts/validator-nodes": {
+      "id": "concepts/validator-nodes",
+      "title": "Validator Nodes Overview",
+      "description": "An Aptos node is an entity of the Aptos ecosystem that tracks the state of the Aptos blockchain. Clients interact with the blockchain via Aptos nodes. There are two types of nodes:",
+      "sidebar": "aptosSidebar"
+    },
+    "guides/account-management/key-rotation": {
+      "id": "guides/account-management/key-rotation",
+      "title": "認証キーのローテーション",
+      "description": "Aptos Moveアカウントには、公開アドレス、認証キー、公開鍵、秘密鍵があります。公開アドレスは永久であり、常にアカウントの初期認証キーと一致します。",
+      "sidebar": "appSidebar"
+    },
+    "guides/building-from-source": {
+      "id": "guides/building-from-source",
+      "title": "Building Aptos From Source",
+      "description": "バイナリリリースは利用可能ですが、ソースからビルドしたり、Aptosツールで開発したりする場合は、以下の様にします。",
+      "sidebar": "appSidebar"
+    },
+    "guides/data-pruning": {
+      "id": "guides/data-pruning",
+      "title": "Data Pruning",
+      "description": "全てのAptosノード(バリデータ、VFN、PFNなど)はトランザクションを処理し、新しいデータをブロックチェーンにコミットします。ブロックチェーンが(無期限に)成長すると、ノードは古いブロックチェーンデータを整理(プルーニング)する事で、必要なストレージディスク容量を管理できます。これを実現するため、Aptosノードは、全トランザクション履歴を含むデータベース内のブロックチェーン台帳履歴を整理します。",
+      "sidebar": "nodeSidebar"
+    },
+    "guides/explore-aptos": {
+      "id": "guides/explore-aptos",
+      "title": "Explore Aptos",
+      "description": "The Aptos Explorer lets you delve into the activity on the Aptos blockchain in great detail, seeing transactions, validators, and account information. With the Aptos Explorer, you can ensure that the transactions performed on Aptos are accurately reflected. Note, the Aptos ecosystem has several other explorers to choose from.",
+      "sidebar": "aptosSidebar"
+    },
+    "guides/keyless-accounts": {
+      "id": "guides/keyless-accounts",
+      "title": "Aptos Keyless",
+      "description": "Aptosキーレス統合ガイド"
+    },
+    "guides/local-development-network": {
+      "id": "guides/local-development-network",
+      "title": "Run a Local Development Network",
+      "description": "You can run the Aptos network locally. This local network will not be connected to any production Aptos network (e.g. mainnet), it will run on your local machine, independent of other Aptos networks. Building against a local network has a few advantages:",
+      "sidebar": "appSidebar"
+    },
+    "guides/nfts/aptos-token-overview": {
+      "id": "guides/nfts/aptos-token-overview",
+      "title": "Aptos Token Overview",
+      "description": "Aptosデジタル資産標準はAptosの公式の非代替トークンを定義します。Aptosは構成可能性を活用して",
+      "sidebar": "appSidebar"
+    },
+    "guides/running-a-local-multi-node-network": {
+      "id": "guides/running-a-local-multi-node-network",
+      "title": "Run a Local Multi-node Network",
+      "description": "このガイドでは、複数のバリデータノードとバリデータフルノードを使用してローカルネットワークを実行する方法を解説します。Aptos Forge CLIを使用します。",
+      "sidebar": "appSidebar"
+    },
+    "guides/sponsored-transactions": {
+      "id": "guides/sponsored-transactions",
+      "title": "スポンサードトランザクション",
+      "description": "AIP-39の概要で示す様に、スポンサードトランザクションはひとつのアカウントが別のアカウントのトランザクション実行料金を支払う事が出来、",
+      "sidebar": "appSidebar"
+    },
+    "guides/state-sync": {
+      "id": "guides/state-sync",
+      "title": "State Synchronization",
+      "description": "Aptosネットワーク内のノード(バリデータ、VFN、PFN など)は、常に最新のブロックチェーン状態に同期されている必要があります。各ノードで実行される状態同期(状態同期)コンポーネントが、この役割を負います。状態同期は、ピアから新しいブロックチェーンデータを識別して取得し、データを検証してローカル ストレージに保存します。",
+      "sidebar": "nodeSidebar"
+    },
+    "guides/system-integrators-guide": {
+      "id": "guides/system-integrators-guide",
+      "title": "Application Integration Guide",
+      "description": "あなたが顧客へのブロックチェーンサービス提供者で、プラットフォームにAptosブロックチェーンを追加したい場合は、このガイドが役立ちます。このシステムインテグレーターガイドは、プラットフォームにAptosブロックチェーンを統合する際必要な全ての手順を解説します。",
+      "sidebar": "appSidebar"
+    },
+    "guides/transaction-management": {
+      "id": "guides/transaction-management",
+      "title": "トランザクション管理",
+      "description": "このガイドは、Aptosブロックチェーン上で拡張出来るトランザクション管理ハーネスの構築方法について解説します。",
+      "sidebar": "appSidebar"
+    },
+    "index": {
+      "id": "index",
+      "title": "Aptos Developer Documentation",
+      "description": "Everything you need to build on the Aptos blockchain. This documentation covers basic and advanced concepts, how-to guides, code examples, release notes, more."
+    },
+    "indexer/api/example-queries": {
+      "id": "indexer/api/example-queries",
+      "title": "インデクサーAPIクエリの例",
+      "description": "サンプルクエリの実行",
+      "sidebar": "appSidebar"
+    },
+    "indexer/api/index": {
+      "id": "indexer/api/index",
+      "title": "インデクサーAPI",
+      "description": "このセクションには、aptosインデクサーAPIのドキュメントが含まれています。このAPIは、aptos-labs/aptos-indexer-processorsリポジトリで提供するプロセッサの標準セットに基づいて構築されています。",
+      "sidebar": "appSidebar"
+    },
+    "indexer/api/labs-hosted": {
+      "id": "indexer/api/labs-hosted",
+      "title": "ラボがホストするインデクサーAPI",
+      "description": "グラフQL APIエンドポイント",
+      "sidebar": "appSidebar"
+    },
+    "indexer/api/self-hosted": {
+      "id": "indexer/api/self-hosted",
+      "title": "セルフホスト型インデクサーAPI",
+      "description": "このガイドでは、セルフホスト型インデクサーAPIのセットアップについて説明します。",
+      "sidebar": "appSidebar"
+    },
+    "indexer/api/usage-guide": {
+      "id": "indexer/api/usage-guide",
+      "title": "Indexer API Usage Guide",
+      "description": "近日公開!"
+    },
+    "indexer/custom-processors/e2e-tutorial": {
+      "id": "indexer/custom-processors/e2e-tutorial",
+      "title": "End-to-Endチュートリアル",
+      "description": "このチュートリアルでは、基本的なカスタムインデクサープロセッサーを作成しAptosブロックチェーン上のイベントとデータを追跡する手順を解説します。",
+      "sidebar": "appSidebar"
+    },
+    "indexer/custom-processors/index": {
+      "id": "indexer/custom-processors/index",
+      "title": "カスタムプロセッサー",
+      "description": "このセクションでは、カスタムプロセッサとは何か、カスタム プロセッサを作成してデプロイする方法、トランザクションストリームサービスからのトランザクションの解析方法について解説します。",
+      "sidebar": "appSidebar"
+    },
+    "indexer/custom-processors/parsing-txns": {
+      "id": "indexer/custom-processors/parsing-txns",
+      "title": "トランザクションの解析",
+      "description": "<!--",
+      "sidebar": "appSidebar"
+    },
+    "indexer/indexer-landing": {
+      "id": "indexer/indexer-landing",
+      "title": "インデクサー",
+      "description": "クイックスタート",
+      "sidebar": "appSidebar"
+    },
+    "indexer/legacy/custom-data-model": {
+      "id": "indexer/legacy/custom-data-model",
+      "title": "カスタムデータモデル",
+      "description": "これは従来のインデクサーに関するドキュメントです。最新のインデクサースタックを使用してカスタムプロセッサを作成する方法についてはカスタムプロセッサーを御覧下さい。",
+      "sidebar": "appSidebar"
+    },
+    "indexer/legacy/index": {
+      "id": "indexer/legacy/index",
+      "title": "従来のインデクサー",
+      "description": "今後 - 2024年第2四半期末: 私達は従来のインデクサーに新機能は追加しません。コミュニティへの全般的なサポートは継続します。そして、ブロックチェーンレベルで行われた変更が既存のレガシープロセッサを破壊しない様にしていきます。",
+      "sidebar": "appSidebar"
+    },
+    "indexer/legacy/indexer-fullnode": {
+      "id": "indexer/legacy/indexer-fullnode",
+      "title": "インデクサーフルノードを実行する",
+      "description": "これは従来のインデクサーに関するドキュメントです。最新のインデクサースタックの基盤となるインフラストラクチャを実行する方法については トランザクションストリームサービスを御覧下さい。",
+      "sidebar": "appSidebar"
+    },
+    "indexer/legacy/migration": {
+      "id": "indexer/legacy/migration",
+      "title": "トランザクション ストリーム サービスへの移行",
+      "description": "現在レガシーインデクサーを実行を実行している場合、トランザクションストリームサービスの使用へ移行する方法をガイドします。",
+      "sidebar": "appSidebar"
+    },
+    "indexer/txn-stream/index": {
+      "id": "indexer/txn-stream/index",
+      "title": "トランザクションストリームサービス",
+      "description": "トランザクションストリームサービスは、Aptosブロックチェーンに注目し、ブロックチェーン処理中にトランザクションを発行するサービスです。これらのドキュメントでは、このシステムがどのように機能するか、Labs-Hostedインスタンスの使用方法、およびそれを自分でデプロイする方法について解説します。",
+      "sidebar": "appSidebar"
+    },
+    "indexer/txn-stream/labs-hosted": {
+      "id": "indexer/txn-stream/labs-hosted",
+      "title": "ラボがホストするトランザクション ストリームサービス",
+      "description": "インデクサーAPIのインスタンス(自前の)またはカスタムプロセッサーを実行している場合は、トランザクションストリームサービスのインスタンスにアクセスする必要があります。このページは、Labs-Hostedトランザクションストリームサービスの使用方法の情報を含んでいます。",
+      "sidebar": "appSidebar"
+    },
+    "indexer/txn-stream/local-development": {
+      "id": "indexer/txn-stream/local-development",
+      "title": "ローカルで実行する",
+      "description": "これは、ARM上のmacOS13およびx86_64上のDebian11でテストされています。",
+      "sidebar": "appSidebar"
+    },
+    "indexer/txn-stream/self-hosted": {
+      "id": "indexer/txn-stream/self-hosted",
+      "title": "自己ホスト型トランザクション ストリーム サービス",
+      "description": "近日公開!",
+      "sidebar": "appSidebar"
+    },
+    "integration/aptos-names-service-package": {
+      "id": "integration/aptos-names-service-package",
+      "title": "Aptosネームサービスとの統合",
+      "description": "Aptosネームサービスは、開発者がボタンとモーダルをカスタマイズ可能なReactUIパッケージを提供し、ユーザーがWebサイトから直接Aptos名を検索、ミント出来る様にします。",
+      "sidebar": "appSidebar"
+    },
+    "integration/index": {
+      "id": "integration/index",
+      "title": "Interact with Blockchain",
+      "description": "Aptosブロックチェーンを使用するには以下のガイドに従ってください。",
+      "sidebar": "appSidebar"
+    },
+    "integration/wallet-adapter-concept": {
+      "id": "integration/wallet-adapter-concept",
+      "title": "Integrate with Aptos Wallets",
+      "description": "分散型アプリケーションは多くの場合、ブラウザ拡張機能またはモバイル アプリケーションを通じて実行され、オンチェーン データを読み取り、トランザクションを送信します。Aptosウォレットアダプターは、アプリとウォレットを単一のインターフェイスとして統合出来ます。",
+      "sidebar": "appSidebar"
+    },
+    "integration/wallet-adapter-for-dapp": {
+      "id": "integration/wallet-adapter-for-dapp",
+      "title": "Dapps用",
+      "description": "素晴らしいDAPPのアイデアがあり、その構築を始めようとしているとイメージして下さい。最終的には、ユーザーがAptosブロックチェーンと対話できる様、1つまたは複数のウォレットを統合する必要があります。ウォレット統合の実装は、すべてのエッジケース、新機能、サポートされていない機能をサポートすることが難しい場合があります。そして、複数のウォレットをサポートすることはさらに困難になる可能性があります。",
+      "sidebar": "appSidebar"
+    },
+    "integration/wallet-adapter-for-wallets": {
+      "id": "integration/wallet-adapter-for-wallets",
+      "title": "ウォレット用",
+      "description": "Aptosエコシステムのdappsから、ユーザーの求めるウォレット機能を提供するには、ウォレットプラグインがAptosウォレット標準に準拠している必要が有り、Aptosウォレットアダプターから構築する必要があります。",
+      "sidebar": "appSidebar"
+    },
+    "move/book/abilities": {
+      "id": "move/book/abilities",
+      "title": "Abilities(機能)",
+      "description": "Abilitiesは、Moveの型指定機能であり、特定の型の値に対して許可されるアクションを制御します。このシステムにより値の\"linear\"typing動作、及びグローバルストレージでの値の使用の有無と使用方法をきめ細かく制御出来ます。これは、特定のバイトコード指示へのアクセスをゲートすることで実装されます。そのため値がバイトコード指示で使用されるため必要とするAbilityが必要(必要な場合、全ての指示がAbilityによってゲートされるわけではありません)。",
+      "sidebar": "appSidebar"
+    },
+    "move/book/abort-and-assert": {
+      "id": "move/book/abort-and-assert",
+      "title": "Abort(中止)とAssert",
+      "description": "returnとabortは実行を終了する2つの制御フロー構造です。ひとつは現在の関数用、もうひとつはトランザクション全体用です。",
+      "sidebar": "appSidebar"
+    },
+    "move/book/address": {
+      "id": "move/book/address",
+      "title": "アドレス",
+      "description": "addressは、Moveの組み込み型であり、グローバル ストレージ内の場所 (アカウントと呼ばれることもあります) を表すため使用されます。address値は256ビット(32バイト)の識別子です。特定のアドレスにはモジュールと リソースの2つを保存できます。",
+      "sidebar": "appSidebar"
+    },
+    "move/book/bool": {
+      "id": "move/book/bool",
+      "title": "ブール",
+      "description": "boolはブール値true及びfalseのMoveのプリミティブ型です。",
+      "sidebar": "appSidebar"
+    },
+    "move/book/coding-conventions": {
+      "id": "move/book/coding-conventions",
+      "title": "Moveコーディング規則",
+      "description": "このセクションでは、Moveチームが役立つと判断した、Moveの基本的なコーディング規則をいくつか解説します。これらは推奨事項に過ぎないので、他の書式ガイドラインや規則を希望する場合は、遠慮なく使用して下さい。",
+      "sidebar": "appSidebar"
+    },
+    "move/book/conditionals": {
+      "id": "move/book/conditionals",
+      "title": "条件文",
+      "description": "if式は、特定の条件が満たされる場合のみコードが評価される事を指定します。例えば:",
+      "sidebar": "appSidebar"
+    },
+    "move/book/constants": {
+      "id": "move/book/constants",
+      "title": "定数",
+      "description": "定数はmoduleまたはscript内の共有の静的な値へ名前を付ける方法です。",
+      "sidebar": "appSidebar"
+    },
+    "move/book/creating-coins": {
+      "id": "move/book/creating-coins",
+      "title": "Moveチュートリアル",
+      "description": "Moveコア言語チュートリアルを参照して下さい。",
+      "sidebar": "appSidebar"
+    },
+    "move/book/equality": {
+      "id": "move/book/equality",
+      "title": "等価",
+      "description": "Moveは==と!=の2つの等価演算をサポートします。",
+      "sidebar": "appSidebar"
+    },
+    "move/book/friends": {
+      "id": "move/book/friends",
+      "title": "フレンズ",
+      "description": "このfriend構文は、現在のモジュールによって信頼されるモジュールを宣言するため使用されます。信頼されたモジュールは、現在のモジュールで定義されているpublic(friend)可視性を持つ任意の関数を呼び出す事が出来ます。関数の可視性の詳細は関数の 可視性 セクションを参照して下さい。",
+      "sidebar": "appSidebar"
+    },
+    "move/book/functions": {
+      "id": "move/book/functions",
+      "title": "関数",
+      "description": "Moveの関数構文は、モジュール関数とスクリプト関数間で共有されます。モジュール内の関数は再利用可能ですが、スクリプト関数はトランザクションを呼び出すための1回だけ使用されます。",
+      "sidebar": "appSidebar"
+    },
+    "move/book/generics": {
+      "id": "move/book/generics",
+      "title": "ジェネリクス",
+      "description": "ジェネリクスを使用すると、異なる入力データ型に対して関数や構造体を定義できます。この言語機能は、パラメトリック多態性 として参照される事も有ります。Moveでは、ジェネリックという用語を型パラメーターや型引数と同じ意味でよく使用します。",
+      "sidebar": "appSidebar"
+    },
+    "move/book/global-storage-operators": {
+      "id": "move/book/global-storage-operators",
+      "title": "Global Storage - Operators",
+      "description": "Move programs can create, delete, and update resources in global storage using the following five instructions:",
+      "sidebar": "appSidebar"
+    },
+    "move/book/global-storage-structure": {
+      "id": "move/book/global-storage-structure",
+      "title": "Global Storage - Structure",
+      "description": "The purpose of Move programs is to read from and write to tree-shaped persistent global storage. Programs cannot access the filesystem, network, or any other data outside of this tree.",
+      "sidebar": "appSidebar"
+    },
+    "move/book/integers": {
+      "id": "move/book/integers",
+      "title": "整数(インテジャー)",
+      "description": "Moveはu8、u16、u32、u64、u128、u256の6つの符号無し整数型をサポートします。これらの型の値は、0から型のサイズに応じた最大値までの範囲となります。",
+      "sidebar": "appSidebar"
+    },
+    "move/book/introduction": {
+      "id": "move/book/introduction",
+      "title": "Introduction",
+      "description": "Welcome to Move, a next generation language for secure, sandboxed, and formally verified programming. It has been used as the smart contract language for several blockchains including Aptos. Move allows developers to write programs that flexibly manage and transfer assets, while providing the security and protections against attacks on those assets. However, Move has been developed with use cases in mind outside a blockchain context as well.",
+      "sidebar": "appSidebar"
+    },
+    "move/book/loops": {
+      "id": "move/book/loops",
+      "title": "While, For, ループ",
+      "description": "Moveは while、for、loopの3つのループ構造を提供します。",
+      "sidebar": "appSidebar"
+    },
+    "move/book/modules-and-scripts": {
+      "id": "move/book/modules-and-scripts",
+      "title": "Modules and Scripts",
+      "description": "Move has two different types of programs: Modules_** and Scripts_. Modules are libraries that define struct types along with functions that operate on these types. Struct types define the schema of Move's global storage, and module functions define the rules for updating storage. Modules themselves are also stored in global storage. A scripts is an executable entrypoint similar to a main function in a conventional language. A script typically calls functions of a published module that perform updates to global storage. Scripts are ephemeral code snippets that are not published in global storage.",
+      "sidebar": "appSidebar"
+    },
+    "move/book/package-upgrades": {
+      "id": "move/book/package-upgrades",
+      "title": "パッケージのアップグレード",
+      "description": "Aptosブロックチェーン上のMoveコード(例 次回それで対話する)の最新バージョンを自動的に受け取ります。",
+      "sidebar": "appSidebar"
+    },
+    "move/book/packages": {
+      "id": "move/book/packages",
+      "title": "パッケージ",
+      "description": "パッケージを使用すると、Moveプログラマーはより簡単にコードを再利用し、プロジェクト間で共有できます。Moveパッケージシステムを使用すると、プログラマーは以下を簡単に実行出来ます。",
+      "sidebar": "appSidebar"
+    },
+    "move/book/references": {
+      "id": "move/book/references",
+      "title": "参照",
+      "description": "Moveには2種類の参照があります:不変の&と可変の&mutです。不変参照は読み取り専用で、基となる値(またはその任意のフィールド)を変更出来ません。可変参照では、その参照の書き込みを介して変更が可能です。Moveの型システムは、参照エラーを防ぐ所有権の規則を強制します。",
+      "sidebar": "appSidebar"
+    },
+    "move/book/signer": {
+      "id": "move/book/signer",
+      "title": "signer(署名者)",
+      "description": "signerは組み込みのMoveリソース型です。signerは、所有者が特定のaddressに代わって動作出来ようにする機能です 。ネイティブ実装は以下のように考える事が出来ます。",
+      "sidebar": "appSidebar"
+    },
+    "move/book/standard-library": {
+      "id": "move/book/standard-library",
+      "title": "ライブラリ",
+      "description": "Aptosは開発者向けの複数の便利なライブラリを提供しています。最新の完全なドキュメントはこちら見つかります。",
+      "sidebar": "appSidebar"
+    },
+    "move/book/structs-and-resources": {
+      "id": "move/book/structs-and-resources",
+      "title": "構造とリソース",
+      "description": "構造体 は、型指定されたフィールドを含むユーザー定義のデータ構造です。構造体は、他の構造体を含む任意の非参照型を格納できます。",
+      "sidebar": "appSidebar"
+    },
+    "move/book/SUMMARY": {
+      "id": "move/book/SUMMARY",
+      "title": "Moveプログラミング言語",
+      "description": "Introduction",
+      "sidebar": "appSidebar"
+    },
+    "move/book/tuples": {
+      "id": "move/book/tuples",
+      "title": "タプルとユニット",
+      "description": "Moveは、タプルを完全にはサポートしていません。タプルをファーストクラスの値として扱う他の言語から来た人は期待するかもしれませんが。ただし、複数の戻り値をサポートするため、Moveにはタプルのような式があります。これらの式は実行時、具体的な値とはなりません (バイトコードにはタプルはありません)。そのため、非常に限定的です。式(通常は関数の戻り位置)へのみ出現出来、ローカル変数にバインドできず、構造体に保存できず、タプル型を使用してジェネリクスのインスタンス化は出来ません。",
+      "sidebar": "appSidebar"
+    },
+    "move/book/unit-testing": {
+      "id": "move/book/unit-testing",
+      "title": "ユニットテスト",
+      "description": "Moveのユニットテストでは、Moveソース言語へ3つの新しい注釈を追加します。",
+      "sidebar": "appSidebar"
+    },
+    "move/book/uses": {
+      "id": "move/book/uses",
+      "title": "用途と別名(エイリアス)",
+      "description": "use構文を使用して他のモジュールのメンバーへのエイリアスを作成出来ます。useを使用してモジュール全体または特定の式ブロックスコープのエイリアスを作成出来ます。",
+      "sidebar": "appSidebar"
+    },
+    "move/book/variables": {
+      "id": "move/book/variables",
+      "title": "ローカル変数とスコープ",
+      "description": "Moveのローカル変数は、語彙的に(静的)スコープ(観測)されています。新しい変数はキーワードletで導入され、同じ名前の以前のローカル変数をシャドウします。ローカル変数は可変であり、直接更新する事も、可変参照を介して更新する事も出来ます。",
+      "sidebar": "appSidebar"
+    },
+    "move/book/vector": {
+      "id": "move/book/vector",
+      "title": "Vector",
+      "description": "vectorは、Moveが提供する唯一のプリミティブコレクション型です。vectorは、値を「末尾」からプッシュ/ポップすることで拡大または縮小できるTの同質コレクションです。",
+      "sidebar": "appSidebar"
+    },
+    "move/move-on-aptos": {
+      "id": "move/move-on-aptos",
+      "title": "Move on Aptos",
+      "description": "To begin your journey in developing Move, we provide the following resources:",
+      "sidebar": "appSidebar"
+    },
+    "move/move-on-aptos/cli": {
+      "id": "move/move-on-aptos/cli",
+      "title": "Aptos CLI",
+      "description": "The aptos tool is a command line interface (CLI) for developing on the Aptos blockchain, debugging, and for node operations. This document describes how to use the aptos CLI tool. To download or build the CLI, follow Install Aptos CLI.",
+      "sidebar": "appSidebar"
+    },
+    "move/move-on-aptos/cryptography": {
+      "id": "move/move-on-aptos/cryptography",
+      "title": "Cryptography",
+      "description": "暗号化は、ブロックチェーンシステムでのデータのセキュリティ、整合性、機密性、不変性を確保する上で重要な役割を果たします。Move用のAptosアダプターは、開発者へ一連の暗号化プリミティブを提供し、この需要を満たします。このドキュメントでは、Move on Aptosが提供する暗号化機能について詳しく解説し、その設計の原動力となる原則を解説します。",
+      "sidebar": "appSidebar"
+    },
+    "move/move-on-aptos/gas-profiling": {
+      "id": "move/move-on-aptos/gas-profiling",
+      "title": "Gas Profiling",
+      "description": "The Aptos Gas Profiler is a powerful tool that can help you understand the gas usage of Aptos transactions.",
+      "sidebar": "appSidebar"
+    },
+    "move/move-on-aptos/modules-on-aptos": {
+      "id": "move/move-on-aptos/modules-on-aptos",
+      "title": "Modules on Aptos",
+      "description": "Aptosはパッケージ内のモジュールを許可なく公開出来、適切な互換性ポリシーが設定されているモジュールをアップグレードする事も出来ます。",
+      "sidebar": "appSidebar"
+    },
+    "move/move-on-aptos/move-security-guidelines": {
+      "id": "move/move-on-aptos/move-security-guidelines",
+      "title": "Security",
+      "description": "セキュリティガイドライン",
+      "sidebar": "appSidebar"
+    },
+    "move/move-on-aptos/objects/configuring-objects": {
+      "id": "move/move-on-aptos/objects/configuring-objects",
+      "title": "Configuring objects",
+      "description": "At this point, you have an object, but how do you specialize it? Objects must",
+      "sidebar": "appSidebar"
+    },
+    "move/move-on-aptos/objects/creating-objects": {
+      "id": "move/move-on-aptos/objects/creating-objects",
+      "title": "Creating objects",
+      "description": "When first creating an object, it will have a resource",
+      "sidebar": "appSidebar"
+    },
+    "move/move-on-aptos/objects/index": {
+      "id": "move/move-on-aptos/objects/index",
+      "title": "Building with Objects",
+      "description": "The Move language controls access to resources using the store ability and",
+      "sidebar": "appSidebar"
+    },
+    "move/move-on-aptos/objects/using-objects": {
+      "id": "move/move-on-aptos/objects/using-objects",
+      "title": "Using objects",
+      "description": "Using an object as an entry function argument",
+      "sidebar": "appSidebar"
+    },
+    "move/move-on-aptos/resource-accounts": {
+      "id": "move/move-on-aptos/resource-accounts",
+      "title": "Resource Accounts",
+      "description": "A resource account is a developer feature used to manage resources independent of an account managed by a user, specifically publishing modules and providing on-chain-only access control, e.g., signers.",
+      "sidebar": "appSidebar"
+    },
+    "move/move-on-aptos/scripts/compiling-scripts": {
+      "id": "move/move-on-aptos/scripts/compiling-scripts",
+      "title": "Compiling Move Scripts",
+      "description": "Moveスクリプトは、AptosCLI内の既存のAptos Moveコンパイラを使用してコンパイル出来ます。",
+      "sidebar": "appSidebar"
+    },
+    "move/move-on-aptos/scripts/index": {
+      "id": "move/move-on-aptos/scripts/index",
+      "title": "Building with Move Scripts",
+      "description": "Move Scripts are a way to run multiple public functions on Aptos in a single",
+      "sidebar": "appSidebar"
+    },
+    "move/move-on-aptos/scripts/running-scripts": {
+      "id": "move/move-on-aptos/scripts/running-scripts",
+      "title": "Running Move Scripts",
+      "description": "Moveスクリプトは、Aptos Typescript SDK、Aptosウォレットアダプター、Aptos CLI でサポートされています。",
+      "sidebar": "appSidebar"
+    },
+    "move/move-on-aptos/scripts/script-tutorial": {
+      "id": "move/move-on-aptos/scripts/script-tutorial",
+      "title": "Move Scripts Tutorial",
+      "description": "このチュートリアルでは、Moveスクリプトの作成方法と実行方法について解説します。Moveスクリプトを使用すると、公開されたMoveモジュールインターフェイス全体で一連のコマンドを実行できます。",
+      "sidebar": "appSidebar"
+    },
+    "move/move-on-aptos/scripts/writing-scripts": {
+      "id": "move/move-on-aptos/scripts/writing-scripts",
+      "title": "Writing Move Scripts",
+      "description": "MoveスクリプトはMoveコントラクトと並行して記述出来ますが、別のMoveパッケージを使用する事を強くお勧めします。これでスクリプトから取得されるバイトコード ファイルを簡単に特定出来ます。",
+      "sidebar": "appSidebar"
+    },
+    "move/prover/index": {
+      "id": "move/prover/index",
+      "title": "Move Prover",
+      "description": "Move Proverは、Moveコードの正式な仕様と検証をサポートします。Move Proverは型チェッカーやリンターと同様のユーザーエクスペリエンスを提供しながらMoveスマートコントラクトの論理プロパティを自動的に検証出来ます。",
+      "sidebar": "appSidebar"
+    },
+    "move/prover/prover-guide": {
+      "id": "move/prover/prover-guide",
+      "title": "Move Proverユーザーガイド",
+      "description": "これはMove Proverのユーザーガイドです。このドキュメントには Move仕様言語が付属しています。詳細は、以下のセクションを御覧下さい。",
+      "sidebar": "appSidebar"
+    },
+    "move/prover/spec-lang": {
+      "id": "move/prover/spec-lang",
+      "title": "Move Specification Language",
+      "description": "This document describes the Move specification language (MSL), a subset of the Move language that supports specification of the behavior of Move programs. MSL works together with the Move Prover, a tool that can statically verify the correctness of MSL specifications against Move programs. In contrast to traditional testing, verification of MSL is exhaustive and holds for all possible inputs and global states of a Move module or Move script. At the same time, this verification of MSL is fast and automated enough that it can be used at a similar place in the developer workflow where tests are typically conducted (for example, for qualification of pull requests in continuous integration).",
+      "sidebar": "appSidebar"
+    },
+    "move/prover/supporting-resources": {
+      "id": "move/prover/supporting-resources",
+      "title": "Supporting Resources",
+      "description": "標準ライブラリとフレームワークの仕様",
+      "sidebar": "appSidebar"
+    },
+    "nodes/aptos-api-spec": {
+      "id": "nodes/aptos-api-spec",
+      "title": "Aptos API Spec",
+      "description": "",
+      "sidebar": "refSidebar"
+    },
+    "nodes/configure/index": {
+      "id": "nodes/configure/index",
+      "title": "Configure a Node",
+      "description": "This section contains tutorials for understanding and configuring Aptos node internals. These include:",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/full-node/aptos-db-restore": {
+      "id": "nodes/full-node/aptos-db-restore",
+      "title": "Bootstrap from a Backup",
+      "description": "This document describes how to bootstrap an Aptos node using a backup. This can be done on all node types, including",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/full-node/bootstrap-fullnode": {
+      "id": "nodes/full-node/bootstrap-fullnode",
+      "title": "Bootstrap from a Snapshot",
+      "description": "This document describes how to bootstrap an Aptos node quickly using a snapshot. This can be done on all node types,",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/full-node/deployments/index": {
+      "id": "nodes/full-node/deployments/index",
+      "title": "Deploy a PFN",
+      "description": "The following guides provide step-by-step instructions for deploying a PFN on the Aptos networks.",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/full-node/deployments/using-docker": {
+      "id": "nodes/full-node/deployments/using-docker",
+      "title": "Using Docker",
+      "description": "This section describes how to configure and run your PFN using Docker.",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/full-node/deployments/using-gcp": {
+      "id": "nodes/full-node/deployments/using-gcp",
+      "title": "Using GCP",
+      "description": "This tutorial explains how to configure and deploy a PFN using Google Cloud (GCP). Running a PFN in the cloud",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/full-node/deployments/using-source-code": {
+      "id": "nodes/full-node/deployments/using-source-code",
+      "title": "Using Source Code",
+      "description": "To deploy a PFN using the aptos-core source code, first, see Building Aptos From Source for instructions",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/full-node/fullnode-network-connections": {
+      "id": "nodes/full-node/fullnode-network-connections",
+      "title": "Customize PFN Networks",
+      "description": "Most PFN operators will not need to customize their PFN's network connections. This is only required",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/full-node/fullnode-source-code-or-docker": {
+      "id": "nodes/full-node/fullnode-source-code-or-docker",
+      "title": "Run a PFN from Source or Docker",
+      "description": "You can run your own public fullnode (PFN) to synchronize the state of the Aptos blockchain and stay"
+    },
+    "nodes/full-node/index": {
+      "id": "nodes/full-node/index",
+      "title": "Run a Public Fullnode",
+      "description": "You can run your own public fullnode (PFN) to synchronize the state of the Aptos blockchain and stay",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/full-node/network-identity-fullnode": {
+      "id": "nodes/full-node/network-identity-fullnode",
+      "title": "Generate a PFN Identity",
+      "description": "Validators and VFNs have their identities initialized when first created and their identities are long-lived (immutable).",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/full-node/pfn-requirements": {
+      "id": "nodes/full-node/pfn-requirements",
+      "title": "PFN Requirements",
+      "description": "To ensure that your public fullnode (PFN) operates smoothly, it should meet the requirements specified in this document.",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/full-node/update-fullnode-with-new-releases": {
+      "id": "nodes/full-node/update-fullnode-with-new-releases",
+      "title": "Upgrade your PFN",
+      "description": "This document outlines the process for updating your PFN with new Aptos releases. All PFNs will need to be updated",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/full-node/verify-pfn": {
+      "id": "nodes/full-node/verify-pfn",
+      "title": "Verify a PFN",
+      "description": "After deploying your PFN, you can verify that it is operating correctly by checking several of the PFN's metrics.",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/identity-and-configuration": {
+      "id": "nodes/identity-and-configuration",
+      "title": "Identity and Configuration",
+      "description": "When installing a node on an Aptos network, the installation steps require you to work with identities and configurations. This document describes how to interpret the terms identity and configuration, and presents a description of the identity YAML files."
+    },
+    "nodes/leaderboard-metrics": {
+      "id": "nodes/leaderboard-metrics",
+      "title": "Validator Leaderboard",
+      "description": "This document explains how the rewards performance for validator nodes are calculated and displayed on",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/localnet/index": {
+      "id": "nodes/localnet/index",
+      "title": "Develop with Localnet",
+      "description": "Recommended",
+      "sidebar": "appSidebar"
+    },
+    "nodes/localnet/run-a-localnet": {
+      "id": "nodes/localnet/run-a-localnet",
+      "title": "Run a Localnet with Validator",
+      "description": "Running a local testnet with the Aptos CLI is simpler and more fully featured. Learn how by following this guide: Run a Local Development Network with the CLI.",
+      "sidebar": "appSidebar"
+    },
+    "nodes/measure/important-metrics": {
+      "id": "nodes/measure/important-metrics",
+      "title": "Important Node Metrics",
+      "description": "When you visit the metrics endpoint (see Node Inspection Service), you will notice that",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/measure/index": {
+      "id": "nodes/measure/index",
+      "title": "Monitor your Nodes",
+      "description": "You have several options for monitoring and inspecting the health and performance of your nodes:",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/measure/node-health-checker": {
+      "id": "nodes/measure/node-health-checker",
+      "title": "Node Health Checker",
+      "description": "The Aptos Node Health Checker (NHC) service can be used to check the health of any Aptos fullnodes (VFNs or PFNs).",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/measure/node-health-checker-faq": {
+      "id": "nodes/measure/node-health-checker-faq",
+      "title": "Node Health Checker FAQ",
+      "description": "The Aptos Node Health Checker (NHC) service can be used to check the health of your node(s). See Node Health Checker for full documentation on the NHC."
+    },
+    "nodes/measure/node-inspection-service": {
+      "id": "nodes/measure/node-inspection-service",
+      "title": "Node Inspection Service",
+      "description": "Aptos nodes collect metrics and system information while running. These metrics provide a way to track,",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/modify/index": {
+      "id": "nodes/modify/index",
+      "title": "Modify a PFN",
+      "description": "This section contains tutorials for performing common operations and modifications to a PFN. These include:",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/networks": {
+      "id": "nodes/networks",
+      "title": "Networks",
+      "description": "| Description                              | Mainnet                                                                                                          | Testnet                                                                                                          | Devnet                                                                                                          |",
+      "sidebar": "aptosSidebar"
+    },
+    "nodes/node-files-all-networks/index": {
+      "id": "nodes/node-files-all-networks/index",
+      "title": "Locating Node Files",
+      "description": "This section contains pages for locating and downloading the files required to deploy an Aptos node",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/node-files-all-networks/node-files": {
+      "id": "nodes/node-files-all-networks/node-files",
+      "title": "Files For Mainnet",
+      "description": "When deploying an Aptos node in mainnet, you may need to download the files listed on this page. The files are",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/node-files-all-networks/node-files-devnet": {
+      "id": "nodes/node-files-all-networks/node-files-devnet",
+      "title": "Files For Devnet",
+      "description": "When deploying an Aptos node in devnet, you may need to download the files listed on this page. The files are",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/node-files-all-networks/node-files-testnet": {
+      "id": "nodes/node-files-all-networks/node-files-testnet",
+      "title": "Files For Testnet",
+      "description": "When deploying an Aptos node in testnet, you may need to download the files listed on this page. The files are",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/nodes-landing": {
+      "id": "nodes/nodes-landing",
+      "title": "Learn about Nodes",
+      "description": "The Aptos network consists of three node types: validator nodes, validator fullnodes (VFNs), and public fullnodes (PFNs). To",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/operations/index": {
+      "id": "nodes/operations/index",
+      "title": "Bootstrap a Node",
+      "description": "Bootstrapping a new node usually only depends on state sync in its fast sync mode, which synchronises to a recent state with help from its peers and start syncing recent ledger history from there. However, if longer ledger history is needed for any reason, we have these choices:",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/validator-node/index": {
+      "id": "nodes/validator-node/index",
+      "title": "Run a Validator and VFN",
+      "description": "To participate in the Aptos consensus protocol, you must deploy and run a validator node and (optionally) a validator",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/validator-node/operator/connect-nodes/index": {
+      "id": "nodes/validator-node/operator/connect-nodes/index",
+      "title": "Connect Nodes",
+      "description": "Before you can connect your nodes to the Aptos network, you will need to deploy them. Make sure to have",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/validator-node/operator/connect-to-aptos-network": {
+      "id": "nodes/validator-node/operator/connect-to-aptos-network",
+      "title": "Connect to a Network",
+      "description": "This document describes how to connect your validator and validator fullnode (VFN) to an Aptos network.",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/validator-node/operator/delegation-pool-operations": {
+      "id": "nodes/validator-node/operator/delegation-pool-operations",
+      "title": "Delegation Pool Operations",
+      "description": "Beta: This documentation is in experimental, beta mode. Supply feedback by requesting document changes. See also the related Staking Pool Operations instructions.",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/validator-node/operator/index": {
+      "id": "nodes/validator-node/operator/index",
+      "title": "Operator",
+      "description": "If you are an operator participating in the Aptos network, then use this document to perform the operator tasks such as deploying a validator node and validator fullnode, registering the nodes on the Aptos community platform, and performing the validation."
+    },
+    "nodes/validator-node/operator/modify-nodes/index": {
+      "id": "nodes/validator-node/operator/modify-nodes/index",
+      "title": "Modify Nodes",
+      "description": "This section contains tutorials for performing common operations and modifications to your validator and",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/validator-node/operator/node-liveness-criteria": {
+      "id": "nodes/validator-node/operator/node-liveness-criteria",
+      "title": "Node Health",
+      "description": "This document describes how you can verify and monitor the health of your validator and validator fullnode (VFN) in the",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/validator-node/operator/node-requirements": {
+      "id": "nodes/validator-node/operator/node-requirements",
+      "title": "Node Requirements",
+      "description": "To ensure that your validator and validator fullnode (VFN) operate smoothly, both nodes should meet the",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/validator-node/operator/running-validator-node/index": {
+      "id": "nodes/validator-node/operator/running-validator-node/index",
+      "title": "Deploy Nodes",
+      "description": "Before you can run a validator and validator fullnode (VFN) in an Aptos network, you will need to select a deployment",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/validator-node/operator/running-validator-node/using-aws": {
+      "id": "nodes/validator-node/operator/running-validator-node/using-aws",
+      "title": "Using AWS",
+      "description": "This is a step-by-step guide to deploy an Aptos validator and validator fullnode (VFN) using Amazon Web Services (AWS). Using this guide,",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/validator-node/operator/running-validator-node/using-azure": {
+      "id": "nodes/validator-node/operator/running-validator-node/using-azure",
+      "title": "Using Azure",
+      "description": "This is a step-by-step guide to deploy an Aptos validator and validator fullnode (VFN) using Microsoft Azure. Using this guide,",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/validator-node/operator/running-validator-node/using-docker": {
+      "id": "nodes/validator-node/operator/running-validator-node/using-docker",
+      "title": "Using Docker",
+      "description": "Docker deployment has only been tested on Linux, Windows, and Intel macOS. If you are on M1+ macOS, you will",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/validator-node/operator/running-validator-node/using-gcp": {
+      "id": "nodes/validator-node/operator/running-validator-node/using-gcp",
+      "title": "Using GCP",
+      "description": "This is a step-by-step guide to deploy an Aptos validator and validator fullnode (VFN) using Google Cloud Platform Services (GCP).",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/validator-node/operator/running-validator-node/using-source-code": {
+      "id": "nodes/validator-node/operator/running-validator-node/using-source-code",
+      "title": "Using Source Code",
+      "description": "This is a step-by-step guide to deploy an Aptos validator and validator fullnode (VFN) using source code. Using this guide, the validator",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/validator-node/operator/shutting-down-nodes": {
+      "id": "nodes/validator-node/operator/shutting-down-nodes",
+      "title": "Shutdown Nodes",
+      "description": "If you want to shut down your validator and validator fullnode (VFN), follow the instructions below to leave the",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/validator-node/operator/staking-pool-operations": {
+      "id": "nodes/validator-node/operator/staking-pool-operations",
+      "title": "Staking Pool Operations",
+      "description": "This document describes how to perform staking pool operations. Note that a staking pool can only accept stake",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/validator-node/operator/update-validator-node": {
+      "id": "nodes/validator-node/operator/update-validator-node",
+      "title": "Upgrade Nodes",
+      "description": "This section contains tutorials for upgrading your validator and validator fullnode (VFN). Upgrades are a",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/validator-node/operator/verify-nodes/index": {
+      "id": "nodes/validator-node/operator/verify-nodes/index",
+      "title": "Verify Nodes",
+      "description": "This section contains tutorials for verifying the health and performance of your validator and validator fullnode (VFN). These include:",
+      "sidebar": "nodeSidebar"
+    },
+    "nodes/validator-node/voter/index": {
+      "id": "nodes/validator-node/voter/index",
+      "title": "Staking Pool Voter",
+      "description": "If you are a staking pool voter, then we recommend strongly that you do not store your Aptos voter keys with a",
+      "sidebar": "nodeSidebar"
+    },
+    "reference/error-codes": {
+      "id": "reference/error-codes",
+      "title": "Aptos Error Codes",
+      "description": "This page catalogs common errors encountered in the Aptos blockchain and explains how to resolve them wherever possible. As with all software, the code itself is the source of truth for error handling and will always contain entries not found here. Instead, this matrix aims to help you address those errors most typically found, misunderstood, or both.",
+      "sidebar": "refSidebar"
+    },
+    "reference/glossary": {
+      "id": "reference/glossary",
+      "title": "Aptos Glossary",
+      "description": "A",
+      "sidebar": "refSidebar"
+    },
+    "reference/move": {
+      "id": "reference/move",
+      "title": "参考文献",
+      "description": "",
+      "sidebar": "refSidebar"
+    },
+    "reference/telemetry": {
+      "id": "reference/telemetry",
+      "title": "Telemetry",
+      "description": "When you run a node on an Aptos network, your node will send telemetry data to Aptos Labs. All node types",
+      "sidebar": "nodeSidebar"
+    },
+    "releases/index": {
+      "id": "releases/index",
+      "title": "Latest Aptos Releases",
+      "description": "Each Aptos release can be found on the GitHub site for Aptos-core releases. Each release is mirrored by the following git branches:",
+      "sidebar": "aptosSidebar"
+    },
+    "sdks/index": {
+      "id": "sdks/index",
+      "title": "Use Aptos SDKs",
+      "description": "Use these Aptos software development kits (SDKs), in combination with the Aptos CLI for your development on the Aptos blockchain.",
+      "sidebar": "appSidebar"
+    },
+    "sdks/legacy-ts-sdk/aptos-client": {
+      "id": "sdks/legacy-ts-sdk/aptos-client",
+      "title": "AptosClient Class",
+      "description": "The AptosClient class is a component of the Aptos TypeScript SDK that enables developers to interact with the blockchain network through the use of REST APIs generated from an OpenAPI document. The OpenAPI specification helps build and document RESTful APIs by providing a standard format for describing the structure of an API, including the available endpoints, methods, input and output parameters.",
+      "sidebar": "appSidebar"
+    },
+    "sdks/legacy-ts-sdk/index": {
+      "id": "sdks/legacy-ts-sdk/index",
+      "title": "TypeScript Index",
+      "description": "This documentation is for the legacy TypeScript SDK, aka aptos. For a more robust and better SDK support, we recommend upgrading to the new TypeScript SDK @aptos-labs/ts-sdk. Take a look at the documentation and the migration guide",
+      "sidebar": "appSidebar"
+    },
+    "sdks/legacy-ts-sdk/indexer-client": {
+      "id": "sdks/legacy-ts-sdk/indexer-client",
+      "title": "IndexerClient Class",
+      "description": "The IndexerClient is responsible for handling the communication between the client-side application and the blockchain network. It uses the Hasura framework to generate a set of GraphQL queries that can be used to retrieve data from the blockchain. The queries are optimized for performance and can retrieve data in real-time.",
+      "sidebar": "appSidebar"
+    },
+    "sdks/legacy-ts-sdk/sdk-client-layer": {
+      "id": "sdks/legacy-ts-sdk/sdk-client-layer",
+      "title": "API Client Layer",
+      "description": "The API client layer in the SDK provides a robust and reliable communication channel between the client-side application and the blockchain server. It is a component of the SDK that enables developers to interact with the network through the use of application programming interfaces (APIs). The client layer is responsible for making API calls to the network, sending and receiving data to and from the network, and handling any errors or exceptions that may occur during the process.",
+      "sidebar": "appSidebar"
+    },
+    "sdks/legacy-ts-sdk/sdk-core-layer": {
+      "id": "sdks/legacy-ts-sdk/sdk-core-layer",
+      "title": "Core Layer",
+      "description": "The core SDK layer exposes the functionalities needed by most applications:",
+      "sidebar": "appSidebar"
+    },
+    "sdks/legacy-ts-sdk/sdk-plugins-layer": {
+      "id": "sdks/legacy-ts-sdk/sdk-plugins-layer",
+      "title": "プラグインレイヤー",
+      "description": "プラグインは、タイプスクリプトSDKに追加して機能を拡張できるコンポーネントです。プラグインは、Aptosネットワーク上の一般的なアプリケーションをサポートする様構築されており、新機能の追加、アプリケーション操作の容易化、ユーザーエクスペリエンスのカスタマイズに使用できます。",
+      "sidebar": "appSidebar"
+    },
+    "sdks/legacy-ts-sdk/sdk-tests": {
+      "id": "sdks/legacy-ts-sdk/sdk-tests",
+      "title": "テストと検証",
+      "description": "TypeScriptSDKは、src/tests/フォルダー下にあるe2eとunitの2種類のテストを使用します。",
+      "sidebar": "appSidebar"
+    },
+    "sdks/legacy-ts-sdk/typescript-sdk-overview": {
+      "id": "sdks/legacy-ts-sdk/typescript-sdk-overview",
+      "title": "TypeScript SDK Architecture",
+      "description": "This document describes the main features and components of the Aptos TypeScript SDK.",
+      "sidebar": "appSidebar"
+    },
+    "sdks/python-sdk/index": {
+      "id": "sdks/python-sdk/index",
+      "title": "Python SDK(日本語)",
+      "description": "Aptosは、軽くメンテナンスされた公式のPythonSDKを提供します。 これは、PyPiでAptosコアGitHubリポジトリのソースコードと共に利用可能です。Python SDKの機能の多くはTypescript SDKを複製しています。Python SDKの主な目的は、Python開発者がすぐにAptosチュートリアルの付属物としてのAptosに精通する事を支援する事です。",
+      "sidebar": "appSidebar"
+    },
+    "sdks/rust-sdk/index": {
+      "id": "sdks/rust-sdk/index",
+      "title": "Rust SDK(日本語)",
+      "description": "Rust SDKをインストールする",
+      "sidebar": "appSidebar"
+    },
+    "sdks/ts-sdk/account": {
+      "id": "sdks/ts-sdk/account",
+      "title": "Account",
+      "description": "The SDK provides an Account class for creating and managing accounts on Aptos network.",
+      "sidebar": "appSidebar"
+    },
+    "sdks/ts-sdk/fetch-data-from-chain": {
+      "id": "sdks/ts-sdk/fetch-data-from-chain",
+      "title": "Fetch data from chain",
+      "description": "Once we created a new Aptos instance, we get access to all the sdk functionality. We now can query the chain for data.",
+      "sidebar": "appSidebar"
+    },
+    "sdks/ts-sdk/http-client": {
+      "id": "sdks/ts-sdk/http-client",
+      "title": "HTTP Client",
+      "description": "Default HTTP Client",
+      "sidebar": "appSidebar"
+    },
+    "sdks/ts-sdk/index": {
+      "id": "sdks/ts-sdk/index",
+      "title": "TypeScript Index",
+      "description": "<!---",
+      "sidebar": "appSidebar"
+    },
+    "sdks/ts-sdk/migration-guide": {
+      "id": "sdks/ts-sdk/migration-guide",
+      "title": "Migration Guide",
+      "description": "If you are coming from an earlier version 1.x.x of aptos, you will need to make the following updates.",
+      "sidebar": "appSidebar"
+    },
+    "sdks/ts-sdk/move-types": {
+      "id": "sdks/ts-sdk/move-types",
+      "title": "Move Types",
+      "description": "When developing on Aptos, and specifically working with the SDK, developers often need to handle Move types serialization and deserialization. Whether is to construct a transaction payload, build a raw transaction or read BCS data.",
+      "sidebar": "appSidebar"
+    },
+    "sdks/ts-sdk/sdk-configuration": {
+      "id": "sdks/ts-sdk/sdk-configuration",
+      "title": "SDK Configuration",
+      "description": "Aptos class",
+      "sidebar": "appSidebar"
+    },
+    "sdks/ts-sdk/testing": {
+      "id": "sdks/ts-sdk/testing",
+      "title": "Testing",
+      "description": "The SDK uses two types of tests, End-to-End (E2E) and unit tests, located under the tests folder.",
+      "sidebar": "appSidebar"
+    },
+    "sdks/ts-sdk/transaction-builder": {
+      "id": "sdks/ts-sdk/transaction-builder",
+      "title": "Transaction Builder",
+      "description": "The SDK provides a simplified and meaningful transaction builder flow to handles the transaction creation lifecycle.",
+      "sidebar": "appSidebar"
+    },
+    "sdks/ts-sdk/typescript": {
+      "id": "sdks/ts-sdk/typescript",
+      "title": "Typescript",
+      "description": "Aptos SDK is designed to be type-safe! Things to keep in mind:",
+      "sidebar": "appSidebar"
+    },
+    "sdks/unity-sdk/index": {
+      "id": "sdks/unity-sdk/index",
+      "title": "Unity SDK(日本語)",
+      "description": "Aptos Unity SDKはAptos SDKの.NET実装であり、.NET Standard 2.0 と .NET 4.x for Unityと互換性があります。この SDKの目標は、UnityゲームエンジンとAptosブロックチェーンインフラストラクチャを使用して、開発者がマルチプラットフォームアプリケーション(モバイル、デスクトップ、Web、VR)を構築するためのツールセットを提供することです。",
+      "sidebar": "appSidebar"
+    },
+    "standards/aptos-coin": {
+      "id": "standards/aptos-coin",
+      "title": "Aptos Coin (Legacy)",
+      "description": "コインが提供する標準は、シンプルで型安全なフレームワーク、代替可能トークンとコインです。",
+      "sidebar": "appSidebar"
+    },
+    "standards/aptos-object": {
+      "id": "standards/aptos-object",
+      "title": "Object",
+      "description": "The Object model allows Move to represent a complex type as a set of resources stored within a single address and offers a rich capability model that allows for fine-grained resource control and ownership management.",
+      "sidebar": "appSidebar"
+    },
+    "standards/aptos-token": {
+      "id": "standards/aptos-token",
+      "title": "Aptos Token (Legacy)",
+      "description": "Aptosトークン標準の比較も御覧下さい。",
+      "sidebar": "appSidebar"
+    },
+    "standards/digital-asset": {
+      "id": "standards/digital-asset",
+      "title": "Aptos Digital Asset Standard",
+      "description": "NFTの概要",
+      "sidebar": "appSidebar"
+    },
+    "standards/fungible-asset": {
+      "id": "standards/fungible-asset",
+      "title": "Aptos Fungible Asset Standard",
+      "description": "The Aptos Fungible Asset Standard (also known as Fungible Asset or FA) is a core framework component within Aptos that enables the tokenization of various assets, including commodities, real estate, and financial instruments. This standard facilitates the creation of decentralized financial applications.",
+      "sidebar": "appSidebar"
+    },
+    "standards/index": {
+      "id": "standards/index",
+      "title": "Aptos Standards",
+      "description": "標準は、すべての開発者が構築するための共通の相互運用可能なインターフェイスを定義します。これらは、Aptos ブロックチェーン上のアプリケーションとウォレット間の互換性を確保するためのルールで構成されています。hippospaceが提供するAptosの既知のコインリソースアドレスのリストを御覧下さい。",
+      "sidebar": "appSidebar"
+    },
+    "standards/multisig-managed-fungible-asset": {
+      "id": "standards/multisig-managed-fungible-asset",
+      "title": "Manage Fungible Assets with Aptos Multisig Account",
+      "description": "このチュートリアルはAptosフレームワークのマルチシグアカウントと代替可能資産標準を組み合わせて代替可能資産管理のセキュリティマージンを拡張する実用的な使用例を紹介します。チュートリアルに進む前に、モジュールの公開とAptosフレームワークのマルチシグアカウントを理解していることを確認してください。理解していない場合は、まず以下のチュートリアルを試す事を強くお勧めします。"
+    },
+    "standards/wallets": {
+      "id": "standards/wallets",
+      "title": "Aptos Wallet Standard",
+      "description": "ウォレット標準は、ウォレットの種類間の相互運用性に関するガイドラインを提供します。これにより、dapp開発者は、異なるウォレットを処理するためアプリケーションを変更する必要がなくなります。この標準は全てのdapp開発者へ単一のインターフェイスを提供し、各アプリケーションへの新しいウォレットの追加やより多くのユーザーの追加が簡単です。この相互運用性により、ユーザーはアプリがユースケースをサポートしているかどうかを気にする事無く、必要なウォレットを選択できます。",
+      "sidebar": "appSidebar"
+    },
+    "tools/aptos-cli/index": {
+      "id": "tools/aptos-cli/index",
+      "title": "Aptos CLI",
+      "description": "このaptosツールは、Aptos ブロックチェーンでの開発、デバッグ、ノード操作のためのコマンド ライン インターフェイス (CLI) です。詳細については、次のドキュメントを参照してください。",
+      "sidebar": "appSidebar"
+    },
+    "tools/aptos-cli/install-cli/automated-install": {
+      "id": "tools/aptos-cli/install-cli/automated-install",
+      "title": "Install CLI by Script",
+      "description": "このaptosツールは、Aptos ブロックチェーン上で開発し、Move コントラクトをデバッグし、ノード操作を実行するためのコマンド ライン インターフェイス (CLI) です。このドキュメントでは自動インストール スクリプトを使用してaptosCLI ツールをインストールする方法について解説します。",
+      "sidebar": "appSidebar"
+    },
+    "tools/aptos-cli/install-cli/build-from-source": {
+      "id": "tools/aptos-cli/install-cli/build-from-source",
+      "title": "Build CLI from Source Code",
+      "description": "If you are an advanced user and would like to build the CLI binary by downloading the source code, follow the below steps, selecting the network branch that meets your use case. Otherwise, install the prebuilt CLI binaries to ease ramp up and reduce variables in your environment.",
+      "sidebar": "appSidebar"
+    },
+    "tools/aptos-cli/install-cli/download-cli-binaries": {
+      "id": "tools/aptos-cli/install-cli/download-cli-binaries",
+      "title": "Download CLI Binaries",
+      "description": "The aptos tool is a command line interface (CLI) for developing on the Aptos blockchain, debugging Move contracts, and conducting node operations. This document describes how to install the aptos CLI tool using precompiled binaries that reduce variables in setting up your environment. Also see:",
+      "sidebar": "appSidebar"
+    },
+    "tools/aptos-cli/install-cli/index": {
+      "id": "tools/aptos-cli/install-cli/index",
+      "title": "Install the Aptos CLI",
+      "description": "Aptos CLIをコンパイル済みのバイナリとしてインストールできます。",
+      "sidebar": "appSidebar"
+    },
+    "tools/aptos-cli/install-cli/install-from-brew": {
+      "id": "tools/aptos-cli/install-cli/install-from-brew",
+      "title": "Install the CLI with Brew",
+      "description": "Recommended on macOS, brew is a package manager that allows for installing and updating packages in a single",
+      "sidebar": "appSidebar"
+    },
+    "tools/aptos-cli/install-cli/install-move-prover": {
+      "id": "tools/aptos-cli/install-cli/install-move-prover",
+      "title": "Install the Move Prover",
+      "description": "If you want to use the Move Prover, install the Move Prover dependencies after installing the CLI binary.",
+      "sidebar": "appSidebar"
+    },
+    "tools/aptos-cli/use-cli/cli-account": {
+      "id": "tools/aptos-cli/use-cli/cli-account",
+      "title": "Account",
+      "description": "Account examples",
+      "sidebar": "appSidebar"
+    },
+    "tools/aptos-cli/use-cli/cli-configuration": {
+      "id": "tools/aptos-cli/use-cli/cli-configuration",
+      "title": "Configuration",
+      "description": "Configuration examples",
+      "sidebar": "appSidebar"
+    },
+    "tools/aptos-cli/use-cli/cli-genesis": {
+      "id": "tools/aptos-cli/use-cli/cli-genesis",
+      "title": "Genesis",
+      "description": "Genesis ceremonies",
+      "sidebar": "appSidebar"
+    },
+    "tools/aptos-cli/use-cli/cli-key": {
+      "id": "tools/aptos-cli/use-cli/cli-key",
+      "title": "Key",
+      "description": "Key examples",
+      "sidebar": "appSidebar"
+    },
+    "tools/aptos-cli/use-cli/cli-node": {
+      "id": "tools/aptos-cli/use-cli/cli-node",
+      "title": "Node",
+      "description": "Node command examples",
+      "sidebar": "appSidebar"
+    },
+    "tools/aptos-cli/use-cli/move-tutorials/arguments-in-json-tutorial": {
+      "id": "tools/aptos-cli/use-cli/move-tutorials/arguments-in-json-tutorial",
+      "title": "Arguments in JSON Tutorial",
+      "description": "パッケージ情報",
+      "sidebar": "appSidebar"
+    },
+    "tools/aptos-cli/use-cli/move-tutorials/multi-signature-tutorial": {
+      "id": "tools/aptos-cli/use-cli/move-tutorials/multi-signature-tutorial",
+      "title": "Multisig Governance Tutorial",
+      "description": "背景",
+      "sidebar": "appSidebar"
+    },
+    "tools/aptos-cli/use-cli/public-network/run-public-network": {
+      "id": "tools/aptos-cli/use-cli/public-network/run-public-network",
+      "title": "Running a Public Network",
+      "description": "テストのために自身のローカルネットワークを実行したいだけの場合はここでその方法を学習できます。",
+      "sidebar": "appSidebar"
+    },
+    "tools/aptos-cli/use-cli/running-a-local-network": {
+      "id": "tools/aptos-cli/use-cli/running-a-local-network",
+      "title": "Running a Local Network",
+      "description": "ローカルネットワークは、コードをテストする時役立ちます。メインネットのようなAptosネットワークにはどのプロダクションも接続されていませんが、主に次の3つの事由で役立ちます。",
+      "sidebar": "appSidebar"
+    },
+    "tools/aptos-cli/use-cli/use-aptos-cli": {
+      "id": "tools/aptos-cli/use-cli/use-aptos-cli",
+      "title": "Use the Aptos CLI",
+      "description": "The aptos tool is a command line interface (CLI) for developing on the Aptos blockchain, debugging, and for node operations. This document describes how to use the aptos CLI tool. To download or build the CLI, follow Install Aptos CLI.",
+      "sidebar": "appSidebar"
+    },
+    "tools/aptos-cli/use-cli/use-aptos-ledger": {
+      "id": "tools/aptos-cli/use-cli/use-aptos-ledger",
+      "title": "Use Aptos CLI with Ledger",
+      "description": "The aptos tool can be used with your Ledger device to sign any transaction. This is the most secure way to sign transactions, as your private key never leaves your device.",
+      "sidebar": "appSidebar"
+    },
+    "tools/aptos-cli/use-cli/working-with-move-contracts": {
+      "id": "tools/aptos-cli/use-cli/working-with-move-contracts",
+      "title": "Working With Move Contracts",
+      "description": "Aptos CLIは主に、Moveコントラクトのコンパイル、テスト、形式検証に使用されます。まだ Aptos CLIをインストールしていない場合は、以下でインストール出来ます。",
+      "sidebar": "appSidebar"
+    },
+    "tutorials/build-e2e-dapp/add-wallet-support": {
+      "id": "tutorials/build-e2e-dapp/add-wallet-support",
+      "title": "3. Add Wallet Support",
+      "description": "In the third chapter of the tutorial on building an end-to-end dapp on Aptos, you will be adding wallet support to your React app. You now need a wallet to submit a transaction to the blockchain.",
+      "sidebar": "appSidebar"
+    },
+    "tutorials/build-e2e-dapp/create-a-smart-contract": {
+      "id": "tutorials/build-e2e-dapp/create-a-smart-contract",
+      "title": "1. Create a Smart Contract",
+      "description": "This is the first chapter of the tutorial on building an end-to-end dapp on Aptos. If you haven’t done it, review that introduction, and ensure your environment meets the prerequisites listed there.",
+      "sidebar": "appSidebar"
+    },
+    "tutorials/build-e2e-dapp/fetch-data-from-chain": {
+      "id": "tutorials/build-e2e-dapp/fetch-data-from-chain",
+      "title": "4. Fetch Data from Chain",
+      "description": "In the fourth chapter of the tutorial on building an end-to-end dapp on Aptos, you will be learning to fetch data from chain.",
+      "sidebar": "appSidebar"
+    },
+    "tutorials/build-e2e-dapp/handle-tasks": {
+      "id": "tutorials/build-e2e-dapp/handle-tasks",
+      "title": "6. Handle Tasks",
+      "description": "In the sixth and final chapter of the tutorial on building an end-to-end dapp on Aptos, you will add functionality to the app so the user interface is able to handle cases where an account has created a list.",
+      "sidebar": "appSidebar"
+    },
+    "tutorials/build-e2e-dapp/index": {
+      "id": "tutorials/build-e2e-dapp/index",
+      "title": "Build E2E Dapp on Aptos",
+      "description": "A common way to learn a new framework or programming language is to build a simple todo list. In this tutorial, we will learn how to build an end-to-end todo list dapp, starting from the smart contract side through the front-end side and finally use of a wallet to interact with the two.",
+      "sidebar": "appSidebar"
+    },
+    "tutorials/build-e2e-dapp/set-up-react-app": {
+      "id": "tutorials/build-e2e-dapp/set-up-react-app",
+      "title": "2. Set up React App",
+      "description": "This is the second chapter of the tutorial on building an end-to-end dapp on Aptos where you have already created a smart contract and are now setting up a React app.",
+      "sidebar": "appSidebar"
+    },
+    "tutorials/build-e2e-dapp/submit-data-to-chain": {
+      "id": "tutorials/build-e2e-dapp/submit-data-to-chain",
+      "title": "5. Submit Data to Chain",
+      "description": "In the fifth chapter of the tutorial on building an end-to-end dapp on Aptos, you will be submitting data to the chain.",
+      "sidebar": "appSidebar"
+    },
+    "tutorials/first-coin": {
+      "id": "tutorials/first-coin",
+      "title": "Your First Coin",
+      "description": "このチュートリアルでは、MoonCoinという名前の自作のコインをコンパイル、デプロイ、ミントする方法を紹介します。",
+      "sidebar": "appSidebar"
+    },
+    "tutorials/first-fungible-asset": {
+      "id": "tutorials/first-fungible-asset",
+      "title": "Your First Fungible Asset",
+      "description": "このチュートリアルではFACoinという名前の自作の代替資産 (FA) をコンパイル、デプロイ、ミントする方法を紹介します。チュートリアルに進む前に、FA を理解していることを確認してください。まだの場合は、最初に読むことを強くお勧めします。",
+      "sidebar": "appSidebar"
+    },
+    "tutorials/first-move-module": {
+      "id": "tutorials/first-move-module",
+      "title": "Your First Move Module",
+      "description": "このチュートリアルでは、どの様にコンパイル、テスト、公開し、Aptosブロックチェーン上でMove モジュールと交信するのか詳しく解説します。手順を要約すると、",
+      "sidebar": "appSidebar"
+    },
+    "tutorials/first-multisig": {
+      "id": "tutorials/first-multisig",
+      "title": "Your First Multisig",
+      "description": "This tutorial introduces assorted K-of-N multi-signer authentication operations and supplements content from the following tutorials:",
+      "sidebar": "appSidebar"
+    },
+    "tutorials/first-transaction": {
+      "id": "tutorials/first-transaction",
+      "title": "Your First Transaction",
+      "description": "This tutorial describes how to generate and submit transactions to the Aptos blockchain, and verify these submitted transactions. The transfer-coin example used in this tutorial is built with the Aptos SDKs.",
+      "sidebar": "appSidebar"
+    },
+    "tutorials/index": {
+      "id": "tutorials/index",
+      "title": "Learn from Tutorials",
+      "description": "If you are new to the Aptos blockchain, begin with these tutorials before you get into in-depth development. These tutorials will help you become familiar with how to develop for the Aptos blockchain using the Aptos SDK.",
+      "sidebar": "appSidebar"
+    },
+    "tutorials/programmatic-upgradeable-module": {
+      "id": "tutorials/programmatic-upgradeable-module",
+      "title": "Programmatic Upgradeable Module",
+      "description": "This tutorial will go over two sections:"
+    },
+    "tutorials/your-first-nft": {
+      "id": "tutorials/your-first-nft",
+      "title": "Your First NFT",
+      "description": "このチュートリアルでは、Aptos ブロックチェーン上で代替不可能な資産を作成および転送する方法について解説します。代替不可能なデジタル資産に対する Aptos のノーコード実装は、aptostoken.moveMoveモジュールにあります。",
+      "sidebar": "appSidebar"
+    }
+  }
+}

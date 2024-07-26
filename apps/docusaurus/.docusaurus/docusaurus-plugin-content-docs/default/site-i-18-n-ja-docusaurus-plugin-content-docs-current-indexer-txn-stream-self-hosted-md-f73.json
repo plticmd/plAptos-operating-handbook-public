@@ -1,0 +1,28 @@
+{
+  "id": "indexer/txn-stream/self-hosted",
+  "title": "自己ホスト型トランザクション ストリーム サービス",
+  "description": "近日公開!",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/indexer/txn-stream/self-hosted.md",
+  "sourceDirName": "indexer/txn-stream",
+  "slug": "/indexer/txn-stream/self-hosted",
+  "permalink": "/indexer/txn-stream/self-hosted",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/txn-stream/self-hosted.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "2024年4月18日",
+  "frontMatter": {
+    "title": "自己ホスト型トランザクション ストリーム サービス"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "ラボがホストするトランザクション ストリームサービス",
+    "permalink": "/indexer/txn-stream/labs-hosted"
+  },
+  "next": {
+    "title": "ローカルで実行する",
+    "permalink": "/indexer/txn-stream/local-development"
+  }
+}

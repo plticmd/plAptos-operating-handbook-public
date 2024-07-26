@@ -1,0 +1,25 @@
+{
+  "id": "aptos-white-paper/in-japanese",
+  "title": "日本語 (In Japanese)",
+  "description": "安全でスケーラブル、アップグレード可能なWeb3インフラ",
+  "source": "@site/docs/aptos-white-paper/in-japanese.md",
+  "sourceDirName": "aptos-white-paper",
+  "slug": "/aptos-white-paper/aptos-white-paper-in-japanese",
+  "permalink": "/ja/aptos-white-paper/aptos-white-paper-in-japanese",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/aptos-white-paper/in-japanese.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "日本語 (In Japanese)",
+    "slug": "aptos-white-paper-in-japanese"
+  },
+  "sidebar": "aptosSidebar",
+  "previous": {
+    "title": "한글 (In Korean)",
+    "permalink": "/ja/aptos-white-paper/aptos-white-paper-in-korean"
+  }
+}

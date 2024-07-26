@@ -1,0 +1,26 @@
+{
+  "id": "community/contributors",
+  "title": "Contributors",
+  "description": "",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/community/contributors.md",
+  "sourceDirName": "community",
+  "slug": "/community/contributors",
+  "permalink": "/community/contributors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/community/contributors.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Contributors",
+    "hide_table_of_contents": true,
+    "hide_title": true
+  },
+  "sidebar": "comSidebar",
+  "previous": {
+    "title": "Follow Aptos Style",
+    "permalink": "/community/aptos-style"
+  }
+}

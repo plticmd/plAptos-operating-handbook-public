@@ -1,0 +1,28 @@
+{
+  "id": "integration/index",
+  "title": "Interact with Blockchain",
+  "description": "Aptosブロックチェーンを使用するには以下のガイドに従ってください。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/integration/index.md",
+  "sourceDirName": "integration",
+  "slug": "/integration/",
+  "permalink": "/integration/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/integration/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713731976,
+  "formattedLastUpdatedAt": "2024年4月21日",
+  "frontMatter": {
+    "title": "Interact with Blockchain"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Multisig Governance Tutorial",
+    "permalink": "/tools/aptos-cli/use-cli/move-tutorials/multi-signature-tutorial"
+  },
+  "next": {
+    "title": "Aptos Token Overview",
+    "permalink": "/guides/nfts/aptos-token-overview"
+  }
+}

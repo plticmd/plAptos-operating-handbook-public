@@ -1,0 +1,29 @@
+{
+  "id": "indexer/txn-stream/local-development-jp",
+  "title": "ローカルで実行する(Japanese)",
+  "description": "これは、ARM上のmacOS13およびx86_64上のDebian11でテストされています。",
+  "source": "@site/docs/indexer/txn-stream/local-development-jp.md",
+  "sourceDirName": "indexer/txn-stream",
+  "slug": "/indexer/txn-stream/indexer-txn-stream-local-development-jp",
+  "permalink": "/ja/indexer/txn-stream/indexer-txn-stream-local-development-jp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/txn-stream/local-development-jp.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "ローカルで実行する(Japanese)",
+    "slug": "indexer-txn-stream-local-development-jp"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Running Locally",
+    "permalink": "/ja/indexer/txn-stream/indexer-txn-stream-local-development"
+  },
+  "next": {
+    "title": "Legacy Indexer",
+    "permalink": "/ja/indexer/legacy/indexer-legacy-index"
+  }
+}

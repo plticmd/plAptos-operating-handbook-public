@@ -1,0 +1,28 @@
+{
+  "id": "tools/aptos-cli/install-cli/install-from-brew",
+  "title": "Install the CLI with Brew",
+  "description": "Recommended on macOS, brew is a package manager that allows for installing and updating packages in a single",
+  "source": "@site/docs/tools/aptos-cli/install-cli/install-from-brew.md",
+  "sourceDirName": "tools/aptos-cli/install-cli",
+  "slug": "/tools/aptos-cli/install-cli/install-from-brew",
+  "permalink": "/tools/aptos-cli/install-cli/install-from-brew",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tools/aptos-cli/install-cli/install-from-brew.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Install the CLI with Brew"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Download CLI Binaries",
+    "permalink": "/tools/aptos-cli/install-cli/download-cli-binaries"
+  },
+  "next": {
+    "title": "Build CLI from Source Code",
+    "permalink": "/tools/aptos-cli/install-cli/build-from-source"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "move/move-on-aptos/objects/configuring-objects",
+  "title": "Configuring objects",
+  "description": "At this point, you have an object, but how do you specialize it? Objects must",
+  "source": "@site/docs/move/move-on-aptos/objects/configuring-objects.md",
+  "sourceDirName": "move/move-on-aptos/objects",
+  "slug": "/move/move-on-aptos/objects/configuring-objects",
+  "permalink": "/move/move-on-aptos/objects/configuring-objects",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/move-on-aptos/objects/configuring-objects.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Configuring objects"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Creating objects",
+    "permalink": "/move/move-on-aptos/objects/creating-objects"
+  },
+  "next": {
+    "title": "Using objects",
+    "permalink": "/move/move-on-aptos/objects/using-objects"
+  }
+}

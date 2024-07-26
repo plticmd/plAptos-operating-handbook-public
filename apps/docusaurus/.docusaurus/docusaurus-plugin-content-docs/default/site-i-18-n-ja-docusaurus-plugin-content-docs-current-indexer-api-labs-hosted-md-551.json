@@ -1,0 +1,28 @@
+{
+  "id": "indexer/api/labs-hosted",
+  "title": "ラボがホストするインデクサーAPI",
+  "description": "グラフQL APIエンドポイント",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/indexer/api/labs-hosted.md",
+  "sourceDirName": "indexer/api",
+  "slug": "/indexer/api/labs-hosted",
+  "permalink": "/indexer/api/labs-hosted",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/api/labs-hosted.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "2024年4月18日",
+  "frontMatter": {
+    "title": "ラボがホストするインデクサーAPI"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "インデクサーAPI",
+    "permalink": "/indexer/api/"
+  },
+  "next": {
+    "title": "セルフホスト型インデクサーAPI",
+    "permalink": "/indexer/api/self-hosted"
+  }
+}

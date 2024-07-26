@@ -1,0 +1,29 @@
+{
+  "id": "indexer/legacy/index-jp",
+  "title": "従来のインデクサー(Japanese)",
+  "description": "今後 - 2024年第2四半期末: 私達は従来のインデクサーに新機能は追加しません。コミュニティへの全般的なサポートは継続します。そして、ブロックチェーンレベルで行われた変更が既存のレガシープロセッサを破壊しない様にしていきます。",
+  "source": "@site/docs/indexer/legacy/index-jp.md",
+  "sourceDirName": "indexer/legacy",
+  "slug": "/indexer/legacy/indexer-legacy-index-jp",
+  "permalink": "/ja/indexer/legacy/indexer-legacy-index-jp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/legacy/index-jp.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "従来のインデクサー(Japanese)",
+    "slug": "indexer-legacy-index-jp"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Legacy Indexer",
+    "permalink": "/ja/indexer/legacy/indexer-legacy-index"
+  },
+  "next": {
+    "title": "Run an Indexer Fullnode",
+    "permalink": "/ja/indexer/legacy/indexer-legacy-indexer-fullnode.md"
+  }
+}

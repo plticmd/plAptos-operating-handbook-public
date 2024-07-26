@@ -1,0 +1,26 @@
+{
+  "id": "move/book/introduction",
+  "title": "Introduction",
+  "description": "Welcome to Move, a next generation language for secure, sandboxed, and formally verified programming. It has been used as the smart contract language for several blockchains including Aptos. Move allows developers to write programs that flexibly manage and transfer assets, while providing the security and protections against attacks on those assets. However, Move has been developed with use cases in mind outside a blockchain context as well.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/introduction.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/introduction",
+  "permalink": "/move/book/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/introduction.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Moveプログラミング言語",
+    "permalink": "/move/book/SUMMARY"
+  },
+  "next": {
+    "title": "Modules and Scripts",
+    "permalink": "/move/book/modules-and-scripts"
+  }
+}

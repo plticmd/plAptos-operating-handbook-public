@@ -1,0 +1,28 @@
+{
+  "id": "nodes/full-node/pfn-requirements",
+  "title": "PFN Requirements",
+  "description": "To ensure that your public fullnode (PFN) operates smoothly, it should meet the requirements specified in this document.",
+  "source": "@site/docs/nodes/full-node/pfn-requirements.md",
+  "sourceDirName": "nodes/full-node",
+  "slug": "/nodes/full-node/pfn-requirements",
+  "permalink": "/nodes/full-node/pfn-requirements",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/full-node/pfn-requirements.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "PFN Requirements"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Run a Public Fullnode",
+    "permalink": "/nodes/full-node/public-fullnode"
+  },
+  "next": {
+    "title": "Deploy a PFN",
+    "permalink": "/nodes/full-node/deployments/deploy-a-pfn"
+  }
+}

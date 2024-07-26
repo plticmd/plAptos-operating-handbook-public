@@ -1,0 +1,29 @@
+{
+  "id": "integration/wallet-adapter-for-dapp",
+  "title": "Dapps用",
+  "description": "素晴らしいDAPPのアイデアがあり、その構築を始めようとしているとイメージして下さい。最終的には、ユーザーがAptosブロックチェーンと対話できる様、1つまたは複数のウォレットを統合する必要があります。ウォレット統合の実装は、すべてのエッジケース、新機能、サポートされていない機能をサポートすることが難しい場合があります。そして、複数のウォレットをサポートすることはさらに困難になる可能性があります。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/integration/wallet-adapter-for-dapp.md",
+  "sourceDirName": "integration",
+  "slug": "/integration/wallet-adapter-for-dapp",
+  "permalink": "/integration/wallet-adapter-for-dapp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/integration/wallet-adapter-for-dapp.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713945504,
+  "formattedLastUpdatedAt": "2024年4月24日",
+  "frontMatter": {
+    "title": "Dapps用",
+    "id": "wallet-adapter-for-dapp"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Integrate with Aptos Wallets",
+    "permalink": "/integration/wallet-adapter-concept"
+  },
+  "next": {
+    "title": "ウォレット用",
+    "permalink": "/integration/wallet-adapter-for-wallets"
+  }
+}

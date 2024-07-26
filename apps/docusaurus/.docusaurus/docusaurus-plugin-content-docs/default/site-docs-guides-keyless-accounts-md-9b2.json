@@ -1,0 +1,19 @@
+{
+  "id": "guides/keyless-accounts",
+  "title": "Aptos Keyless",
+  "description": "Aptos Keyless Integration Guide",
+  "source": "@site/docs/guides/keyless-accounts.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/keyless-accounts",
+  "permalink": "/guides/keyless-accounts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/guides/keyless-accounts.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1716814436,
+  "formattedLastUpdatedAt": "May 27, 2024",
+  "frontMatter": {
+    "title": "Aptos Keyless"
+  }
+}

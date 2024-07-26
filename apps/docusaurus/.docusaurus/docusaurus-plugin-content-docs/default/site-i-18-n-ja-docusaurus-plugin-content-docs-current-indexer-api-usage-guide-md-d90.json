@@ -1,0 +1,19 @@
+{
+  "id": "indexer/api/usage-guide",
+  "title": "Indexer API Usage Guide",
+  "description": "近日公開!",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/indexer/api/usage-guide.md",
+  "sourceDirName": "indexer/api",
+  "slug": "/indexer/api/usage-guide",
+  "permalink": "/indexer/api/usage-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/api/usage-guide.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "2024年4月18日",
+  "frontMatter": {
+    "title": "Indexer API Usage Guide"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "nodes/full-node/fullnode-source-code-or-docker",
+  "title": "Run a PFN from Source or Docker",
+  "description": "You can run your own public fullnode (PFN) to synchronize the state of the Aptos blockchain and stay",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/full-node/fullnode-source-code-or-docker.md",
+  "sourceDirName": "nodes/full-node",
+  "slug": "/nodes/full-node/fullnode-source-code-or-docker",
+  "permalink": "/nodes/full-node/fullnode-source-code-or-docker",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/full-node/fullnode-source-code-or-docker.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "Run a PFN from Source or Docker",
+    "slug": "fullnode-source-code-or-docker",
+    "sidebar_position": 10
+  }
+}

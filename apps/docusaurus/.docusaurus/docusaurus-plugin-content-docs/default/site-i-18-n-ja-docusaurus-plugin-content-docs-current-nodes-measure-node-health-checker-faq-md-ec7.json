@@ -1,0 +1,19 @@
+{
+  "id": "nodes/measure/node-health-checker-faq",
+  "title": "Node Health Checker FAQ",
+  "description": "The Aptos Node Health Checker (NHC) service can be used to check the health of your node(s). See Node Health Checker for full documentation on the NHC.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/measure/node-health-checker-faq.md",
+  "sourceDirName": "nodes/measure",
+  "slug": "/nodes/measure/node-health-checker-faq",
+  "permalink": "/nodes/measure/node-health-checker-faq",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/measure/node-health-checker-faq.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Node Health Checker FAQ"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "nodes/operations/index",
+  "title": "Bootstrap a Node",
+  "description": "Bootstrapping a new node usually only depends on state sync in its fast sync mode, which synchronises to a recent state with help from its peers and start syncing recent ledger history from there. However, if longer ledger history is needed for any reason, we have these choices:",
+  "source": "@site/docs/nodes/operations/index.md",
+  "sourceDirName": "nodes/operations",
+  "slug": "/nodes/operations/operations-index",
+  "permalink": "/nodes/operations/operations-index",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/operations/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Bootstrap a Node",
+    "slug": "operations-index"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Customize PFN Networks",
+    "permalink": "/nodes/full-node/fullnode-network-connections"
+  },
+  "next": {
+    "title": "Bootstrap from a Snapshot",
+    "permalink": "/nodes/full-node/bootstrap-fullnode"
+  }
+}

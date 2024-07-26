@@ -1,0 +1,19 @@
+{
+  "id": "standards/multisig-managed-fungible-asset",
+  "title": "Manage Fungible Assets with Aptos Multisig Account",
+  "description": "This tutorial introduces a practical use case that combines Aptos framework multisig account with fungible asset standard to enhance the security margin of the management of fungible assets. Make sure you have understood module publishing and Aptos framework multisig account before moving on to the tutorial. If not, it is highly recommended to try out the following tutorials first:",
+  "source": "@site/docs/standards/multisig-managed-fungible-asset.md",
+  "sourceDirName": "standards",
+  "slug": "/standards/multisig-managed-fungible-asset",
+  "permalink": "/standards/multisig-managed-fungible-asset",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/standards/multisig-managed-fungible-asset.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Manage Fungible Assets with Aptos Multisig Account"
+  }
+}

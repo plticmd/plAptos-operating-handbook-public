@@ -1,0 +1,28 @@
+{
+  "id": "move/move-on-aptos/objects/index",
+  "title": "Building with Objects",
+  "description": "The Move language controls access to resources using the store ability and",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/move-on-aptos/objects/index.md",
+  "sourceDirName": "move/move-on-aptos/objects",
+  "slug": "/move/move-on-aptos/objects/",
+  "permalink": "/move/move-on-aptos/objects/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/move-on-aptos/objects/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Building with Objects"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Advanced Move Guides",
+    "permalink": "/move/aptos-move"
+  },
+  "next": {
+    "title": "Creating objects",
+    "permalink": "/move/move-on-aptos/objects/creating-objects"
+  }
+}

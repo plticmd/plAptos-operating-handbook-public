@@ -1,0 +1,26 @@
+{
+  "id": "move/book/global-storage-operators",
+  "title": "Global Storage - Operators",
+  "description": "Move programs can create, delete, and update resources in global storage using the following five instructions:",
+  "source": "@site/docs/move/book/global-storage-operators.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/global-storage-operators",
+  "permalink": "/move/book/global-storage-operators",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/global-storage-operators.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Global Storage - Structure",
+    "permalink": "/move/book/global-storage-structure"
+  },
+  "next": {
+    "title": "Libraries",
+    "permalink": "/move/book/standard-library"
+  }
+}

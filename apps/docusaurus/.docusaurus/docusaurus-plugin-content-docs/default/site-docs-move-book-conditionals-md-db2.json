@@ -1,0 +1,26 @@
+{
+  "id": "move/book/conditionals",
+  "title": "Conditionals",
+  "description": "An if expression specifies that some code should only be evaluated if a certain condition is true. For example:",
+  "source": "@site/docs/move/book/conditionals.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/conditionals",
+  "permalink": "/move/book/conditionals",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/conditionals.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Abort and Assert",
+    "permalink": "/move/book/abort-and-assert"
+  },
+  "next": {
+    "title": "While, For, and Loop",
+    "permalink": "/move/book/loops"
+  }
+}

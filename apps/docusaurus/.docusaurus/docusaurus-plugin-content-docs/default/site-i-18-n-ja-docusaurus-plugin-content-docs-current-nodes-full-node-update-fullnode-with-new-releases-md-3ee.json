@@ -1,0 +1,31 @@
+{
+  "id": "nodes/full-node/update-fullnode-with-new-releases",
+  "title": "Upgrade your PFN",
+  "description": "This document outlines the process for updating your PFN with new Aptos releases. All PFNs will need to be updated",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/full-node/update-fullnode-with-new-releases.md",
+  "sourceDirName": "nodes/full-node",
+  "slug": "/nodes/full-node/update-fullnode-with-new-devnet-releases",
+  "permalink": "/nodes/full-node/update-fullnode-with-new-devnet-releases",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/full-node/update-fullnode-with-new-releases.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "title": "Upgrade your PFN",
+    "slug": "update-fullnode-with-new-devnet-releases",
+    "sidebar_position": 11
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Modify a PFN",
+    "permalink": "/nodes/modify/modify-index"
+  },
+  "next": {
+    "title": "Generate a PFN Identity",
+    "permalink": "/nodes/full-node/network-identity-fullnode"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "releases/index",
+  "title": "Latest Aptos Releases",
+  "description": "Each Aptos release can be found on the GitHub site for Aptos-core releases. Each release is mirrored by the following git branches:",
+  "source": "@site/docs/releases/index.md",
+  "sourceDirName": "releases",
+  "slug": "/releases/aptos-releases",
+  "permalink": "/releases/aptos-releases",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/releases/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Latest Aptos Releases",
+    "slug": "aptos-releases"
+  },
+  "sidebar": "aptosSidebar",
+  "previous": {
+    "title": "Explore Aptos",
+    "permalink": "/guides/explore-aptos"
+  },
+  "next": {
+    "title": "Networks",
+    "permalink": "/nodes/networks"
+  }
+}

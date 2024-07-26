@@ -1,0 +1,26 @@
+{
+  "id": "move/book/unit-testing",
+  "title": "ユニットテスト",
+  "description": "Moveのユニットテストでは、Moveソース言語へ3つの新しい注釈を追加します。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/unit-testing.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/unit-testing",
+  "permalink": "/move/book/unit-testing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/unit-testing.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1720271355,
+  "formattedLastUpdatedAt": "2024年7月6日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "パッケージのアップグレード",
+    "permalink": "/move/book/package-upgrades"
+  },
+  "next": {
+    "title": "Global Storage - Structure",
+    "permalink": "/move/book/global-storage-structure"
+  }
+}

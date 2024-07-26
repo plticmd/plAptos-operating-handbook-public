@@ -1,0 +1,28 @@
+{
+  "id": "indexer/txn-stream/local-development",
+  "title": "ローカルで実行する",
+  "description": "これは、ARM上のmacOS13およびx86_64上のDebian11でテストされています。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/indexer/txn-stream/local-development.md",
+  "sourceDirName": "indexer/txn-stream",
+  "slug": "/indexer/txn-stream/local-development",
+  "permalink": "/indexer/txn-stream/local-development",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/txn-stream/local-development.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "2024年4月18日",
+  "frontMatter": {
+    "title": "ローカルで実行する"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "自己ホスト型トランザクション ストリーム サービス",
+    "permalink": "/indexer/txn-stream/self-hosted"
+  },
+  "next": {
+    "title": "従来のインデクサー",
+    "permalink": "/indexer/legacy/"
+  }
+}

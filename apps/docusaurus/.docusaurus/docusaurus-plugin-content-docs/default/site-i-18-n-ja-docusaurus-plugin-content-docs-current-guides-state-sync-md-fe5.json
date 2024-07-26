@@ -1,0 +1,28 @@
+{
+  "id": "guides/state-sync",
+  "title": "State Synchronization",
+  "description": "Aptosネットワーク内のノード(バリデータ、VFN、PFN など)は、常に最新のブロックチェーン状態に同期されている必要があります。各ノードで実行される状態同期(状態同期)コンポーネントが、この役割を負います。状態同期は、ピアから新しいブロックチェーンデータを識別して取得し、データを検証してローカル ストレージに保存します。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/guides/state-sync.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/state-sync",
+  "permalink": "/guides/state-sync",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/guides/state-sync.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1717324438,
+  "formattedLastUpdatedAt": "2024年6月2日",
+  "frontMatter": {
+    "title": "State Synchronization"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Configure a Node",
+    "permalink": "/nodes/configure/configure-index"
+  },
+  "next": {
+    "title": "Data Pruning",
+    "permalink": "/guides/data-pruning"
+  }
+}

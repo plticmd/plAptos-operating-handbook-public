@@ -1,0 +1,29 @@
+{
+  "id": "tutorials/first-coin",
+  "title": "Your First Coin",
+  "description": "This tutorial introduces how you can compile, deploy, and mint your own coin, named MoonCoin.",
+  "source": "@site/docs/tutorials/first-coin.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/your-first-coin",
+  "permalink": "/tutorials/your-first-coin",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tutorials/first-coin.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713278317,
+  "formattedLastUpdatedAt": "Apr 16, 2024",
+  "frontMatter": {
+    "title": "Your First Coin",
+    "slug": "your-first-coin"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Your First NFT",
+    "permalink": "/tutorials/your-first-nft"
+  },
+  "next": {
+    "title": "Your First Fungible Asset",
+    "permalink": "/tutorials/your-first-fungible-asset"
+  }
+}

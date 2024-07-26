@@ -1,0 +1,29 @@
+{
+  "id": "move/prover/index",
+  "title": "Move Prover",
+  "description": "The Move Prover supports formal specification and verification of Move code. The Move Prover can automatically validate logical properties of Move smart contracts while offering a user experience similar to a type checker or linter.",
+  "source": "@site/docs/move/prover/index.md",
+  "sourceDirName": "move/prover",
+  "slug": "/move/prover/move-prover",
+  "permalink": "/move/prover/move-prover",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/prover/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Move Prover",
+    "slug": "move-prover"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Security",
+    "permalink": "/move/move-on-aptos/move-security-guidelines"
+  },
+  "next": {
+    "title": "Move Prover User Guide",
+    "permalink": "/move/prover/prover-guide"
+  }
+}

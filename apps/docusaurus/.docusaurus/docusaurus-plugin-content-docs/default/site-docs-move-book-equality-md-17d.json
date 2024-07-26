@@ -1,0 +1,26 @@
+{
+  "id": "move/book/equality",
+  "title": "Equality",
+  "description": "Move supports two equality operations == and !=",
+  "source": "@site/docs/move/book/equality.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/equality",
+  "permalink": "/move/book/equality",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/equality.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Local Variables and Scope",
+    "permalink": "/move/book/variables"
+  },
+  "next": {
+    "title": "Abort and Assert",
+    "permalink": "/move/book/abort-and-assert"
+  }
+}

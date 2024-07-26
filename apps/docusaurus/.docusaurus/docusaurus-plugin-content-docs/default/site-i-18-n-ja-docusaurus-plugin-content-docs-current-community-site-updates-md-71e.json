@@ -1,0 +1,28 @@
+{
+  "id": "community/site-updates",
+  "title": "Update Aptos.dev",
+  "description": "As an open source project, Aptos needs your knowledge to grow. Follow the instructions on this page to update Aptos.dev, the developer website for the Aptos blockchain. Every contributor to Aptos.dev is listed as an author on the pages they edit and update. See the Authors list at the bottom of any page for an example.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/community/site-updates.md",
+  "sourceDirName": "community",
+  "slug": "/community/site-updates",
+  "permalink": "/community/site-updates",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/community/site-updates.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713368916,
+  "formattedLastUpdatedAt": "2024年4月17日",
+  "frontMatter": {
+    "title": "Update Aptos.dev"
+  },
+  "sidebar": "comSidebar",
+  "previous": {
+    "title": "External Resources",
+    "permalink": "/community/external-resources"
+  },
+  "next": {
+    "title": "Follow Aptos Style",
+    "permalink": "/community/aptos-style"
+  }
+}

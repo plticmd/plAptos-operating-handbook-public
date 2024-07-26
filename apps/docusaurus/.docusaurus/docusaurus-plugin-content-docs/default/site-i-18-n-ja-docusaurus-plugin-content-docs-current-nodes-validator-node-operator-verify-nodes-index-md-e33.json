@@ -1,0 +1,29 @@
+{
+  "id": "nodes/validator-node/operator/verify-nodes/index",
+  "title": "Verify Nodes",
+  "description": "This section contains tutorials for verifying the health and performance of your validator and validator fullnode (VFN). These include:",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/validator-node/operator/verify-nodes/index.md",
+  "sourceDirName": "nodes/validator-node/operator/verify-nodes",
+  "slug": "/nodes/validator-node/operator/verify-nodes/verify-validator-node",
+  "permalink": "/nodes/validator-node/operator/verify-nodes/verify-validator-node",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/validator-node/operator/verify-nodes/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Verify Nodes",
+    "slug": "verify-validator-node"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Staking Pool Voter",
+    "permalink": "/nodes/validator-node/voter/index"
+  },
+  "next": {
+    "title": "Node Health",
+    "permalink": "/nodes/validator-node/operator/node-liveness-criteria"
+  }
+}

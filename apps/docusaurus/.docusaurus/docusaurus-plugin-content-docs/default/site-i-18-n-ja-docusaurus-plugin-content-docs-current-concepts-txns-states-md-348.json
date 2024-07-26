@@ -1,0 +1,28 @@
+{
+  "id": "concepts/txns-states",
+  "title": "Transactions and States",
+  "description": "The Aptos blockchain stores three types of data:",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/concepts/txns-states.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/txns-states",
+  "permalink": "/concepts/txns-states",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/concepts/txns-states.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Transactions and States"
+  },
+  "sidebar": "aptosSidebar",
+  "previous": {
+    "title": "Events",
+    "permalink": "/concepts/events"
+  },
+  "next": {
+    "title": "Gas and Storage Fees",
+    "permalink": "/concepts/gas-txn-fee"
+  }
+}

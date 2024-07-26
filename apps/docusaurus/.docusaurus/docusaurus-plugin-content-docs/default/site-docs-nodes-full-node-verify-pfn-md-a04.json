@@ -1,0 +1,31 @@
+{
+  "id": "nodes/full-node/verify-pfn",
+  "title": "Verify a PFN",
+  "description": "After deploying your PFN, you can verify that it is operating correctly by checking several of the PFN's metrics.",
+  "source": "@site/docs/nodes/full-node/verify-pfn.md",
+  "sourceDirName": "nodes/full-node",
+  "slug": "/nodes/full-node/verify-pfn",
+  "permalink": "/nodes/full-node/verify-pfn",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/full-node/verify-pfn.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "Verify a PFN",
+    "slug": "verify-pfn",
+    "sidebar_position": 10
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Using GCP",
+    "permalink": "/nodes/full-node/deployments/deploy-a-pfn-gcp"
+  },
+  "next": {
+    "title": "Modify a PFN",
+    "permalink": "/nodes/modify/modify-index"
+  }
+}

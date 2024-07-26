@@ -1,0 +1,29 @@
+{
+  "id": "sdks/rust-sdk/index-jp",
+  "title": "日本語(in japanese)",
+  "description": "Rust SDKをインストールする",
+  "source": "@site/docs/sdks/rust-sdk/index-jp.md",
+  "sourceDirName": "sdks/rust-sdk",
+  "slug": "/sdks/rust-sdk/rust-sdk-in-japanese",
+  "permalink": "/ja/sdks/rust-sdk/rust-sdk-in-japanese",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/rust-sdk/index-jp.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "日本語(in japanese)",
+    "slug": "rust-sdk-in-japanese"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Rust SDK",
+    "permalink": "/ja/sdks/rust-sdk/"
+  },
+  "next": {
+    "title": "Unity SDK",
+    "permalink": "/ja/sdks/unity-sdk/"
+  }
+}

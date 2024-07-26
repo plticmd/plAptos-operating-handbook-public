@@ -1,0 +1,26 @@
+{
+  "id": "move/book/conditionals",
+  "title": "条件文",
+  "description": "if式は、特定の条件が満たされる場合のみコードが評価される事を指定します。例えば:",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/conditionals.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/conditionals",
+  "permalink": "/move/book/conditionals",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/conditionals.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1718709339,
+  "formattedLastUpdatedAt": "2024年6月18日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Abort(中止)とAssert",
+    "permalink": "/move/book/abort-and-assert"
+  },
+  "next": {
+    "title": "While, For, ループ",
+    "permalink": "/move/book/loops"
+  }
+}

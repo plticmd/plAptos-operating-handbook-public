@@ -1,0 +1,28 @@
+{
+  "id": "guides/nfts/aptos-token-overview",
+  "title": "Aptos Token Overview",
+  "description": "The Aptos Digital Asset Standard defines the canonical Non-fungible Token on Aptos. Aptos leverages composability to extend the digital asset standard with features like fungibility via the Fungible Asset standard. The concept of composability comes from the underlying data model for these constructs: the Move object data model.",
+  "source": "@site/docs/guides/nfts/aptos-token-overview.md",
+  "sourceDirName": "guides/nfts",
+  "slug": "/guides/nfts/aptos-token-overview",
+  "permalink": "/guides/nfts/aptos-token-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/guides/nfts/aptos-token-overview.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Aptos Token Overview"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Interact with Blockchain",
+    "permalink": "/integration/"
+  },
+  "next": {
+    "title": "Integrate with Aptos Wallets",
+    "permalink": "/integration/wallet-adapter-concept"
+  }
+}

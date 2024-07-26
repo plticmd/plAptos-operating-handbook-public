@@ -1,0 +1,28 @@
+{
+  "id": "indexer/api/self-hosted",
+  "title": "Self-Hosted Indexer API",
+  "description": "This guide will walk you through setting up a self-hosted Indexer API.",
+  "source": "@site/docs/indexer/api/self-hosted.md",
+  "sourceDirName": "indexer/api",
+  "slug": "/indexer/api/self-hosted",
+  "permalink": "/indexer/api/self-hosted",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/api/self-hosted.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "Apr 18, 2024",
+  "frontMatter": {
+    "title": "Self-Hosted Indexer API"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Labs-Hosted Indexer API",
+    "permalink": "/indexer/api/labs-hosted"
+  },
+  "next": {
+    "title": "Example Queries",
+    "permalink": "/indexer/api/example-queries"
+  }
+}

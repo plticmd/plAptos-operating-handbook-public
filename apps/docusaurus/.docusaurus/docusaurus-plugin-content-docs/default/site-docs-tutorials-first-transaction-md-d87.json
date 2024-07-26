@@ -1,0 +1,29 @@
+{
+  "id": "tutorials/first-transaction",
+  "title": "Your First Transaction",
+  "description": "This tutorial describes how to generate and submit transactions to the Aptos blockchain, and verify these submitted transactions. The transfer-coin example used in this tutorial is built with the Aptos SDKs.",
+  "source": "@site/docs/tutorials/first-transaction.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/your-first-transaction",
+  "permalink": "/tutorials/your-first-transaction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tutorials/first-transaction.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713278317,
+  "formattedLastUpdatedAt": "Apr 16, 2024",
+  "frontMatter": {
+    "title": "Your First Transaction",
+    "slug": "your-first-transaction"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Learn from Tutorials",
+    "permalink": "/tutorials/"
+  },
+  "next": {
+    "title": "Your First NFT",
+    "permalink": "/tutorials/your-first-nft"
+  }
+}

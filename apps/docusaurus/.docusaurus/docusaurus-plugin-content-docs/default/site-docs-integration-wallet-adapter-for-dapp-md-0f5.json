@@ -1,0 +1,29 @@
+{
+  "id": "integration/wallet-adapter-for-dapp",
+  "title": "For Dapps",
+  "description": "Imagine you have a great idea for a dapp and you want to start building it. Eventually, you will need to integrate a wallet or multiple wallets so your users can interact with the Aptos blockchain.",
+  "source": "@site/docs/integration/wallet-adapter-for-dapp.md",
+  "sourceDirName": "integration",
+  "slug": "/integration/wallet-adapter-for-dapp",
+  "permalink": "/integration/wallet-adapter-for-dapp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/integration/wallet-adapter-for-dapp.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713731976,
+  "formattedLastUpdatedAt": "Apr 21, 2024",
+  "frontMatter": {
+    "title": "For Dapps",
+    "id": "wallet-adapter-for-dapp"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Integrate with Aptos Wallets",
+    "permalink": "/integration/wallet-adapter-concept"
+  },
+  "next": {
+    "title": "For Wallets",
+    "permalink": "/integration/wallet-adapter-for-wallets"
+  }
+}

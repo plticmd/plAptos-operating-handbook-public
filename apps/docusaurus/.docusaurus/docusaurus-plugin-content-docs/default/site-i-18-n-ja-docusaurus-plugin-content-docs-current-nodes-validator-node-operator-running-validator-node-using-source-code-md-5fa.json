@@ -1,0 +1,29 @@
+{
+  "id": "nodes/validator-node/operator/running-validator-node/using-source-code",
+  "title": "Using Source Code",
+  "description": "This is a step-by-step guide to deploy an Aptos validator and validator fullnode (VFN) using source code. Using this guide, the validator",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/validator-node/operator/running-validator-node/using-source-code.md",
+  "sourceDirName": "nodes/validator-node/operator/running-validator-node",
+  "slug": "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-source",
+  "permalink": "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-source",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/validator-node/operator/running-validator-node/using-source-code.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Using Source Code",
+    "slug": "run-validator-node-using-source"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Deploy Nodes",
+    "permalink": "/nodes/validator-node/operator/running-validator-node/running-validator-node"
+  },
+  "next": {
+    "title": "Using Docker",
+    "permalink": "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-docker"
+  }
+}

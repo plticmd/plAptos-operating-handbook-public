@@ -1,0 +1,28 @@
+{
+  "id": "nodes/validator-node/operator/node-liveness-criteria",
+  "title": "Node Health",
+  "description": "This document describes how you can verify and monitor the health of your validator and validator fullnode (VFN) in the",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/validator-node/operator/node-liveness-criteria.md",
+  "sourceDirName": "nodes/validator-node/operator",
+  "slug": "/nodes/validator-node/operator/node-liveness-criteria",
+  "permalink": "/nodes/validator-node/operator/node-liveness-criteria",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/validator-node/operator/node-liveness-criteria.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Node Health"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Verify Nodes",
+    "permalink": "/nodes/validator-node/operator/verify-nodes/verify-validator-node"
+  },
+  "next": {
+    "title": "Validator Leaderboard",
+    "permalink": "/nodes/leaderboard-metrics"
+  }
+}

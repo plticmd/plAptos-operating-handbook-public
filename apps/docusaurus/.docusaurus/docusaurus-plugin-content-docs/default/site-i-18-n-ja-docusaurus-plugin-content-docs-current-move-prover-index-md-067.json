@@ -1,0 +1,29 @@
+{
+  "id": "move/prover/index",
+  "title": "Move Prover",
+  "description": "Move Proverは、Moveコードの正式な仕様と検証をサポートします。Move Proverは型チェッカーやリンターと同様のユーザーエクスペリエンスを提供しながらMoveスマートコントラクトの論理プロパティを自動的に検証出来ます。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/prover/index.md",
+  "sourceDirName": "move/prover",
+  "slug": "/move/prover/move-prover",
+  "permalink": "/move/prover/move-prover",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/prover/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1721049661,
+  "formattedLastUpdatedAt": "2024年7月15日",
+  "frontMatter": {
+    "title": "Move Prover",
+    "slug": "move-prover"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Security",
+    "permalink": "/move/move-on-aptos/move-security-guidelines"
+  },
+  "next": {
+    "title": "Move Proverユーザーガイド",
+    "permalink": "/move/prover/prover-guide"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "nodes/validator-node/operator/connect-to-aptos-network",
+  "title": "Connect to a Network",
+  "description": "This document describes how to connect your validator and validator fullnode (VFN) to an Aptos network.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/validator-node/operator/connect-to-aptos-network.md",
+  "sourceDirName": "nodes/validator-node/operator",
+  "slug": "/nodes/validator-node/operator/connect-to-aptos-network",
+  "permalink": "/nodes/validator-node/operator/connect-to-aptos-network",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/validator-node/operator/connect-to-aptos-network.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Connect to a Network",
+    "slug": "connect-to-aptos-network"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Connect Nodes",
+    "permalink": "/nodes/validator-node/operator/connect-nodes/connect-validator-node"
+  },
+  "next": {
+    "title": "Staking Pool Operations",
+    "permalink": "/nodes/validator-node/operator/staking-pool-operations"
+  }
+}

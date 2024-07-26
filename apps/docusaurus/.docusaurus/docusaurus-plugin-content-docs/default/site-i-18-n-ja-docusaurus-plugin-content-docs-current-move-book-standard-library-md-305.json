@@ -1,0 +1,26 @@
+{
+  "id": "move/book/standard-library",
+  "title": "ライブラリ",
+  "description": "Aptosは開発者向けの複数の便利なライブラリを提供しています。最新の完全なドキュメントはこちら見つかります。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/standard-library.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/standard-library",
+  "permalink": "/move/book/standard-library",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/standard-library.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1720084421,
+  "formattedLastUpdatedAt": "2024年7月4日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Global Storage - Operators",
+    "permalink": "/move/book/global-storage-operators"
+  },
+  "next": {
+    "title": "Moveコーディング規則",
+    "permalink": "/move/book/coding-conventions"
+  }
+}

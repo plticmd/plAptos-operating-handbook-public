@@ -1,0 +1,28 @@
+{
+  "id": "standards/index",
+  "title": "Aptos Standards",
+  "description": "Standards define a common interoperable interface for all developers to build upon. They consist of rules to ensure compatibility across applications and wallets on the Aptos blockchain. See a list of known coin resource addresses in Aptos provided by",
+  "source": "@site/docs/standards/index.md",
+  "sourceDirName": "standards",
+  "slug": "/standards/",
+  "permalink": "/standards/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/standards/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Aptos Standards"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Supporting Resources",
+    "permalink": "/move/prover/supporting-resources"
+  },
+  "next": {
+    "title": "Object",
+    "permalink": "/standards/aptos-object"
+  }
+}

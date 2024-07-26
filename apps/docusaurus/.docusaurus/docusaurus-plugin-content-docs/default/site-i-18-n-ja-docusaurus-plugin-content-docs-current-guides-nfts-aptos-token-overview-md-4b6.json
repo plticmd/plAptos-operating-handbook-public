@@ -1,0 +1,28 @@
+{
+  "id": "guides/nfts/aptos-token-overview",
+  "title": "Aptos Token Overview",
+  "description": "Aptosデジタル資産標準はAptosの公式の非代替トークンを定義します。Aptosは構成可能性を活用して",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/guides/nfts/aptos-token-overview.md",
+  "sourceDirName": "guides/nfts",
+  "slug": "/guides/nfts/aptos-token-overview",
+  "permalink": "/guides/nfts/aptos-token-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/guides/nfts/aptos-token-overview.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1717324438,
+  "formattedLastUpdatedAt": "2024年6月2日",
+  "frontMatter": {
+    "title": "Aptos Token Overview"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Interact with Blockchain",
+    "permalink": "/integration/"
+  },
+  "next": {
+    "title": "Integrate with Aptos Wallets",
+    "permalink": "/integration/wallet-adapter-concept"
+  }
+}

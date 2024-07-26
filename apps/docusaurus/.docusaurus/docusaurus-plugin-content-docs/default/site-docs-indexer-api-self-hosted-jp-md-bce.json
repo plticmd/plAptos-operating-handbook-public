@@ -1,0 +1,29 @@
+{
+  "id": "indexer/api/self-hosted-jp",
+  "title": "セルフホスト型インデクサーAPI(Japanese)",
+  "description": "このガイドでは、セルフホスト型インデクサーAPIのセットアップについて説明します。",
+  "source": "@site/docs/indexer/api/self-hosted-jp.md",
+  "sourceDirName": "indexer/api",
+  "slug": "/indexer/api/indexer-api-self-hosted-jp",
+  "permalink": "/ja/indexer/api/indexer-api-self-hosted-jp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/api/self-hosted-jp.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "セルフホスト型インデクサーAPI(Japanese)",
+    "slug": "indexer-api-self-hosted-jp"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Self-Hosted Indexer API",
+    "permalink": "/ja/indexer/api/indexer-api-self-hosted"
+  },
+  "next": {
+    "title": "Example Queries",
+    "permalink": "/ja/indexer/api/indexer-api-example-queries"
+  }
+}

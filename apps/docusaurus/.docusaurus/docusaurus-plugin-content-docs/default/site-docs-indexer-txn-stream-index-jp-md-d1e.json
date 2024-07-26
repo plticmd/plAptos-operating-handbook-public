@@ -1,0 +1,29 @@
+{
+  "id": "indexer/txn-stream/index-jp",
+  "title": "トランザクションストリームサービス(Japanese)",
+  "description": "トランザクションストリームサービスは、Aptosブロックチェーンに注目し、ブロックチェーン処理中にトランザクションを発行するサービスです。これらのドキュメントでは、このシステムがどのように機能するか、Labs-Hostedインスタンスの使用方法、およびそれを自分でデプロイする方法について解説します。",
+  "source": "@site/docs/indexer/txn-stream/index-jp.md",
+  "sourceDirName": "indexer/txn-stream",
+  "slug": "/indexer/txn-stream/indexer-txn-stream-index-jp",
+  "permalink": "/ja/indexer/txn-stream/indexer-txn-stream-index-jp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/txn-stream/index-jp.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "トランザクションストリームサービス(Japanese)",
+    "slug": "indexer-txn-stream-index-jp"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Transaction Stream Service",
+    "permalink": "/ja/indexer/txn-stream/indexer-txn-stream-index"
+  },
+  "next": {
+    "title": "Labs-Hosted Transaction Stream Service",
+    "permalink": "/ja/indexer/txn-stream/indexer-txn-stream-labs-hosted"
+  }
+}

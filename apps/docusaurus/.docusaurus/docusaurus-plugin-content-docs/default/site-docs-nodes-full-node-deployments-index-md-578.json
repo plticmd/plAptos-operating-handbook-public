@@ -1,0 +1,29 @@
+{
+  "id": "nodes/full-node/deployments/index",
+  "title": "Deploy a PFN",
+  "description": "The following guides provide step-by-step instructions for deploying a PFN on the Aptos networks.",
+  "source": "@site/docs/nodes/full-node/deployments/index.md",
+  "sourceDirName": "nodes/full-node/deployments",
+  "slug": "/nodes/full-node/deployments/deploy-a-pfn",
+  "permalink": "/nodes/full-node/deployments/deploy-a-pfn",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/full-node/deployments/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Deploy a PFN",
+    "slug": "deploy-a-pfn"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "PFN Requirements",
+    "permalink": "/nodes/full-node/pfn-requirements"
+  },
+  "next": {
+    "title": "Using Source Code",
+    "permalink": "/nodes/full-node/deployments/deploy-a-pfn-source-code"
+  }
+}

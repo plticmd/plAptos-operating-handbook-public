@@ -1,0 +1,28 @@
+{
+  "id": "tools/aptos-cli/install-cli/automated-install",
+  "title": "Install CLI by Script",
+  "description": "このaptosツールは、Aptos ブロックチェーン上で開発し、Move コントラクトをデバッグし、ノード操作を実行するためのコマンド ライン インターフェイス (CLI) です。このドキュメントでは自動インストール スクリプトを使用してaptosCLI ツールをインストールする方法について解説します。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/tools/aptos-cli/install-cli/automated-install.md",
+  "sourceDirName": "tools/aptos-cli/install-cli",
+  "slug": "/tools/aptos-cli/install-cli/automated-install",
+  "permalink": "/tools/aptos-cli/install-cli/automated-install",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tools/aptos-cli/install-cli/automated-install.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1717781175,
+  "formattedLastUpdatedAt": "2024年6月7日",
+  "frontMatter": {
+    "title": "Install CLI by Script"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Install the Aptos CLI",
+    "permalink": "/tools/aptos-cli/install-cli/"
+  },
+  "next": {
+    "title": "Download CLI Binaries",
+    "permalink": "/tools/aptos-cli/install-cli/download-cli-binaries"
+  }
+}

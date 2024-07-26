@@ -1,0 +1,28 @@
+{
+  "id": "move/move-on-aptos/scripts/writing-scripts",
+  "title": "Writing Move Scripts",
+  "description": "Move scripts can be written in tandem with Move contracts, but it's highly",
+  "source": "@site/docs/move/move-on-aptos/scripts/writing-scripts.md",
+  "sourceDirName": "move/move-on-aptos/scripts",
+  "slug": "/move/move-on-aptos/scripts/writing-scripts",
+  "permalink": "/move/move-on-aptos/scripts/writing-scripts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/move-on-aptos/scripts/writing-scripts.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Writing Move Scripts"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Building with Move Scripts",
+    "permalink": "/move/move-on-aptos/scripts/"
+  },
+  "next": {
+    "title": "Compiling Move Scripts",
+    "permalink": "/move/move-on-aptos/scripts/compiling-scripts"
+  }
+}

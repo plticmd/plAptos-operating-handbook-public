@@ -1,0 +1,28 @@
+{
+  "id": "move/prover/supporting-resources",
+  "title": "Supporting Resources",
+  "description": "標準ライブラリとフレームワークの仕様",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/prover/supporting-resources.md",
+  "sourceDirName": "move/prover",
+  "slug": "/move/prover/supporting-resources",
+  "permalink": "/move/prover/supporting-resources",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/prover/supporting-resources.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1721049661,
+  "formattedLastUpdatedAt": "2024年7月15日",
+  "frontMatter": {
+    "title": "Supporting Resources"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Move Specification Language",
+    "permalink": "/move/prover/spec-lang"
+  },
+  "next": {
+    "title": "Aptos Standards",
+    "permalink": "/standards/"
+  }
+}

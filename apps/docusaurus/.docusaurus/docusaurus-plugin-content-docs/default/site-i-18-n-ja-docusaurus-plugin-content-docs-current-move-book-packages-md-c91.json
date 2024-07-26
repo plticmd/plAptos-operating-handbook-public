@@ -1,0 +1,26 @@
+{
+  "id": "move/book/packages",
+  "title": "パッケージ",
+  "description": "パッケージを使用すると、Moveプログラマーはより簡単にコードを再利用し、プロジェクト間で共有できます。Moveパッケージシステムを使用すると、プログラマーは以下を簡単に実行出来ます。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/packages.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/packages",
+  "permalink": "/move/book/packages",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/packages.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1720084421,
+  "formattedLastUpdatedAt": "2024年7月4日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "フレンズ",
+    "permalink": "/move/book/friends"
+  },
+  "next": {
+    "title": "パッケージのアップグレード",
+    "permalink": "/move/book/package-upgrades"
+  }
+}

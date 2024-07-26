@@ -1,0 +1,28 @@
+{
+  "id": "apis/fullnode-rest-api",
+  "title": "フルノードREST API",
+  "description": "Aptos APIを使用したい場合はこのガイドが最適です。このガイドではAptos APIを使用してAptosブロックチェーンをプラットフォームに統合するための手順を全て解説します。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/apis/fullnode-rest-api.md",
+  "sourceDirName": "apis",
+  "slug": "/apis/fullnode-rest-api",
+  "permalink": "/apis/fullnode-rest-api",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/apis/fullnode-rest-api.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713437468,
+  "formattedLastUpdatedAt": "2024年4月18日",
+  "frontMatter": {
+    "title": "フルノードREST API"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "アプトスAPI",
+    "permalink": "/apis/"
+  },
+  "next": {
+    "title": "Aptosラボ開発者ポータル",
+    "permalink": "/apis/aptos-labs-developer-portal"
+  }
+}

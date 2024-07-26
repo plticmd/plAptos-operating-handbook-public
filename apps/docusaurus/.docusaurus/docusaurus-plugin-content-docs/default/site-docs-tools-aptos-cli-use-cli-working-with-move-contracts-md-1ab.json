@@ -1,0 +1,28 @@
+{
+  "id": "tools/aptos-cli/use-cli/working-with-move-contracts",
+  "title": "Working With Move Contracts",
+  "description": "The Aptos CLI is mostly used to compile, test, and formally verify Move contracts. If you have not installed the Aptos CLI yet, you can do so by following the steps here Install the Aptos CLI.",
+  "source": "@site/docs/tools/aptos-cli/use-cli/working-with-move-contracts.md",
+  "sourceDirName": "tools/aptos-cli/use-cli",
+  "slug": "/tools/aptos-cli/use-cli/working-with-move-contracts",
+  "permalink": "/tools/aptos-cli/use-cli/working-with-move-contracts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tools/aptos-cli/use-cli/working-with-move-contracts.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1717781175,
+  "formattedLastUpdatedAt": "Jun 7, 2024",
+  "frontMatter": {
+    "title": "Working With Move Contracts"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Running a Public Network",
+    "permalink": "/tools/aptos-cli/use-cli/public-network/run-public-network"
+  },
+  "next": {
+    "title": "Arguments in JSON Tutorial",
+    "permalink": "/tools/aptos-cli/use-cli/move-tutorials/arguments-in-json-tutorial"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "reference/glossary",
+  "title": "Aptos Glossary",
+  "description": "A",
+  "source": "@site/docs/reference/glossary.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/glossary",
+  "permalink": "/reference/glossary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/reference/glossary.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Aptos Glossary"
+  },
+  "sidebar": "refSidebar",
+  "previous": {
+    "title": "Move Reference Documentation",
+    "permalink": "/reference/move"
+  }
+}

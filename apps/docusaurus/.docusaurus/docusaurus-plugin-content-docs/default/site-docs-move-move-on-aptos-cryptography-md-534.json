@@ -1,0 +1,28 @@
+{
+  "id": "move/move-on-aptos/cryptography",
+  "title": "Cryptography",
+  "description": "Cryptography plays an integral role in ensuring the security, integrity, confidentiality, and immutability of data in blockchain systems. The Aptos adapter for Move provides developers with an array of cryptographic primitives to cater to this need. This document delves into the cryptographic functionalities offered by Move on Aptos and elucidates the principles that drive their design.",
+  "source": "@site/docs/move/move-on-aptos/cryptography.md",
+  "sourceDirName": "move/move-on-aptos",
+  "slug": "/move/move-on-aptos/cryptography",
+  "permalink": "/move/move-on-aptos/cryptography",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/move-on-aptos/cryptography.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1721049661,
+  "formattedLastUpdatedAt": "Jul 15, 2024",
+  "frontMatter": {
+    "title": "Cryptography"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Aptos CLI",
+    "permalink": "/move/move-on-aptos/cli"
+  },
+  "next": {
+    "title": "Gas Profiling",
+    "permalink": "/move/move-on-aptos/gas-profiling"
+  }
+}

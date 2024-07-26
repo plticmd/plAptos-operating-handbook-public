@@ -1,0 +1,26 @@
+{
+  "id": "move/book/coding-conventions",
+  "title": "Move Coding Conventions",
+  "description": "This section lays out some basic coding conventions for Move that the Move team has found helpful. These are only recommendations, and you should feel free to use other formatting guidelines and conventions if you have a preference for them.",
+  "source": "@site/docs/move/book/coding-conventions.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/coding-conventions",
+  "permalink": "/move/book/coding-conventions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/coding-conventions.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Libraries",
+    "permalink": "/move/book/standard-library"
+  },
+  "next": {
+    "title": "Advanced Move Guides",
+    "permalink": "/move/aptos-move"
+  }
+}

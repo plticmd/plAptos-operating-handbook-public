@@ -1,0 +1,29 @@
+{
+  "id": "nodes/full-node/network-identity-fullnode",
+  "title": "Generate a PFN Identity",
+  "description": "Validators and VFNs have their identities initialized when first created and their identities are long-lived (immutable).",
+  "source": "@site/docs/nodes/full-node/network-identity-fullnode.md",
+  "sourceDirName": "nodes/full-node",
+  "slug": "/nodes/full-node/network-identity-fullnode",
+  "permalink": "/nodes/full-node/network-identity-fullnode",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/full-node/network-identity-fullnode.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Generate a PFN Identity",
+    "slug": "network-identity-fullnode"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Upgrade your PFN",
+    "permalink": "/nodes/full-node/update-fullnode-with-new-devnet-releases"
+  },
+  "next": {
+    "title": "Customize PFN Networks",
+    "permalink": "/nodes/full-node/fullnode-network-connections"
+  }
+}

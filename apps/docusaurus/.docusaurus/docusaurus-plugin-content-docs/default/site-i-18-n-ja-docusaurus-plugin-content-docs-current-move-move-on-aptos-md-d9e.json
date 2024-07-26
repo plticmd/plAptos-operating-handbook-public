@@ -1,0 +1,28 @@
+{
+  "id": "move/move-on-aptos",
+  "title": "Move on Aptos",
+  "description": "To begin your journey in developing Move, we provide the following resources:",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/move-on-aptos.md",
+  "sourceDirName": "move",
+  "slug": "/move/move-on-aptos",
+  "permalink": "/move/move-on-aptos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/move-on-aptos.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Move on Aptos"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Build E2E Dapp on Aptos",
+    "permalink": "/tutorials/build-e2e-dapp/e2e-dapp-index"
+  },
+  "next": {
+    "title": "Moveプログラミング言語",
+    "permalink": "/move/book/SUMMARY"
+  }
+}

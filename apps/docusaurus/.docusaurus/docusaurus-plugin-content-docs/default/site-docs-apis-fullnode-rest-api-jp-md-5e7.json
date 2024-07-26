@@ -1,0 +1,29 @@
+{
+  "id": "apis/fullnode-rest-api-jp",
+  "title": "フルノードREST API (in Japanese)",
+  "description": "Aptos APIを使用したい場合はこのガイドが最適です。このガイドではAptos APIを使用してAptosブロックチェーンをプラットフォームに統合するための手順を全て解説します。",
+  "source": "@site/docs/apis/fullnode-rest-api-jp.md",
+  "sourceDirName": "apis",
+  "slug": "/apis/apis-fullnode-rest-api-jp",
+  "permalink": "/ja/apis/apis-fullnode-rest-api-jp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/apis/fullnode-rest-api-jp.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "フルノードREST API (in Japanese)",
+    "slug": "apis-fullnode-rest-api-jp"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Fullnode Rest API",
+    "permalink": "/ja/apis/apis-fullnode-rest-api"
+  },
+  "next": {
+    "title": "Aptos Labs Developer Portal",
+    "permalink": "/ja/apis/apis-aptos-labs-developer-portal"
+  }
+}

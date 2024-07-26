@@ -1,0 +1,30 @@
+{
+  "id": "tools/aptos-cli/index",
+  "title": "Aptos CLI",
+  "description": "このaptosツールは、Aptos ブロックチェーンでの開発、デバッグ、ノード操作のためのコマンド ライン インターフェイス (CLI) です。詳細については、次のドキュメントを参照してください。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/tools/aptos-cli/index.md",
+  "sourceDirName": "tools/aptos-cli",
+  "slug": "/tools/aptos-cli/",
+  "permalink": "/tools/aptos-cli/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tools/aptos-cli/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1717781175,
+  "formattedLastUpdatedAt": "2024年6月7日",
+  "frontMatter": {
+    "title": "Aptos CLI",
+    "id": "index",
+    "hidden": false
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Unity SDK(日本語)",
+    "permalink": "/sdks/unity-sdk/"
+  },
+  "next": {
+    "title": "Install the Aptos CLI",
+    "permalink": "/tools/aptos-cli/install-cli/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "aptos-white-paper/index",
+  "title": "Aptos White Paper(日本語)",
+  "description": "安全でスケーラブル、アップグレード可能なWeb3インフラ",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/aptos-white-paper/index.md",
+  "sourceDirName": "aptos-white-paper",
+  "slug": "/aptos-white-paper/",
+  "permalink": "/aptos-white-paper/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/aptos-white-paper/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713538430,
+  "formattedLastUpdatedAt": "2024年4月19日",
+  "frontMatter": {
+    "title": "Aptos White Paper(日本語)"
+  },
+  "sidebar": "aptosSidebar",
+  "previous": {
+    "title": "Networks",
+    "permalink": "/nodes/networks"
+  }
+}

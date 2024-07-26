@@ -1,0 +1,29 @@
+{
+  "id": "guides/running-a-local-multi-node-network",
+  "title": "Run a Local Multi-node Network",
+  "description": "This guide describes how to run a local network with multiple validator nodes and validator fullnodes. You will use the Aptos Forge CLI for this.",
+  "source": "@site/docs/guides/running-a-local-multi-node-network.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/running-a-local-multi-node-network",
+  "permalink": "/guides/running-a-local-multi-node-network",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/guides/running-a-local-multi-node-network.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Run a Local Multi-node Network",
+    "slug": "running-a-local-multi-node-network"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Run a Localnet with Validator",
+    "permalink": "/nodes/localnet/run-a-localnet"
+  },
+  "next": {
+    "title": "Sponsored Transactions",
+    "permalink": "/guides/sponsored-transactions"
+  }
+}

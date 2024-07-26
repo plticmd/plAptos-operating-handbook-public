@@ -1,0 +1,29 @@
+{
+  "id": "tutorials/first-multisig",
+  "title": "Your First Multisig",
+  "description": "This tutorial introduces assorted K-of-N multi-signer authentication operations and supplements content from the following tutorials:",
+  "source": "@site/docs/tutorials/first-multisig.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/your-first-multisig",
+  "permalink": "/tutorials/your-first-multisig",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tutorials/first-multisig.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Your First Multisig",
+    "slug": "your-first-multisig"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Your First Move Module",
+    "permalink": "/tutorials/first-move-module"
+  },
+  "next": {
+    "title": "Build E2E Dapp on Aptos",
+    "permalink": "/tutorials/build-e2e-dapp/e2e-dapp-index"
+  }
+}

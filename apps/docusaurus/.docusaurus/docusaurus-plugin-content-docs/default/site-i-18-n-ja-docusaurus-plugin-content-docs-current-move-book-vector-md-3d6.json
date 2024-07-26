@@ -1,0 +1,26 @@
+{
+  "id": "move/book/vector",
+  "title": "Vector",
+  "description": "vectorは、Moveが提供する唯一のプリミティブコレクション型です。vectorは、値を「末尾」からプッシュ/ポップすることで拡大または縮小できるTの同質コレクションです。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/vector.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/vector",
+  "permalink": "/move/book/vector",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/vector.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1720271355,
+  "formattedLastUpdatedAt": "2024年7月6日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "アドレス",
+    "permalink": "/move/book/address"
+  },
+  "next": {
+    "title": "signer(署名者)",
+    "permalink": "/move/book/signer"
+  }
+}

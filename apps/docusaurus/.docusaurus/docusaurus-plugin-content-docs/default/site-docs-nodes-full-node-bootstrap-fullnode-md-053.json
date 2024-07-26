@@ -1,0 +1,30 @@
+{
+  "id": "nodes/full-node/bootstrap-fullnode",
+  "title": "Bootstrap from a Snapshot",
+  "description": "This document describes how to bootstrap an Aptos node quickly using a snapshot. This can be done on all node types,",
+  "source": "@site/docs/nodes/full-node/bootstrap-fullnode.md",
+  "sourceDirName": "nodes/full-node",
+  "slug": "/nodes/full-node/bootstrap-fullnode",
+  "permalink": "/nodes/full-node/bootstrap-fullnode",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/full-node/bootstrap-fullnode.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "title": "Bootstrap from a Snapshot",
+    "sidebar_position": 14
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Bootstrap a Node",
+    "permalink": "/nodes/operations/operations-index"
+  },
+  "next": {
+    "title": "Bootstrap from a Backup",
+    "permalink": "/nodes/full-node/aptos-db-restore"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "integration/wallet-adapter-for-wallets",
+  "title": "ウォレット用",
+  "description": "Aptosエコシステムのdappsから、ユーザーの求めるウォレット機能を提供するには、ウォレットプラグインがAptosウォレット標準に準拠している必要が有り、Aptosウォレットアダプターから構築する必要があります。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/integration/wallet-adapter-for-wallets.md",
+  "sourceDirName": "integration",
+  "slug": "/integration/wallet-adapter-for-wallets",
+  "permalink": "/integration/wallet-adapter-for-wallets",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/integration/wallet-adapter-for-wallets.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713945504,
+  "formattedLastUpdatedAt": "2024年4月24日",
+  "frontMatter": {
+    "title": "ウォレット用",
+    "id": "wallet-adapter-for-wallets"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Dapps用",
+    "permalink": "/integration/wallet-adapter-for-dapp"
+  },
+  "next": {
+    "title": "Aptosネームサービスとの統合",
+    "permalink": "/integration/aptos-names-service-package"
+  }
+}

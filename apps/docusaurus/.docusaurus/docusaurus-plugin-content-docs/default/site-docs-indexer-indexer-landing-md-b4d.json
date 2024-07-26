@@ -1,0 +1,28 @@
+{
+  "id": "indexer/indexer-landing",
+  "title": "Learn about Indexing",
+  "description": "Quick Start",
+  "source": "@site/docs/indexer/indexer-landing.md",
+  "sourceDirName": "indexer",
+  "slug": "/indexer/indexer-landing",
+  "permalink": "/indexer/indexer-landing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/indexer-landing.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "Apr 18, 2024",
+  "frontMatter": {
+    "title": "Learn about Indexing"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Aptos Labs Developer Portal",
+    "permalink": "/apis/aptos-labs-developer-portal"
+  },
+  "next": {
+    "title": "Indexer API",
+    "permalink": "/indexer/api/"
+  }
+}

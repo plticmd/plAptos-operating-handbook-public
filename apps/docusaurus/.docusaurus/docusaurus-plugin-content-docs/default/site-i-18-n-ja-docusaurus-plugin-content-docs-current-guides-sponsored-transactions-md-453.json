@@ -1,0 +1,26 @@
+{
+  "id": "guides/sponsored-transactions",
+  "title": "スポンサードトランザクション",
+  "description": "AIP-39の概要で示す様に、スポンサードトランザクションはひとつのアカウントが別のアカウントのトランザクション実行料金を支払う事が出来、",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/guides/sponsored-transactions.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/sponsored-transactions",
+  "permalink": "/guides/sponsored-transactions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/guides/sponsored-transactions.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1716499078,
+  "formattedLastUpdatedAt": "2024年5月23日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Run a Local Multi-node Network",
+    "permalink": "/guides/running-a-local-multi-node-network"
+  },
+  "next": {
+    "title": "トランザクション管理",
+    "permalink": "/guides/transaction-management"
+  }
+}

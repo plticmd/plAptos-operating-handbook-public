@@ -1,0 +1,28 @@
+{
+  "id": "reference/error-codes",
+  "title": "Aptos Error Codes",
+  "description": "This page catalogs common errors encountered in the Aptos blockchain and explains how to resolve them wherever possible. As with all software, the code itself is the source of truth for error handling and will always contain entries not found here. Instead, this matrix aims to help you address those errors most typically found, misunderstood, or both.",
+  "source": "@site/docs/reference/error-codes.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/error-codes",
+  "permalink": "/reference/error-codes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/reference/error-codes.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Aptos Error Codes"
+  },
+  "sidebar": "refSidebar",
+  "previous": {
+    "title": "Aptos API Spec",
+    "permalink": "/nodes/aptos-api-spec"
+  },
+  "next": {
+    "title": "Move Reference Documentation",
+    "permalink": "/reference/move"
+  }
+}

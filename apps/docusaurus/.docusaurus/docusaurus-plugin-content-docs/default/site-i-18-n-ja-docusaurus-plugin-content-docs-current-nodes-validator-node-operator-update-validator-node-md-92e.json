@@ -1,0 +1,29 @@
+{
+  "id": "nodes/validator-node/operator/update-validator-node",
+  "title": "Upgrade Nodes",
+  "description": "This section contains tutorials for upgrading your validator and validator fullnode (VFN). Upgrades are a",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/validator-node/operator/update-validator-node.md",
+  "sourceDirName": "nodes/validator-node/operator",
+  "slug": "/nodes/validator-node/operator/update-validator-node",
+  "permalink": "/nodes/validator-node/operator/update-validator-node",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/validator-node/operator/update-validator-node.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Upgrade Nodes",
+    "slug": "update-validator-node"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Modify Nodes",
+    "permalink": "/nodes/validator-node/operator/modify-nodes/modify-validator-node"
+  },
+  "next": {
+    "title": "Shutdown Nodes",
+    "permalink": "/nodes/validator-node/operator/shutting-down-nodes"
+  }
+}

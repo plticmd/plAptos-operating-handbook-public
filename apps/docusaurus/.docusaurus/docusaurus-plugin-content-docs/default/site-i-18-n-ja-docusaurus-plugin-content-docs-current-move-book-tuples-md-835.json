@@ -1,0 +1,26 @@
+{
+  "id": "move/book/tuples",
+  "title": "タプルとユニット",
+  "description": "Moveは、タプルを完全にはサポートしていません。タプルをファーストクラスの値として扱う他の言語から来た人は期待するかもしれませんが。ただし、複数の戻り値をサポートするため、Moveにはタプルのような式があります。これらの式は実行時、具体的な値とはなりません (バイトコードにはタプルはありません)。そのため、非常に限定的です。式(通常は関数の戻り位置)へのみ出現出来、ローカル変数にバインドできず、構造体に保存できず、タプル型を使用してジェネリクスのインスタンス化は出来ません。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/tuples.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/tuples",
+  "permalink": "/move/book/tuples",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/tuples.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1720084421,
+  "formattedLastUpdatedAt": "2024年7月4日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "参照",
+    "permalink": "/move/book/references"
+  },
+  "next": {
+    "title": "ローカル変数とスコープ",
+    "permalink": "/move/book/variables"
+  }
+}

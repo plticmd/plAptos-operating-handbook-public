@@ -1,0 +1,26 @@
+{
+  "id": "move/book/package-upgrades",
+  "title": "パッケージのアップグレード",
+  "description": "Aptosブロックチェーン上のMoveコード(例 次回それで対話する)の最新バージョンを自動的に受け取ります。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/package-upgrades.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/package-upgrades",
+  "permalink": "/move/book/package-upgrades",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/package-upgrades.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1720084421,
+  "formattedLastUpdatedAt": "2024年7月4日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "パッケージ",
+    "permalink": "/move/book/packages"
+  },
+  "next": {
+    "title": "ユニットテスト",
+    "permalink": "/move/book/unit-testing"
+  }
+}

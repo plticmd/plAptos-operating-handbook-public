@@ -1,0 +1,28 @@
+{
+  "id": "nodes/leaderboard-metrics",
+  "title": "Validator Leaderboard",
+  "description": "This document explains how the rewards performance for validator nodes are calculated and displayed on",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/leaderboard-metrics.md",
+  "sourceDirName": "nodes",
+  "slug": "/nodes/leaderboard-metrics",
+  "permalink": "/nodes/leaderboard-metrics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/leaderboard-metrics.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Validator Leaderboard"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Node Health",
+    "permalink": "/nodes/validator-node/operator/node-liveness-criteria"
+  },
+  "next": {
+    "title": "Modify Nodes",
+    "permalink": "/nodes/validator-node/operator/modify-nodes/modify-validator-node"
+  }
+}

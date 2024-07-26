@@ -1,0 +1,28 @@
+{
+  "id": "sdks/ts-sdk/http-client",
+  "title": "HTTP Client",
+  "description": "Default HTTP Client",
+  "source": "@site/docs/sdks/ts-sdk/http-client.md",
+  "sourceDirName": "sdks/ts-sdk",
+  "slug": "/sdks/ts-sdk/http-client",
+  "permalink": "/sdks/ts-sdk/http-client",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/ts-sdk/http-client.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "HTTP Client"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Transaction Builder",
+    "permalink": "/sdks/ts-sdk/transaction-builder"
+  },
+  "next": {
+    "title": "Move Types",
+    "permalink": "/sdks/ts-sdk/move-types"
+  }
+}

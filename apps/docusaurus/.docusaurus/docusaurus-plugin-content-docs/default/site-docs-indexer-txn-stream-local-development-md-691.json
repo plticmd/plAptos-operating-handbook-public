@@ -1,0 +1,28 @@
+{
+  "id": "indexer/txn-stream/local-development",
+  "title": "Running Locally",
+  "description": "This has been tested on macOS 13 on ARM and Debian 11 on x86_64.",
+  "source": "@site/docs/indexer/txn-stream/local-development.md",
+  "sourceDirName": "indexer/txn-stream",
+  "slug": "/indexer/txn-stream/local-development",
+  "permalink": "/indexer/txn-stream/local-development",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/txn-stream/local-development.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "Apr 18, 2024",
+  "frontMatter": {
+    "title": "Running Locally"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Self-Hosted Transaction Stream Service",
+    "permalink": "/indexer/txn-stream/self-hosted"
+  },
+  "next": {
+    "title": "Legacy Indexer",
+    "permalink": "/indexer/legacy/"
+  }
+}

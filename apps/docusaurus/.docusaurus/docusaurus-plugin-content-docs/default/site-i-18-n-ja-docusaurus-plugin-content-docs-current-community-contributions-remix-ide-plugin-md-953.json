@@ -1,0 +1,20 @@
+{
+  "id": "community/contributions/remix-ide-plugin",
+  "title": "Use Remix IDE Plugin",
+  "description": "This tutorial explains how to deploy and run Move modules with the WELLDONE Code Remix IDE plugin. This tool offers a graphical interface for developing Move modules.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/community/contributions/remix-ide-plugin.md",
+  "sourceDirName": "community/contributions",
+  "slug": "/community/contributions/remix-ide-plugin",
+  "permalink": "/community/contributions/remix-ide-plugin",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/community/contributions/remix-ide-plugin.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Use Remix IDE Plugin",
+    "slug": "remix-ide-plugin"
+  }
+}

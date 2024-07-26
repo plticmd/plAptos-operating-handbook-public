@@ -1,0 +1,29 @@
+{
+  "id": "nodes/validator-node/operator/shutting-down-nodes",
+  "title": "Shutdown Nodes",
+  "description": "If you want to shut down your validator and validator fullnode (VFN), follow the instructions below to leave the",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/validator-node/operator/shutting-down-nodes.md",
+  "sourceDirName": "nodes/validator-node/operator",
+  "slug": "/nodes/validator-node/operator/shutting-down-nodes",
+  "permalink": "/nodes/validator-node/operator/shutting-down-nodes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/validator-node/operator/shutting-down-nodes.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Shutdown Nodes",
+    "slug": "shutting-down-nodes"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Upgrade Nodes",
+    "permalink": "/nodes/validator-node/operator/update-validator-node"
+  },
+  "next": {
+    "title": "Run a Public Fullnode",
+    "permalink": "/nodes/full-node/public-fullnode"
+  }
+}

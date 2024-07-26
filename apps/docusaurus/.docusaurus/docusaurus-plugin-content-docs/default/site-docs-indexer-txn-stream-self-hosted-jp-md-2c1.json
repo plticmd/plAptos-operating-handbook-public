@@ -1,0 +1,29 @@
+{
+  "id": "indexer/txn-stream/self-hosted-jp",
+  "title": "自己ホスト型トランザクション ストリーム サービス(Japanese) ",
+  "description": "近日公開!",
+  "source": "@site/docs/indexer/txn-stream/self-hosted-jp.md",
+  "sourceDirName": "indexer/txn-stream",
+  "slug": "/indexer/txn-stream/indexer-txn-stream-self-hosted-jp",
+  "permalink": "/ja/indexer/txn-stream/indexer-txn-stream-self-hosted-jp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/txn-stream/self-hosted-jp.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "自己ホスト型トランザクション ストリーム サービス(Japanese) ",
+    "slug": "indexer-txn-stream-self-hosted-jp"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Self-Hosted Transaction Stream Service",
+    "permalink": "/ja/indexer/txn-stream/indexer-txn-stream-self-hosted"
+  },
+  "next": {
+    "title": "Running Locally",
+    "permalink": "/ja/indexer/txn-stream/indexer-txn-stream-local-development"
+  }
+}

@@ -1,0 +1,1216 @@
+{
+  "docusaurus-plugin-google-gtag": {
+    "default": {
+      "trackingID": [
+        "G-HVB7QFB9PQ"
+      ],
+      "anonymizeIP": false,
+      "id": "default"
+    }
+  },
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "apis/aptos-labs-developer-portal",
+              "path": "/apis/aptos-labs-developer-portal",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "apis/fullnode-rest-api",
+              "path": "/apis/fullnode-rest-api",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "apis/index",
+              "path": "/apis/",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "aptos-white-paper/index",
+              "path": "/aptos-white-paper/",
+              "sidebar": "aptosSidebar"
+            },
+            {
+              "id": "community/aptos-style",
+              "path": "/community/aptos-style",
+              "sidebar": "comSidebar"
+            },
+            {
+              "id": "community/contributions/remix-ide-plugin",
+              "path": "/community/contributions/remix-ide-plugin"
+            },
+            {
+              "id": "community/contributors",
+              "path": "/community/contributors",
+              "sidebar": "comSidebar"
+            },
+            {
+              "id": "community/external-resources",
+              "path": "/community/external-resources",
+              "sidebar": "comSidebar"
+            },
+            {
+              "id": "community/index",
+              "path": "/community/",
+              "sidebar": "comSidebar"
+            },
+            {
+              "id": "community/site-updates",
+              "path": "/community/site-updates",
+              "sidebar": "comSidebar"
+            },
+            {
+              "id": "concepts/accounts",
+              "path": "/concepts/accounts",
+              "sidebar": "aptosSidebar"
+            },
+            {
+              "id": "concepts/base-gas",
+              "path": "/concepts/base-gas",
+              "sidebar": "aptosSidebar"
+            },
+            {
+              "id": "concepts/blockchain",
+              "path": "/concepts/blockchain",
+              "sidebar": "aptosSidebar"
+            },
+            {
+              "id": "concepts/blocks",
+              "path": "/concepts/blocks",
+              "sidebar": "aptosSidebar"
+            },
+            {
+              "id": "concepts/delegated-staking",
+              "path": "/concepts/delegated-staking",
+              "sidebar": "aptosSidebar"
+            },
+            {
+              "id": "concepts/events",
+              "path": "/concepts/events",
+              "sidebar": "aptosSidebar"
+            },
+            {
+              "id": "concepts/fullnodes",
+              "path": "/concepts/fullnodes",
+              "sidebar": "aptosSidebar"
+            },
+            {
+              "id": "concepts/gas-txn-fee",
+              "path": "/concepts/gas-txn-fee",
+              "sidebar": "aptosSidebar"
+            },
+            {
+              "id": "concepts/governance",
+              "path": "/concepts/governance",
+              "sidebar": "aptosSidebar"
+            },
+            {
+              "id": "concepts/index",
+              "path": "/concepts/",
+              "sidebar": "aptosSidebar"
+            },
+            {
+              "id": "concepts/move",
+              "path": "/concepts/move-on-aptos",
+              "sidebar": "aptosSidebar"
+            },
+            {
+              "id": "concepts/node-networks-sync",
+              "path": "/concepts/node-networks-sync",
+              "sidebar": "aptosSidebar"
+            },
+            {
+              "id": "concepts/resources",
+              "path": "/concepts/resources",
+              "sidebar": "aptosSidebar"
+            },
+            {
+              "id": "concepts/staking",
+              "path": "/concepts/staking",
+              "sidebar": "aptosSidebar"
+            },
+            {
+              "id": "concepts/txns-states",
+              "path": "/concepts/txns-states",
+              "sidebar": "aptosSidebar"
+            },
+            {
+              "id": "concepts/validator-nodes",
+              "path": "/concepts/validator-nodes",
+              "sidebar": "aptosSidebar"
+            },
+            {
+              "id": "guides/account-management/key-rotation",
+              "path": "/guides/account-management/key-rotation",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "guides/building-from-source",
+              "path": "/guides/building-from-source",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "guides/data-pruning",
+              "path": "/guides/data-pruning",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "guides/explore-aptos",
+              "path": "/guides/explore-aptos",
+              "sidebar": "aptosSidebar"
+            },
+            {
+              "id": "guides/keyless-accounts",
+              "path": "/guides/keyless-accounts"
+            },
+            {
+              "id": "guides/local-development-network",
+              "path": "/guides/local-development-network",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "guides/nfts/aptos-token-overview",
+              "path": "/guides/nfts/aptos-token-overview",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "guides/running-a-local-multi-node-network",
+              "path": "/guides/running-a-local-multi-node-network",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "guides/sponsored-transactions",
+              "path": "/guides/sponsored-transactions",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "guides/state-sync",
+              "path": "/guides/state-sync",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "guides/system-integrators-guide",
+              "path": "/guides/system-integrators-guide",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "guides/transaction-management",
+              "path": "/guides/transaction-management",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/"
+            },
+            {
+              "id": "indexer/api/example-queries",
+              "path": "/indexer/api/example-queries",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "indexer/api/index",
+              "path": "/indexer/api/",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "indexer/api/labs-hosted",
+              "path": "/indexer/api/labs-hosted",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "indexer/api/self-hosted",
+              "path": "/indexer/api/self-hosted",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "indexer/api/usage-guide",
+              "path": "/indexer/api/usage-guide"
+            },
+            {
+              "id": "indexer/custom-processors/e2e-tutorial",
+              "path": "/indexer/custom-processors/e2e-tutorial",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "indexer/custom-processors/index",
+              "path": "/indexer/custom-processors/",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "indexer/custom-processors/parsing-txns",
+              "path": "/indexer/custom-processors/parsing-txns",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "indexer/indexer-landing",
+              "path": "/indexer/indexer-landing",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "indexer/legacy/custom-data-model",
+              "path": "/indexer/legacy/custom-data-model",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "indexer/legacy/index",
+              "path": "/indexer/legacy/",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "indexer/legacy/indexer-fullnode",
+              "path": "/indexer/legacy/indexer-fullnode",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "indexer/legacy/migration",
+              "path": "/indexer/legacy/migration",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "indexer/txn-stream/index",
+              "path": "/indexer/txn-stream/",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "indexer/txn-stream/labs-hosted",
+              "path": "/indexer/txn-stream/labs-hosted",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "indexer/txn-stream/local-development",
+              "path": "/indexer/txn-stream/local-development",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "indexer/txn-stream/self-hosted",
+              "path": "/indexer/txn-stream/self-hosted",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "integration/aptos-names-service-package",
+              "path": "/integration/aptos-names-service-package",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "integration/index",
+              "path": "/integration/",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "integration/wallet-adapter-concept",
+              "path": "/integration/wallet-adapter-concept",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "integration/wallet-adapter-for-dapp",
+              "path": "/integration/wallet-adapter-for-dapp",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "integration/wallet-adapter-for-wallets",
+              "path": "/integration/wallet-adapter-for-wallets",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/abilities",
+              "path": "/move/book/abilities",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/abort-and-assert",
+              "path": "/move/book/abort-and-assert",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/address",
+              "path": "/move/book/address",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/bool",
+              "path": "/move/book/bool",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/coding-conventions",
+              "path": "/move/book/coding-conventions",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/conditionals",
+              "path": "/move/book/conditionals",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/constants",
+              "path": "/move/book/constants",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/creating-coins",
+              "path": "/move/book/creating-coins",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/equality",
+              "path": "/move/book/equality",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/friends",
+              "path": "/move/book/friends",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/functions",
+              "path": "/move/book/functions",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/generics",
+              "path": "/move/book/generics",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/global-storage-operators",
+              "path": "/move/book/global-storage-operators",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/global-storage-structure",
+              "path": "/move/book/global-storage-structure",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/integers",
+              "path": "/move/book/integers",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/introduction",
+              "path": "/move/book/introduction",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/loops",
+              "path": "/move/book/loops",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/modules-and-scripts",
+              "path": "/move/book/modules-and-scripts",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/package-upgrades",
+              "path": "/move/book/package-upgrades",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/packages",
+              "path": "/move/book/packages",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/references",
+              "path": "/move/book/references",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/signer",
+              "path": "/move/book/signer",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/standard-library",
+              "path": "/move/book/standard-library",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/structs-and-resources",
+              "path": "/move/book/structs-and-resources",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/SUMMARY",
+              "path": "/move/book/SUMMARY",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/tuples",
+              "path": "/move/book/tuples",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/unit-testing",
+              "path": "/move/book/unit-testing",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/uses",
+              "path": "/move/book/uses",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/variables",
+              "path": "/move/book/variables",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/book/vector",
+              "path": "/move/book/vector",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/move-on-aptos",
+              "path": "/move/move-on-aptos",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/move-on-aptos/cli",
+              "path": "/move/move-on-aptos/cli",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/move-on-aptos/cryptography",
+              "path": "/move/move-on-aptos/cryptography",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/move-on-aptos/gas-profiling",
+              "path": "/move/move-on-aptos/gas-profiling",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/move-on-aptos/modules-on-aptos",
+              "path": "/move/move-on-aptos/modules-on-aptos",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/move-on-aptos/move-security-guidelines",
+              "path": "/move/move-on-aptos/move-security-guidelines",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/move-on-aptos/objects/configuring-objects",
+              "path": "/move/move-on-aptos/objects/configuring-objects",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/move-on-aptos/objects/creating-objects",
+              "path": "/move/move-on-aptos/objects/creating-objects",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/move-on-aptos/objects/index",
+              "path": "/move/move-on-aptos/objects/",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/move-on-aptos/objects/using-objects",
+              "path": "/move/move-on-aptos/objects/using-objects",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/move-on-aptos/resource-accounts",
+              "path": "/move/move-on-aptos/resource-accounts",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/move-on-aptos/scripts/compiling-scripts",
+              "path": "/move/move-on-aptos/scripts/compiling-scripts",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/move-on-aptos/scripts/index",
+              "path": "/move/move-on-aptos/scripts/",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/move-on-aptos/scripts/running-scripts",
+              "path": "/move/move-on-aptos/scripts/running-scripts",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/move-on-aptos/scripts/script-tutorial",
+              "path": "/move/move-on-aptos/scripts/script-tutorial",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/move-on-aptos/scripts/writing-scripts",
+              "path": "/move/move-on-aptos/scripts/writing-scripts",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/prover/index",
+              "path": "/move/prover/move-prover",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/prover/prover-guide",
+              "path": "/move/prover/prover-guide",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/prover/spec-lang",
+              "path": "/move/prover/spec-lang",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/prover/supporting-resources",
+              "path": "/move/prover/supporting-resources",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "nodes/aptos-api-spec",
+              "path": "/nodes/aptos-api-spec",
+              "sidebar": "refSidebar"
+            },
+            {
+              "id": "nodes/configure/index",
+              "path": "/nodes/configure/configure-index",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/full-node/aptos-db-restore",
+              "path": "/nodes/full-node/aptos-db-restore",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/full-node/bootstrap-fullnode",
+              "path": "/nodes/full-node/bootstrap-fullnode",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/full-node/deployments/index",
+              "path": "/nodes/full-node/deployments/deploy-a-pfn",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/full-node/deployments/using-docker",
+              "path": "/nodes/full-node/deployments/deploy-a-pfn-docker",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/full-node/deployments/using-gcp",
+              "path": "/nodes/full-node/deployments/deploy-a-pfn-gcp",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/full-node/deployments/using-source-code",
+              "path": "/nodes/full-node/deployments/deploy-a-pfn-source-code",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/full-node/fullnode-network-connections",
+              "path": "/nodes/full-node/fullnode-network-connections",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/full-node/fullnode-source-code-or-docker",
+              "path": "/nodes/full-node/fullnode-source-code-or-docker"
+            },
+            {
+              "id": "nodes/full-node/index",
+              "path": "/nodes/full-node/public-fullnode",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/full-node/network-identity-fullnode",
+              "path": "/nodes/full-node/network-identity-fullnode",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/full-node/pfn-requirements",
+              "path": "/nodes/full-node/pfn-requirements",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/full-node/update-fullnode-with-new-releases",
+              "path": "/nodes/full-node/update-fullnode-with-new-devnet-releases",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/full-node/verify-pfn",
+              "path": "/nodes/full-node/verify-pfn",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/identity-and-configuration",
+              "path": "/nodes/identity-and-configuration"
+            },
+            {
+              "id": "nodes/leaderboard-metrics",
+              "path": "/nodes/leaderboard-metrics",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/localnet/index",
+              "path": "/nodes/localnet/localnet-index",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "nodes/localnet/run-a-localnet",
+              "path": "/nodes/localnet/run-a-localnet",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "nodes/measure/important-metrics",
+              "path": "/nodes/measure/important-metrics",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/measure/index",
+              "path": "/nodes/measure/measure-index",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/measure/node-health-checker",
+              "path": "/nodes/measure/node-health-checker",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/measure/node-health-checker-faq",
+              "path": "/nodes/measure/node-health-checker-faq"
+            },
+            {
+              "id": "nodes/measure/node-inspection-service",
+              "path": "/nodes/measure/node-inspection-service",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/modify/index",
+              "path": "/nodes/modify/modify-index",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/networks",
+              "path": "/nodes/networks",
+              "sidebar": "aptosSidebar"
+            },
+            {
+              "id": "nodes/node-files-all-networks/index",
+              "path": "/nodes/node-files-all-networks/node-files-index",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/node-files-all-networks/node-files",
+              "path": "/nodes/node-files-all-networks/node-files",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/node-files-all-networks/node-files-devnet",
+              "path": "/nodes/node-files-all-networks/node-files-devnet",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/node-files-all-networks/node-files-testnet",
+              "path": "/nodes/node-files-all-networks/node-files-testnet",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/nodes-landing",
+              "path": "/nodes/nodes-landing",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/operations/index",
+              "path": "/nodes/operations/operations-index",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/validator-node/index",
+              "path": "/nodes/validator-node/validators",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/validator-node/operator/connect-nodes/index",
+              "path": "/nodes/validator-node/operator/connect-nodes/connect-validator-node",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/validator-node/operator/connect-to-aptos-network",
+              "path": "/nodes/validator-node/operator/connect-to-aptos-network",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/validator-node/operator/delegation-pool-operations",
+              "path": "/nodes/validator-node/operator/delegation-pool-operations",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/validator-node/operator/index",
+              "path": "/nodes/validator-node/operator/index"
+            },
+            {
+              "id": "nodes/validator-node/operator/modify-nodes/index",
+              "path": "/nodes/validator-node/operator/modify-nodes/modify-validator-node",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/validator-node/operator/node-liveness-criteria",
+              "path": "/nodes/validator-node/operator/node-liveness-criteria",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/validator-node/operator/node-requirements",
+              "path": "/nodes/validator-node/operator/node-requirements",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/validator-node/operator/running-validator-node/index",
+              "path": "/nodes/validator-node/operator/running-validator-node/running-validator-node",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/validator-node/operator/running-validator-node/using-aws",
+              "path": "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-aws",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/validator-node/operator/running-validator-node/using-azure",
+              "path": "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-azure",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/validator-node/operator/running-validator-node/using-docker",
+              "path": "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-docker",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/validator-node/operator/running-validator-node/using-gcp",
+              "path": "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-gcp",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/validator-node/operator/running-validator-node/using-source-code",
+              "path": "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-source",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/validator-node/operator/shutting-down-nodes",
+              "path": "/nodes/validator-node/operator/shutting-down-nodes",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/validator-node/operator/staking-pool-operations",
+              "path": "/nodes/validator-node/operator/staking-pool-operations",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/validator-node/operator/update-validator-node",
+              "path": "/nodes/validator-node/operator/update-validator-node",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/validator-node/operator/verify-nodes/index",
+              "path": "/nodes/validator-node/operator/verify-nodes/verify-validator-node",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "nodes/validator-node/voter/index",
+              "path": "/nodes/validator-node/voter/index",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "reference/error-codes",
+              "path": "/reference/error-codes",
+              "sidebar": "refSidebar"
+            },
+            {
+              "id": "reference/glossary",
+              "path": "/reference/glossary",
+              "sidebar": "refSidebar"
+            },
+            {
+              "id": "reference/move",
+              "path": "/reference/move",
+              "sidebar": "refSidebar"
+            },
+            {
+              "id": "reference/telemetry",
+              "path": "/reference/telemetry",
+              "sidebar": "nodeSidebar"
+            },
+            {
+              "id": "releases/index",
+              "path": "/releases/aptos-releases",
+              "sidebar": "aptosSidebar"
+            },
+            {
+              "id": "sdks/index",
+              "path": "/sdks/index",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "sdks/legacy-ts-sdk/aptos-client",
+              "path": "/sdks/legacy-ts-sdk/typescript-sdk-aptos-client-class",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "sdks/legacy-ts-sdk/index",
+              "path": "/sdks/legacy-ts-sdk/index",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "sdks/legacy-ts-sdk/indexer-client",
+              "path": "/sdks/legacy-ts-sdk/typescript-sdk-indexer-client-class",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "sdks/legacy-ts-sdk/sdk-client-layer",
+              "path": "/sdks/legacy-ts-sdk/typescript-sdk-client-layer",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "sdks/legacy-ts-sdk/sdk-core-layer",
+              "path": "/sdks/legacy-ts-sdk/typescript-sdk-core-layer",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "sdks/legacy-ts-sdk/sdk-plugins-layer",
+              "path": "/sdks/legacy-ts-sdk/typescript-sdk-plugins-layer",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "sdks/legacy-ts-sdk/sdk-tests",
+              "path": "/sdks/legacy-ts-sdk/typescript-sdk-tests",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "sdks/legacy-ts-sdk/typescript-sdk-overview",
+              "path": "/sdks/legacy-ts-sdk/typescript-sdk-overview",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "sdks/python-sdk/index",
+              "path": "/sdks/python-sdk/",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "sdks/rust-sdk/index",
+              "path": "/sdks/rust-sdk/",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "sdks/ts-sdk/account",
+              "path": "/sdks/ts-sdk/account",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "sdks/ts-sdk/fetch-data-from-chain",
+              "path": "/sdks/ts-sdk/fetch-data-from-chain",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "sdks/ts-sdk/http-client",
+              "path": "/sdks/ts-sdk/http-client",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "sdks/ts-sdk/index",
+              "path": "/sdks/ts-sdk/",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "sdks/ts-sdk/migration-guide",
+              "path": "/sdks/ts-sdk/migration-guide",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "sdks/ts-sdk/move-types",
+              "path": "/sdks/ts-sdk/move-types",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "sdks/ts-sdk/sdk-configuration",
+              "path": "/sdks/ts-sdk/sdk-configuration",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "sdks/ts-sdk/testing",
+              "path": "/sdks/ts-sdk/testing",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "sdks/ts-sdk/transaction-builder",
+              "path": "/sdks/ts-sdk/transaction-builder",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "sdks/ts-sdk/typescript",
+              "path": "/sdks/ts-sdk/typescript",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "sdks/unity-sdk/index",
+              "path": "/sdks/unity-sdk/",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "standards/aptos-coin",
+              "path": "/standards/aptos-coin",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "standards/aptos-object",
+              "path": "/standards/aptos-object",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "standards/aptos-token",
+              "path": "/standards/aptos-token",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "standards/digital-asset",
+              "path": "/standards/digital-asset",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "standards/fungible-asset",
+              "path": "/standards/fungible-asset",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "standards/index",
+              "path": "/standards/",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "standards/multisig-managed-fungible-asset",
+              "path": "/standards/multisig-managed-fungible-asset"
+            },
+            {
+              "id": "standards/wallets",
+              "path": "/standards/wallets",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tools/aptos-cli/index",
+              "path": "/tools/aptos-cli/",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tools/aptos-cli/install-cli/automated-install",
+              "path": "/tools/aptos-cli/install-cli/automated-install",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tools/aptos-cli/install-cli/build-from-source",
+              "path": "/tools/aptos-cli/install-cli/build-from-source",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tools/aptos-cli/install-cli/download-cli-binaries",
+              "path": "/tools/aptos-cli/install-cli/download-cli-binaries",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tools/aptos-cli/install-cli/index",
+              "path": "/tools/aptos-cli/install-cli/",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tools/aptos-cli/install-cli/install-from-brew",
+              "path": "/tools/aptos-cli/install-cli/install-from-brew",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tools/aptos-cli/install-cli/install-move-prover",
+              "path": "/tools/aptos-cli/install-cli/install-move-prover",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tools/aptos-cli/use-cli/cli-account",
+              "path": "/tools/aptos-cli/use-cli/cli-account",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tools/aptos-cli/use-cli/cli-configuration",
+              "path": "/tools/aptos-cli/use-cli/cli-configuration",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tools/aptos-cli/use-cli/cli-genesis",
+              "path": "/tools/aptos-cli/use-cli/cli-genesis",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tools/aptos-cli/use-cli/cli-key",
+              "path": "/tools/aptos-cli/use-cli/cli-key",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tools/aptos-cli/use-cli/cli-node",
+              "path": "/tools/aptos-cli/use-cli/cli-node",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tools/aptos-cli/use-cli/move-tutorials/arguments-in-json-tutorial",
+              "path": "/tools/aptos-cli/use-cli/move-tutorials/arguments-in-json-tutorial",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tools/aptos-cli/use-cli/move-tutorials/multi-signature-tutorial",
+              "path": "/tools/aptos-cli/use-cli/move-tutorials/multi-signature-tutorial",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tools/aptos-cli/use-cli/public-network/run-public-network",
+              "path": "/tools/aptos-cli/use-cli/public-network/run-public-network",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tools/aptos-cli/use-cli/running-a-local-network",
+              "path": "/tools/aptos-cli/use-cli/running-a-local-network",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tools/aptos-cli/use-cli/use-aptos-cli",
+              "path": "/tools/aptos-cli/use-cli/use-aptos-cli",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tools/aptos-cli/use-cli/use-aptos-ledger",
+              "path": "/tools/aptos-cli/use-cli/use-aptos-ledger",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tools/aptos-cli/use-cli/working-with-move-contracts",
+              "path": "/tools/aptos-cli/use-cli/working-with-move-contracts",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tutorials/build-e2e-dapp/add-wallet-support",
+              "path": "/tutorials/build-e2e-dapp/add-wallet-support",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tutorials/build-e2e-dapp/create-a-smart-contract",
+              "path": "/tutorials/build-e2e-dapp/create-a-smart-contract",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tutorials/build-e2e-dapp/fetch-data-from-chain",
+              "path": "/tutorials/build-e2e-dapp/fetch-data-from-chain",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tutorials/build-e2e-dapp/handle-tasks",
+              "path": "/tutorials/build-e2e-dapp/handle-tasks",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tutorials/build-e2e-dapp/index",
+              "path": "/tutorials/build-e2e-dapp/e2e-dapp-index",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tutorials/build-e2e-dapp/set-up-react-app",
+              "path": "/tutorials/build-e2e-dapp/set-up-react-app",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tutorials/build-e2e-dapp/submit-data-to-chain",
+              "path": "/tutorials/build-e2e-dapp/submit-data-to-chain",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tutorials/first-coin",
+              "path": "/tutorials/your-first-coin",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tutorials/first-fungible-asset",
+              "path": "/tutorials/your-first-fungible-asset",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tutorials/first-move-module",
+              "path": "/tutorials/first-move-module",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tutorials/first-multisig",
+              "path": "/tutorials/your-first-multisig",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tutorials/first-transaction",
+              "path": "/tutorials/your-first-transaction",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tutorials/index",
+              "path": "/tutorials/",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "tutorials/programmatic-upgradeable-module",
+              "path": "/tutorials/programmatic-upgradeable-module"
+            },
+            {
+              "id": "tutorials/your-first-nft",
+              "path": "/tutorials/your-first-nft",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "move/aptos-move",
+              "path": "/move/aptos-move",
+              "sidebar": "appSidebar"
+            },
+            {
+              "id": "/category/advanced-builders",
+              "path": "/category/advanced-builders",
+              "sidebar": "appSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "aptosSidebar": {
+              "link": {
+                "path": "/concepts/",
+                "label": "Learn about Aptos"
+              }
+            },
+            "appSidebar": {
+              "link": {
+                "path": "/tutorials/",
+                "label": "Tutorials"
+              }
+            },
+            "nodeSidebar": {
+              "link": {
+                "path": "/nodes/nodes-landing",
+                "label": "nodes/nodes-landing"
+              }
+            },
+            "refSidebar": {
+              "link": {
+                "path": "/nodes/aptos-api-spec",
+                "label": "nodes/aptos-api-spec"
+              }
+            },
+            "comSidebar": {
+              "link": {
+                "path": "/community/",
+                "label": "community/index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

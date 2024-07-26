@@ -1,0 +1,28 @@
+{
+  "id": "indexer/custom-processors/index",
+  "title": "カスタムプロセッサー",
+  "description": "このセクションでは、カスタムプロセッサとは何か、カスタム プロセッサを作成してデプロイする方法、トランザクションストリームサービスからのトランザクションの解析方法について解説します。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/indexer/custom-processors/index.md",
+  "sourceDirName": "indexer/custom-processors",
+  "slug": "/indexer/custom-processors/",
+  "permalink": "/indexer/custom-processors/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/custom-processors/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "2024年4月18日",
+  "frontMatter": {
+    "title": "カスタムプロセッサー"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "インデクサーAPIクエリの例",
+    "permalink": "/indexer/api/example-queries"
+  },
+  "next": {
+    "title": "End-to-Endチュートリアル",
+    "permalink": "/indexer/custom-processors/e2e-tutorial"
+  }
+}

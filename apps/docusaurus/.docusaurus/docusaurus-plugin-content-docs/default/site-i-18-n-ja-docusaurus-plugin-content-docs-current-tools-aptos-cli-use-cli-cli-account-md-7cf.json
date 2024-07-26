@@ -1,0 +1,29 @@
+{
+  "id": "tools/aptos-cli/use-cli/cli-account",
+  "title": "Account",
+  "description": "Account examples",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/tools/aptos-cli/use-cli/cli-account.md",
+  "sourceDirName": "tools/aptos-cli/use-cli",
+  "slug": "/tools/aptos-cli/use-cli/cli-account",
+  "permalink": "/tools/aptos-cli/use-cli/cli-account",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tools/aptos-cli/use-cli/cli-account.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Account",
+    "id": "cli-account"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Configuration",
+    "permalink": "/tools/aptos-cli/use-cli/cli-configuration"
+  },
+  "next": {
+    "title": "Key",
+    "permalink": "/tools/aptos-cli/use-cli/cli-key"
+  }
+}

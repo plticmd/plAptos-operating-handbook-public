@@ -1,0 +1,28 @@
+{
+  "id": "concepts/validator-nodes",
+  "title": "Validator Nodes Overview",
+  "description": "An Aptos node is an entity of the Aptos ecosystem that tracks the state of the Aptos blockchain. Clients interact with the blockchain via Aptos nodes. There are two types of nodes:",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/concepts/validator-nodes.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/validator-nodes",
+  "permalink": "/concepts/validator-nodes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/concepts/validator-nodes.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713368916,
+  "formattedLastUpdatedAt": "2024年4月17日",
+  "frontMatter": {
+    "title": "Validator Nodes Overview"
+  },
+  "sidebar": "aptosSidebar",
+  "previous": {
+    "title": "Aptos Blockchain Deep Dive",
+    "permalink": "/concepts/blockchain"
+  },
+  "next": {
+    "title": "Fullnodes Overview",
+    "permalink": "/concepts/fullnodes"
+  }
+}

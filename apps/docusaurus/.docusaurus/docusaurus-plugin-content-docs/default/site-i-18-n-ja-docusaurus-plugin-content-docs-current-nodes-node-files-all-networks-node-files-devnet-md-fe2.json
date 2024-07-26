@@ -1,0 +1,29 @@
+{
+  "id": "nodes/node-files-all-networks/node-files-devnet",
+  "title": "Files For Devnet",
+  "description": "When deploying an Aptos node in devnet, you may need to download the files listed on this page. The files are",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/node-files-all-networks/node-files-devnet.md",
+  "sourceDirName": "nodes/node-files-all-networks",
+  "slug": "/nodes/node-files-all-networks/node-files-devnet",
+  "permalink": "/nodes/node-files-all-networks/node-files-devnet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/node-files-all-networks/node-files-devnet.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Files For Devnet",
+    "slug": "node-files-devnet"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Files For Testnet",
+    "permalink": "/nodes/node-files-all-networks/node-files-testnet"
+  },
+  "next": {
+    "title": "Monitor your Nodes",
+    "permalink": "/nodes/measure/measure-index"
+  }
+}

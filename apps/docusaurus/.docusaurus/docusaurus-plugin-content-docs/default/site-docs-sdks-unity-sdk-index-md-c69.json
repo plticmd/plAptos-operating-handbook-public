@@ -1,0 +1,28 @@
+{
+  "id": "sdks/unity-sdk/index",
+  "title": "Unity SDK",
+  "description": "The Aptos Unity SDK is a .NET implementation of the Aptos SDK, compatible with .NET Standard 2.0 and .NET 4.x for Unity. The goal of this SDK is to provide a set of tools for developers to build multi-platform applications (mobile, desktop, web, VR) using the Unity game engine and the Aptos blockchain infrastructure.",
+  "source": "@site/docs/sdks/unity-sdk/index.md",
+  "sourceDirName": "sdks/unity-sdk",
+  "slug": "/sdks/unity-sdk/",
+  "permalink": "/sdks/unity-sdk/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/unity-sdk/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Unity SDK"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Rust SDK",
+    "permalink": "/sdks/rust-sdk/"
+  },
+  "next": {
+    "title": "Aptos CLI",
+    "permalink": "/tools/aptos-cli/"
+  }
+}

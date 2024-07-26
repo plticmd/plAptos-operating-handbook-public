@@ -1,0 +1,28 @@
+{
+  "id": "nodes/validator-node/operator/delegation-pool-operations",
+  "title": "Delegation Pool Operations",
+  "description": "Beta: This documentation is in experimental, beta mode. Supply feedback by requesting document changes. See also the related Staking Pool Operations instructions.",
+  "source": "@site/docs/nodes/validator-node/operator/delegation-pool-operations.md",
+  "sourceDirName": "nodes/validator-node/operator",
+  "slug": "/nodes/validator-node/operator/delegation-pool-operations",
+  "permalink": "/nodes/validator-node/operator/delegation-pool-operations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/validator-node/operator/delegation-pool-operations.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Delegation Pool Operations"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Staking Pool Operations",
+    "permalink": "/nodes/validator-node/operator/staking-pool-operations"
+  },
+  "next": {
+    "title": "Staking Pool Voter",
+    "permalink": "/nodes/validator-node/voter/index"
+  }
+}

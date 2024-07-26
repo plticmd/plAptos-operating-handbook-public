@@ -1,0 +1,28 @@
+{
+  "id": "move/move-on-aptos/scripts/index",
+  "title": "Building with Move Scripts",
+  "description": "Move Scripts are a way to run multiple public functions on Aptos in a single",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/move-on-aptos/scripts/index.md",
+  "sourceDirName": "move/move-on-aptos/scripts",
+  "slug": "/move/move-on-aptos/scripts/",
+  "permalink": "/move/move-on-aptos/scripts/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/move-on-aptos/scripts/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Building with Move Scripts"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Using objects",
+    "permalink": "/move/move-on-aptos/objects/using-objects"
+  },
+  "next": {
+    "title": "Writing Move Scripts",
+    "permalink": "/move/move-on-aptos/scripts/writing-scripts"
+  }
+}

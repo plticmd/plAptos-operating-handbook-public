@@ -1,0 +1,28 @@
+{
+  "id": "concepts/governance",
+  "title": "Governance",
+  "description": "The Aptos on-chain governance is a process by which the Aptos community members can create and vote on proposals that minimize the cost of blockchain upgrades. The following describes the scope of these proposals for the Aptos on-chain governance:",
+  "source": "@site/docs/concepts/governance.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/governance",
+  "permalink": "/concepts/governance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/concepts/governance.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Governance"
+  },
+  "sidebar": "aptosSidebar",
+  "previous": {
+    "title": "Delegated Staking",
+    "permalink": "/concepts/delegated-staking"
+  },
+  "next": {
+    "title": "Explore Aptos",
+    "permalink": "/guides/explore-aptos"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "indexer/custom-processors/index",
+  "title": "Custom Processors",
+  "description": "This section explains what a custom processor is, how to write and deploy one, and how to parse transactions from the Transaction Stream Service.",
+  "source": "@site/docs/indexer/custom-processors/index.md",
+  "sourceDirName": "indexer/custom-processors",
+  "slug": "/indexer/custom-processors/",
+  "permalink": "/indexer/custom-processors/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/custom-processors/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "Apr 18, 2024",
+  "frontMatter": {
+    "title": "Custom Processors"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Example Queries",
+    "permalink": "/indexer/api/example-queries"
+  },
+  "next": {
+    "title": "End-to-End Tutorial",
+    "permalink": "/indexer/custom-processors/e2e-tutorial"
+  }
+}

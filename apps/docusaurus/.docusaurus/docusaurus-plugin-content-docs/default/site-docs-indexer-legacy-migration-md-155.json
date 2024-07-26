@@ -1,0 +1,28 @@
+{
+  "id": "indexer/legacy/migration",
+  "title": "Migrate to Transaction Stream Service",
+  "description": "This guide contains information on how to migrate to using the Transaction Stream Service if you are currently running a legacy indexer.",
+  "source": "@site/docs/indexer/legacy/migration.md",
+  "sourceDirName": "indexer/legacy",
+  "slug": "/indexer/legacy/migration",
+  "permalink": "/indexer/legacy/migration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/legacy/migration.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "Apr 18, 2024",
+  "frontMatter": {
+    "title": "Migrate to Transaction Stream Service"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Custom Data Model",
+    "permalink": "/indexer/legacy/custom-data-model"
+  },
+  "next": {
+    "title": "Use Aptos SDKs",
+    "permalink": "/sdks/index"
+  }
+}

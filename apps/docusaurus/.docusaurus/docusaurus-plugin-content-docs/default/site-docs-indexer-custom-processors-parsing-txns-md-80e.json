@@ -1,0 +1,28 @@
+{
+  "id": "indexer/custom-processors/parsing-txns",
+  "title": "Parsing Transactions",
+  "description": "<!--",
+  "source": "@site/docs/indexer/custom-processors/parsing-txns.md",
+  "sourceDirName": "indexer/custom-processors",
+  "slug": "/indexer/custom-processors/parsing-txns",
+  "permalink": "/indexer/custom-processors/parsing-txns",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/custom-processors/parsing-txns.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "Apr 18, 2024",
+  "frontMatter": {
+    "title": "Parsing Transactions"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "End-to-End Tutorial",
+    "permalink": "/indexer/custom-processors/e2e-tutorial"
+  },
+  "next": {
+    "title": "Transaction Stream Service",
+    "permalink": "/indexer/txn-stream/"
+  }
+}

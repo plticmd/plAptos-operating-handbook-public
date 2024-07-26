@@ -1,0 +1,28 @@
+{
+  "id": "move/prover/prover-guide",
+  "title": "Move Proverユーザーガイド",
+  "description": "これはMove Proverのユーザーガイドです。このドキュメントには Move仕様言語が付属しています。詳細は、以下のセクションを御覧下さい。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/prover/prover-guide.md",
+  "sourceDirName": "move/prover",
+  "slug": "/move/prover/prover-guide",
+  "permalink": "/move/prover/prover-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/prover/prover-guide.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1721049661,
+  "formattedLastUpdatedAt": "2024年7月15日",
+  "frontMatter": {
+    "title": "Move Proverユーザーガイド"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Move Prover",
+    "permalink": "/move/prover/move-prover"
+  },
+  "next": {
+    "title": "Move Specification Language",
+    "permalink": "/move/prover/spec-lang"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "nodes/validator-node/index",
+  "title": "Run a Validator and VFN",
+  "description": "To participate in the Aptos consensus protocol, you must deploy and run a validator node and (optionally) a validator",
+  "source": "@site/docs/nodes/validator-node/index.md",
+  "sourceDirName": "nodes/validator-node",
+  "slug": "/nodes/validator-node/validators",
+  "permalink": "/nodes/validator-node/validators",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/validator-node/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Run a Validator and VFN",
+    "slug": "validators"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Learn about Nodes",
+    "permalink": "/nodes/nodes-landing"
+  },
+  "next": {
+    "title": "Node Requirements",
+    "permalink": "/nodes/validator-node/operator/node-requirements"
+  }
+}

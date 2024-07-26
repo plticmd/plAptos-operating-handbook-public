@@ -1,0 +1,28 @@
+{
+  "id": "guides/state-sync",
+  "title": "State Synchronization",
+  "description": "Nodes in an Aptos network (e.g., validators, VFNs and PFNs) must always be synchronized to the latest blockchain state.",
+  "source": "@site/docs/guides/state-sync.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/state-sync",
+  "permalink": "/guides/state-sync",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/guides/state-sync.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "State Synchronization"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Configure a Node",
+    "permalink": "/nodes/configure/configure-index"
+  },
+  "next": {
+    "title": "Data Pruning",
+    "permalink": "/guides/data-pruning"
+  }
+}

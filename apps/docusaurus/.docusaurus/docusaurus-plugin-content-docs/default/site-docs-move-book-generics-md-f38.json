@@ -1,0 +1,26 @@
+{
+  "id": "move/book/generics",
+  "title": "Generics",
+  "description": "Generics can be used to define functions and structs over different input data types. This language feature is sometimes referred to as parametric polymorphism. In Move, we will often use the term generics interchangeably with type parameters and type arguments.",
+  "source": "@site/docs/move/book/generics.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/generics",
+  "permalink": "/move/book/generics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/generics.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Constants",
+    "permalink": "/move/book/constants"
+  },
+  "next": {
+    "title": "Abilities",
+    "permalink": "/move/book/abilities"
+  }
+}

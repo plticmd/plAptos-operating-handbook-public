@@ -1,0 +1,28 @@
+{
+  "id": "sdks/python-sdk/index",
+  "title": "Python SDK",
+  "description": "Aptos provides a lightly maintained official Python SDK. It is available on PyPi with the source code in the Aptos-core GitHub repository. Much of the functionality of the Python SDK mirrors the Typescript SDK. The primary purpose of the Python SDK is to help Python developers to quickly become familiar with Aptos and as an accompaniment to Aptos tutorials.",
+  "source": "@site/docs/sdks/python-sdk/index.md",
+  "sourceDirName": "sdks/python-sdk",
+  "slug": "/sdks/python-sdk/",
+  "permalink": "/sdks/python-sdk/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/python-sdk/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Python SDK"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Tests and Validation",
+    "permalink": "/sdks/legacy-ts-sdk/typescript-sdk-tests"
+  },
+  "next": {
+    "title": "Rust SDK",
+    "permalink": "/sdks/rust-sdk/"
+  }
+}

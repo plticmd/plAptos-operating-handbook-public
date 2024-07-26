@@ -1,0 +1,26 @@
+{
+  "id": "move/book/variables",
+  "title": "ローカル変数とスコープ",
+  "description": "Moveのローカル変数は、語彙的に(静的)スコープ(観測)されています。新しい変数はキーワードletで導入され、同じ名前の以前のローカル変数をシャドウします。ローカル変数は可変であり、直接更新する事も、可変参照を介して更新する事も出来ます。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/variables.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/variables",
+  "permalink": "/move/book/variables",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/variables.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1720271355,
+  "formattedLastUpdatedAt": "2024年7月6日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "タプルとユニット",
+    "permalink": "/move/book/tuples"
+  },
+  "next": {
+    "title": "等価",
+    "permalink": "/move/book/equality"
+  }
+}

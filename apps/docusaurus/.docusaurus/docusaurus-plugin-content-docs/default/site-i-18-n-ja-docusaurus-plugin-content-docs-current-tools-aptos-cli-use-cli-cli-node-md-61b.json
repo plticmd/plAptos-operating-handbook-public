@@ -1,0 +1,29 @@
+{
+  "id": "tools/aptos-cli/use-cli/cli-node",
+  "title": "Node",
+  "description": "Node command examples",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/tools/aptos-cli/use-cli/cli-node.md",
+  "sourceDirName": "tools/aptos-cli/use-cli",
+  "slug": "/tools/aptos-cli/use-cli/cli-node",
+  "permalink": "/tools/aptos-cli/use-cli/cli-node",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tools/aptos-cli/use-cli/cli-node.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Node",
+    "id": "cli-node"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Key",
+    "permalink": "/tools/aptos-cli/use-cli/cli-key"
+  },
+  "next": {
+    "title": "Genesis",
+    "permalink": "/tools/aptos-cli/use-cli/cli-genesis"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "nodes/validator-node/operator/running-validator-node/using-azure",
+  "title": "Using Azure",
+  "description": "This is a step-by-step guide to deploy an Aptos validator and validator fullnode (VFN) using Microsoft Azure. Using this guide,",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/validator-node/operator/running-validator-node/using-azure.md",
+  "sourceDirName": "nodes/validator-node/operator/running-validator-node",
+  "slug": "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-azure",
+  "permalink": "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-azure",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/validator-node/operator/running-validator-node/using-azure.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Using Azure",
+    "slug": "run-validator-node-using-azure"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Using AWS",
+    "permalink": "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-aws"
+  },
+  "next": {
+    "title": "Using GCP",
+    "permalink": "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-gcp"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tools/aptos-cli/install-cli/index",
+  "title": "Install the Aptos CLI",
+  "description": "Aptos CLIをコンパイル済みのバイナリとしてインストールできます。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/tools/aptos-cli/install-cli/index.md",
+  "sourceDirName": "tools/aptos-cli/install-cli",
+  "slug": "/tools/aptos-cli/install-cli/",
+  "permalink": "/tools/aptos-cli/install-cli/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tools/aptos-cli/install-cli/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1717781175,
+  "formattedLastUpdatedAt": "2024年6月7日",
+  "frontMatter": {
+    "title": "Install the Aptos CLI"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Aptos CLI",
+    "permalink": "/tools/aptos-cli/"
+  },
+  "next": {
+    "title": "Install CLI by Script",
+    "permalink": "/tools/aptos-cli/install-cli/automated-install"
+  }
+}

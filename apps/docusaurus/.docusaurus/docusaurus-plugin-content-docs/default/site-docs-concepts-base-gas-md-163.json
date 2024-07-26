@@ -1,0 +1,29 @@
+{
+  "id": "concepts/base-gas",
+  "title": "Computing Transaction Gas",
+  "description": "Aptos transactions by default charge a base gas fee, regardless of market conditions.",
+  "source": "@site/docs/concepts/base-gas.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/base-gas",
+  "permalink": "/concepts/base-gas",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/concepts/base-gas.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Computing Transaction Gas",
+    "id": "base-gas"
+  },
+  "sidebar": "aptosSidebar",
+  "previous": {
+    "title": "Gas and Storage Fees",
+    "permalink": "/concepts/gas-txn-fee"
+  },
+  "next": {
+    "title": "Blocks",
+    "permalink": "/concepts/blocks"
+  }
+}

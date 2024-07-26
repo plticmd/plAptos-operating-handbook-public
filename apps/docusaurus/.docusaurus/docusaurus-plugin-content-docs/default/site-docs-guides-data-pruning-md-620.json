@@ -1,0 +1,28 @@
+{
+  "id": "guides/data-pruning",
+  "title": "Data Pruning",
+  "description": "All Aptos nodes (e.g., validators, VFNs and PFNs) process transactions and commit new data to the blockchain.",
+  "source": "@site/docs/guides/data-pruning.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/data-pruning",
+  "permalink": "/guides/data-pruning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/guides/data-pruning.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Data Pruning"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "State Synchronization",
+    "permalink": "/guides/state-sync"
+  },
+  "next": {
+    "title": "Telemetry",
+    "permalink": "/reference/telemetry"
+  }
+}

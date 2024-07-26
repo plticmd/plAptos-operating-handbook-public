@@ -1,0 +1,28 @@
+{
+  "id": "indexer/api/example-queries",
+  "title": "Example Queries",
+  "description": "Running example queries",
+  "source": "@site/docs/indexer/api/example-queries.md",
+  "sourceDirName": "indexer/api",
+  "slug": "/indexer/api/example-queries",
+  "permalink": "/indexer/api/example-queries",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/api/example-queries.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "Apr 18, 2024",
+  "frontMatter": {
+    "title": "Example Queries"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Self-Hosted Indexer API",
+    "permalink": "/indexer/api/self-hosted"
+  },
+  "next": {
+    "title": "Custom Processors",
+    "permalink": "/indexer/custom-processors/"
+  }
+}

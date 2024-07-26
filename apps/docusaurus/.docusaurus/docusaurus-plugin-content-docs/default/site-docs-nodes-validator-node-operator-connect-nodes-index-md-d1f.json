@@ -1,0 +1,29 @@
+{
+  "id": "nodes/validator-node/operator/connect-nodes/index",
+  "title": "Connect Nodes",
+  "description": "Before you can connect your nodes to the Aptos network, you will need to deploy them. Make sure to have",
+  "source": "@site/docs/nodes/validator-node/operator/connect-nodes/index.md",
+  "sourceDirName": "nodes/validator-node/operator/connect-nodes",
+  "slug": "/nodes/validator-node/operator/connect-nodes/connect-validator-node",
+  "permalink": "/nodes/validator-node/operator/connect-nodes/connect-validator-node",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/validator-node/operator/connect-nodes/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Connect Nodes",
+    "slug": "connect-validator-node"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Using GCP",
+    "permalink": "/nodes/validator-node/operator/running-validator-node/run-validator-node-using-gcp"
+  },
+  "next": {
+    "title": "Connect to a Network",
+    "permalink": "/nodes/validator-node/operator/connect-to-aptos-network"
+  }
+}

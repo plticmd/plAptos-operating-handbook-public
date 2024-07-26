@@ -1,0 +1,28 @@
+{
+  "id": "sdks/ts-sdk/fetch-data-from-chain",
+  "title": "Fetch data from chain",
+  "description": "Once we created a new Aptos instance, we get access to all the sdk functionality. We now can query the chain for data.",
+  "source": "@site/docs/sdks/ts-sdk/fetch-data-from-chain.md",
+  "sourceDirName": "sdks/ts-sdk",
+  "slug": "/sdks/ts-sdk/fetch-data-from-chain",
+  "permalink": "/sdks/ts-sdk/fetch-data-from-chain",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/ts-sdk/fetch-data-from-chain.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Fetch data from chain"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "SDK Configuration",
+    "permalink": "/sdks/ts-sdk/sdk-configuration"
+  },
+  "next": {
+    "title": "Transaction Builder",
+    "permalink": "/sdks/ts-sdk/transaction-builder"
+  }
+}

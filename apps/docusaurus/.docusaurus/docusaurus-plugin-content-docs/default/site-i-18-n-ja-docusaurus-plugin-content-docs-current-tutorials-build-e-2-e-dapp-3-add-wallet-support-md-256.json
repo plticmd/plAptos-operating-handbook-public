@@ -1,0 +1,30 @@
+{
+  "id": "tutorials/build-e2e-dapp/add-wallet-support",
+  "title": "3. Add Wallet Support",
+  "description": "In the third chapter of the tutorial on building an end-to-end dapp on Aptos, you will be adding wallet support to your React app. You now need a wallet to submit a transaction to the blockchain.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/tutorials/build-e2e-dapp/3-add-wallet-support.md",
+  "sourceDirName": "tutorials/build-e2e-dapp",
+  "slug": "/tutorials/build-e2e-dapp/add-wallet-support",
+  "permalink": "/tutorials/build-e2e-dapp/add-wallet-support",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tutorials/build-e2e-dapp/3-add-wallet-support.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "3. Add Wallet Support",
+    "id": "add-wallet-support"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "2. Set up React App",
+    "permalink": "/tutorials/build-e2e-dapp/set-up-react-app"
+  },
+  "next": {
+    "title": "4. Fetch Data from Chain",
+    "permalink": "/tutorials/build-e2e-dapp/fetch-data-from-chain"
+  }
+}

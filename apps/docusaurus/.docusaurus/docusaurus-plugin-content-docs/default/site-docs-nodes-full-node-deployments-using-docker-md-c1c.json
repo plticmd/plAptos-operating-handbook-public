@@ -1,0 +1,29 @@
+{
+  "id": "nodes/full-node/deployments/using-docker",
+  "title": "Using Docker",
+  "description": "This section describes how to configure and run your PFN using Docker.",
+  "source": "@site/docs/nodes/full-node/deployments/using-docker.md",
+  "sourceDirName": "nodes/full-node/deployments",
+  "slug": "/nodes/full-node/deployments/deploy-a-pfn-docker",
+  "permalink": "/nodes/full-node/deployments/deploy-a-pfn-docker",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/full-node/deployments/using-docker.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Using Docker",
+    "slug": "deploy-a-pfn-docker"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Using Source Code",
+    "permalink": "/nodes/full-node/deployments/deploy-a-pfn-source-code"
+  },
+  "next": {
+    "title": "Using GCP",
+    "permalink": "/nodes/full-node/deployments/deploy-a-pfn-gcp"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "move/prover/spec-lang",
+  "title": "Move Specification Language",
+  "description": "This document describes the Move specification language (MSL), a subset of the Move language that supports specification of the behavior of Move programs. MSL works together with the Move Prover, a tool that can statically verify the correctness of MSL specifications against Move programs. In contrast to traditional testing, verification of MSL is exhaustive and holds for all possible inputs and global states of a Move module or Move script. At the same time, this verification of MSL is fast and automated enough that it can be used at a similar place in the developer workflow where tests are typically conducted (for example, for qualification of pull requests in continuous integration).",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/prover/spec-lang.md",
+  "sourceDirName": "move/prover",
+  "slug": "/move/prover/spec-lang",
+  "permalink": "/move/prover/spec-lang",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/prover/spec-lang.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Move Specification Language"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Move Proverユーザーガイド",
+    "permalink": "/move/prover/prover-guide"
+  },
+  "next": {
+    "title": "Supporting Resources",
+    "permalink": "/move/prover/supporting-resources"
+  }
+}

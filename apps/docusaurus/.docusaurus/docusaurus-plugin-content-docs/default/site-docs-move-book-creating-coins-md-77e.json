@@ -1,0 +1,26 @@
+{
+  "id": "move/book/creating-coins",
+  "title": "Move Tutorial",
+  "description": "Please refer to the Move Core Language Tutorial.",
+  "source": "@site/docs/move/book/creating-coins.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/creating-coins",
+  "permalink": "/move/book/creating-coins",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/creating-coins.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Modules and Scripts",
+    "permalink": "/move/book/modules-and-scripts"
+  },
+  "next": {
+    "title": "Integers",
+    "permalink": "/move/book/integers"
+  }
+}

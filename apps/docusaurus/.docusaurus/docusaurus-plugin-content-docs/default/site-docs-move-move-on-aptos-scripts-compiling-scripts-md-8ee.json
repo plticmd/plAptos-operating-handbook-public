@@ -1,0 +1,28 @@
+{
+  "id": "move/move-on-aptos/scripts/compiling-scripts",
+  "title": "Compiling Move Scripts",
+  "description": "Move scripts can be compiled with the already existing Aptos Move compiler in",
+  "source": "@site/docs/move/move-on-aptos/scripts/compiling-scripts.md",
+  "sourceDirName": "move/move-on-aptos/scripts",
+  "slug": "/move/move-on-aptos/scripts/compiling-scripts",
+  "permalink": "/move/move-on-aptos/scripts/compiling-scripts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/move-on-aptos/scripts/compiling-scripts.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1721049661,
+  "formattedLastUpdatedAt": "Jul 15, 2024",
+  "frontMatter": {
+    "title": "Compiling Move Scripts"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Writing Move Scripts",
+    "permalink": "/move/move-on-aptos/scripts/writing-scripts"
+  },
+  "next": {
+    "title": "Running Move Scripts",
+    "permalink": "/move/move-on-aptos/scripts/running-scripts"
+  }
+}

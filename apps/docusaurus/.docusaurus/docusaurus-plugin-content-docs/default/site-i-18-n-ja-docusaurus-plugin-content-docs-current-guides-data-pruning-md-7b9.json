@@ -1,0 +1,28 @@
+{
+  "id": "guides/data-pruning",
+  "title": "Data Pruning",
+  "description": "全てのAptosノード(バリデータ、VFN、PFNなど)はトランザクションを処理し、新しいデータをブロックチェーンにコミットします。ブロックチェーンが(無期限に)成長すると、ノードは古いブロックチェーンデータを整理(プルーニング)する事で、必要なストレージディスク容量を管理できます。これを実現するため、Aptosノードは、全トランザクション履歴を含むデータベース内のブロックチェーン台帳履歴を整理します。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/guides/data-pruning.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/data-pruning",
+  "permalink": "/guides/data-pruning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/guides/data-pruning.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1717324438,
+  "formattedLastUpdatedAt": "2024年6月2日",
+  "frontMatter": {
+    "title": "Data Pruning"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "State Synchronization",
+    "permalink": "/guides/state-sync"
+  },
+  "next": {
+    "title": "Telemetry",
+    "permalink": "/reference/telemetry"
+  }
+}

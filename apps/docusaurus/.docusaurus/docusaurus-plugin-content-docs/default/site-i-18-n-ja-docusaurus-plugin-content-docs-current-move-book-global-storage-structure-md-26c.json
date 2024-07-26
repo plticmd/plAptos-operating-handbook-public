@@ -1,0 +1,26 @@
+{
+  "id": "move/book/global-storage-structure",
+  "title": "Global Storage - Structure",
+  "description": "The purpose of Move programs is to read from and write to tree-shaped persistent global storage. Programs cannot access the filesystem, network, or any other data outside of this tree.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/global-storage-structure.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/global-storage-structure",
+  "permalink": "/move/book/global-storage-structure",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/global-storage-structure.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "ユニットテスト",
+    "permalink": "/move/book/unit-testing"
+  },
+  "next": {
+    "title": "Global Storage - Operators",
+    "permalink": "/move/book/global-storage-operators"
+  }
+}

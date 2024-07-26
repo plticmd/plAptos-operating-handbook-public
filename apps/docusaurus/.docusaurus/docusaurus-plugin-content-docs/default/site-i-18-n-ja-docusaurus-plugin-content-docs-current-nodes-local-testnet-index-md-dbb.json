@@ -1,0 +1,29 @@
+{
+  "id": "nodes/local-testnet/index",
+  "title": "Develop with Local Testnet",
+  "description": "Recommended",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/local-testnet/index.md",
+  "sourceDirName": "nodes/local-testnet",
+  "slug": "/nodes/local-testnet/local-testnet-index",
+  "permalink": "/ja/nodes/local-testnet/local-testnet-index",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/local-testnet/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "Develop with Local Testnet",
+    "slug": "local-testnet-index"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Advanced Builder Guides",
+    "permalink": "/ja/category/advanced-builders"
+  },
+  "next": {
+    "title": "Run a Local Development Network",
+    "permalink": "/ja/guides/local-development-network"
+  }
+}

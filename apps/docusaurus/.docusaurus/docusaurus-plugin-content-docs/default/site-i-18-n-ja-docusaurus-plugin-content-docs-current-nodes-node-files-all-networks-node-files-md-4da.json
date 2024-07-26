@@ -1,0 +1,28 @@
+{
+  "id": "nodes/node-files-all-networks/node-files",
+  "title": "Files For Mainnet",
+  "description": "When deploying an Aptos node in mainnet, you may need to download the files listed on this page. The files are",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/node-files-all-networks/node-files.md",
+  "sourceDirName": "nodes/node-files-all-networks",
+  "slug": "/nodes/node-files-all-networks/node-files",
+  "permalink": "/nodes/node-files-all-networks/node-files",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/node-files-all-networks/node-files.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Files For Mainnet"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Locating Node Files",
+    "permalink": "/nodes/node-files-all-networks/node-files-index"
+  },
+  "next": {
+    "title": "Files For Testnet",
+    "permalink": "/nodes/node-files-all-networks/node-files-testnet"
+  }
+}

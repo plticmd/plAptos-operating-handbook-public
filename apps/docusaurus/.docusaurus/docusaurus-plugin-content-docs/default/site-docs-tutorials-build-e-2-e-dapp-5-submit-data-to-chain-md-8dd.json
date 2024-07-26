@@ -1,0 +1,30 @@
+{
+  "id": "tutorials/build-e2e-dapp/submit-data-to-chain",
+  "title": "5. Submit Data to Chain",
+  "description": "In the fifth chapter of the tutorial on building an end-to-end dapp on Aptos, you will be submitting data to the chain.",
+  "source": "@site/docs/tutorials/build-e2e-dapp/5-submit-data-to-chain.md",
+  "sourceDirName": "tutorials/build-e2e-dapp",
+  "slug": "/tutorials/build-e2e-dapp/submit-data-to-chain",
+  "permalink": "/tutorials/build-e2e-dapp/submit-data-to-chain",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tutorials/build-e2e-dapp/5-submit-data-to-chain.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "5. Submit Data to Chain",
+    "id": "submit-data-to-chain"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "4. Fetch Data from Chain",
+    "permalink": "/tutorials/build-e2e-dapp/fetch-data-from-chain"
+  },
+  "next": {
+    "title": "6. Handle Tasks",
+    "permalink": "/tutorials/build-e2e-dapp/handle-tasks"
+  }
+}

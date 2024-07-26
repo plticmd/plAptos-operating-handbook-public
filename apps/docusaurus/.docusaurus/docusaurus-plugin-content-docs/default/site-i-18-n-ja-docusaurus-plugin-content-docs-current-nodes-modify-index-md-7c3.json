@@ -1,0 +1,29 @@
+{
+  "id": "nodes/modify/index",
+  "title": "Modify a PFN",
+  "description": "This section contains tutorials for performing common operations and modifications to a PFN. These include:",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/modify/index.md",
+  "sourceDirName": "nodes/modify",
+  "slug": "/nodes/modify/modify-index",
+  "permalink": "/nodes/modify/modify-index",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/modify/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Modify a PFN",
+    "slug": "modify-index"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Verify a PFN",
+    "permalink": "/nodes/full-node/verify-pfn"
+  },
+  "next": {
+    "title": "Upgrade your PFN",
+    "permalink": "/nodes/full-node/update-fullnode-with-new-devnet-releases"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "indexer/api/example-queries-jp",
+  "title": "インデクサーAPIクエリの例(Japanese)",
+  "description": "サンプルクエリの実行",
+  "source": "@site/docs/indexer/api/example-queries-jp.md",
+  "sourceDirName": "indexer/api",
+  "slug": "/indexer/api/indexer-api-example-queries-jp",
+  "permalink": "/ja/indexer/api/indexer-api-example-queries-jp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/api/example-queries-jp.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "インデクサーAPIクエリの例(Japanese)",
+    "slug": "indexer-api-example-queries-jp"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Example Queries",
+    "permalink": "/ja/indexer/api/indexer-api-example-queries"
+  },
+  "next": {
+    "title": "Custom Processors",
+    "permalink": "/ja/indexer/custom-processors/indexer-custom-processors-index"
+  }
+}

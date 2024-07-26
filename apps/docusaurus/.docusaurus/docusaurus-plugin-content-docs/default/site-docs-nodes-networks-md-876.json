@@ -1,0 +1,29 @@
+{
+  "id": "nodes/networks",
+  "title": "Networks",
+  "description": "| Description                              | Mainnet                                                                                                          | Testnet                                                                                                          | Devnet                                                                                                          |",
+  "source": "@site/docs/nodes/networks.md",
+  "sourceDirName": "nodes",
+  "slug": "/nodes/networks",
+  "permalink": "/nodes/networks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/networks.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Networks",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "aptosSidebar",
+  "previous": {
+    "title": "Latest Aptos Releases",
+    "permalink": "/releases/aptos-releases"
+  },
+  "next": {
+    "title": "Aptos White Paper",
+    "permalink": "/aptos-white-paper/"
+  }
+}

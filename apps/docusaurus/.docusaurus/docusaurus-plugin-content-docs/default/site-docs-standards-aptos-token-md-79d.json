@@ -1,0 +1,28 @@
+{
+  "id": "standards/aptos-token",
+  "title": "Aptos Token (Legacy)",
+  "description": "Also see the comparison of Aptos Token standards.",
+  "source": "@site/docs/standards/aptos-token.md",
+  "sourceDirName": "standards",
+  "slug": "/standards/aptos-token",
+  "permalink": "/standards/aptos-token",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/standards/aptos-token.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Aptos Token (Legacy)"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Aptos Digital Asset Standard",
+    "permalink": "/standards/digital-asset"
+  },
+  "next": {
+    "title": "Aptos Wallet Standard",
+    "permalink": "/standards/wallets"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "indexer/indexer-landing",
+  "title": "インデクサー",
+  "description": "クイックスタート",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/indexer/indexer-landing.md",
+  "sourceDirName": "indexer",
+  "slug": "/indexer/indexer-landing",
+  "permalink": "/indexer/indexer-landing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/indexer-landing.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "2024年4月18日",
+  "frontMatter": {
+    "title": "インデクサー"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Aptosラボ開発者ポータル",
+    "permalink": "/apis/aptos-labs-developer-portal"
+  },
+  "next": {
+    "title": "インデクサーAPI",
+    "permalink": "/indexer/api/"
+  }
+}

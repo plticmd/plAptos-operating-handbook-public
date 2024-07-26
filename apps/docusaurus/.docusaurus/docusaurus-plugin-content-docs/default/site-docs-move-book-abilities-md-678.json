@@ -1,0 +1,26 @@
+{
+  "id": "move/book/abilities",
+  "title": "Abilities",
+  "description": "Abilities are a typing feature in Move that control what actions are permissible for values of a given type. This system grants fine-grained control over the \"linear\" typing behavior of values, as well as if and how values are used in global storage. This is implemented by gating access to certain bytecode instructions so that for a value to be used with the bytecode instruction, it must have the ability required (if one is required at all—not every instruction is gated by an ability).",
+  "source": "@site/docs/move/book/abilities.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/abilities",
+  "permalink": "/move/book/abilities",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/abilities.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Generics",
+    "permalink": "/move/book/generics"
+  },
+  "next": {
+    "title": "Uses and Aliases",
+    "permalink": "/move/book/uses"
+  }
+}

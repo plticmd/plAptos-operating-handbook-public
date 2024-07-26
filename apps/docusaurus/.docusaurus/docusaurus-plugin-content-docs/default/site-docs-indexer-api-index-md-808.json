@@ -1,0 +1,28 @@
+{
+  "id": "indexer/api/index",
+  "title": "Indexer API",
+  "description": "This section contains documentation for the Aptos Indexer API, the API built upon the standard set of processors provided in the aptos-labs/aptos-indexer-processors repo.",
+  "source": "@site/docs/indexer/api/index.md",
+  "sourceDirName": "indexer/api",
+  "slug": "/indexer/api/",
+  "permalink": "/indexer/api/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/api/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "Apr 18, 2024",
+  "frontMatter": {
+    "title": "Indexer API"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Learn about Indexing",
+    "permalink": "/indexer/indexer-landing"
+  },
+  "next": {
+    "title": "Labs-Hosted Indexer API",
+    "permalink": "/indexer/api/labs-hosted"
+  }
+}

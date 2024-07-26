@@ -1,0 +1,26 @@
+{
+  "id": "move/book/loops",
+  "title": "While, For, ループ",
+  "description": "Moveは while、for、loopの3つのループ構造を提供します。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/loops.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/loops",
+  "permalink": "/move/book/loops",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/loops.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1720084421,
+  "formattedLastUpdatedAt": "2024年7月4日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "条件文",
+    "permalink": "/move/book/conditionals"
+  },
+  "next": {
+    "title": "関数",
+    "permalink": "/move/book/functions"
+  }
+}

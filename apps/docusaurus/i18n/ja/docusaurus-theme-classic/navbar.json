@@ -1,0 +1,142 @@
+{
+  "logo.alt": {
+    "message": "Aptos Labs Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Aptos Dev Discussions": {
+    "message": "Aptos Dev Discussions",
+    "description": "Navbar item with label Aptos Dev Discussions"
+  },
+  "item.label.Start": {
+    "message": "Start",
+    "description": "Navbar item with label Start"
+  },
+  "item.label.Build": {
+    "message": "Build",
+    "description": "Navbar item with label Build"
+  },
+  "item.label.Nodes": {
+    "message": "Nodes",
+    "description": "Navbar item with label Nodes"
+  },
+  "item.label.Reference": {
+    "message": "Reference",
+    "description": "Navbar item with label Reference"
+  },
+  "item.label.Community": {
+    "message": "Community",
+    "description": "Navbar item with label Community"
+  },
+  "item.label.Learn about Aptos": {
+    "message": "Learn about Aptos",
+    "description": "Navbar item with label Learn about Aptos"
+  },
+  "item.label.Explore Aptos": {
+    "message": "Explore Aptos",
+    "description": "Navbar item with label Explore Aptos"
+  },
+  "item.label.Latest Releases": {
+    "message": "Latest Releases",
+    "description": "Navbar item with label Latest Releases"
+  },
+  "item.label.Networks": {
+    "message": "Networks",
+    "description": "Navbar item with label Networks"
+  },
+  "item.label.Read the Aptos White Paper": {
+    "message": "Read the Aptos White Paper",
+    "description": "Navbar item with label Read the Aptos White Paper"
+  },
+  "item.label.Tutorials": {
+    "message": "Tutorials",
+    "description": "Navbar item with label Tutorials"
+  },
+  "item.label.Learn the Move Language": {
+    "message": "Learn the Move Language",
+    "description": "Navbar item with label Learn the Move Language"
+  },
+  "item.label.Aptos Standards": {
+    "message": "Aptos Standards",
+    "description": "Navbar item with label Aptos Standards"
+  },
+  "item.label.Aptos APIs": {
+    "message": "Aptos APIs",
+    "description": "Navbar item with label Aptos APIs"
+  },
+  "item.label.Aptos SDKs": {
+    "message": "Aptos SDKs",
+    "description": "Navbar item with label Aptos SDKs"
+  },
+  "item.label.Aptos CLI": {
+    "message": "Aptos CLI",
+    "description": "Navbar item with label Aptos CLI"
+  },
+  "item.label.Integrate with Aptos": {
+    "message": "Integrate with Aptos",
+    "description": "Navbar item with label Integrate with Aptos"
+  },
+  "item.label.Build E2E Dapp on Aptos": {
+    "message": "Build E2E Dapp on Aptos",
+    "description": "Navbar item with label Build E2E Dapp on Aptos"
+  },
+  "item.label.Learn about Nodes": {
+    "message": "Learn about Nodes",
+    "description": "Navbar item with label Learn about Nodes"
+  },
+  "item.label.Run a Validator and VFN": {
+    "message": "Run a Validator and VFN",
+    "description": "Navbar item with label Run a Validator and VFN"
+  },
+  "item.label.Run a Public Fullnode": {
+    "message": "Run a Public Fullnode",
+    "description": "Navbar item with label Run a Public Fullnode"
+  },
+  "item.label.Bootstrap a Node": {
+    "message": "Bootstrap a Node",
+    "description": "Navbar item with label Bootstrap a Node"
+  },
+  "item.label.Configure a Node": {
+    "message": "Configure a Node",
+    "description": "Navbar item with label Configure a Node"
+  },
+  "item.label.Monitor a Node": {
+    "message": "Monitor a Node",
+    "description": "Navbar item with label Monitor a Node"
+  },
+  "item.label.Aptos REST API Spec": {
+    "message": "Aptos REST API Spec",
+    "description": "Navbar item with label Aptos REST API Spec"
+  },
+  "item.label.Aptos Errors Codes": {
+    "message": "Aptos Errors Codes",
+    "description": "Navbar item with label Aptos Errors Codes"
+  },
+  "item.label.Aptos Move Framework": {
+    "message": "Aptos Move Framework",
+    "description": "Navbar item with label Aptos Move Framework"
+  },
+  "item.label.Aptos Glossary": {
+    "message": "Aptos Glossary",
+    "description": "Navbar item with label Aptos Glossary"
+  },
+  "item.label.Help the Aptos Ecosystem": {
+    "message": "Help the Aptos Ecosystem",
+    "description": "Navbar item with label Help the Aptos Ecosystem"
+  },
+  "item.label.External Resources": {
+    "message": "External Resources",
+    "description": "Navbar item with label External Resources"
+  },
+  "item.label.Update Aptos.dev": {
+    "message": "Update Aptos.dev",
+    "description": "Navbar item with label Update Aptos.dev"
+  },
+  "item.label.Follow Aptos Style": {
+    "message": "Follow Aptos Style",
+    "description": "Navbar item with label Follow Aptos Style"
+  },
+  "item.label.Contributors": {
+    "message": "Contributors",
+    "description": "Navbar item with label Contributors"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "standards/digital-asset",
+  "title": "Aptos Digital Asset Standard",
+  "description": "NFTの概要",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/standards/digital-asset.md",
+  "sourceDirName": "standards",
+  "slug": "/standards/digital-asset",
+  "permalink": "/standards/digital-asset",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/standards/digital-asset.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1715622484,
+  "formattedLastUpdatedAt": "2024年5月13日",
+  "frontMatter": {
+    "title": "Aptos Digital Asset Standard"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Aptos Fungible Asset Standard",
+    "permalink": "/standards/fungible-asset"
+  },
+  "next": {
+    "title": "Aptos Token (Legacy)",
+    "permalink": "/standards/aptos-token"
+  }
+}

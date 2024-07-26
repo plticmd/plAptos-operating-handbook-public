@@ -1,0 +1,28 @@
+{
+  "id": "standards/aptos-coin",
+  "title": "Aptos Coin (Legacy)",
+  "description": "Coin provides a standard, type-safe framework for simple, fungible tokens or coins.",
+  "source": "@site/docs/standards/aptos-coin.md",
+  "sourceDirName": "standards",
+  "slug": "/standards/aptos-coin",
+  "permalink": "/standards/aptos-coin",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/standards/aptos-coin.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Aptos Coin (Legacy)"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Object",
+    "permalink": "/standards/aptos-object"
+  },
+  "next": {
+    "title": "Aptos Fungible Asset Standard",
+    "permalink": "/standards/fungible-asset"
+  }
+}

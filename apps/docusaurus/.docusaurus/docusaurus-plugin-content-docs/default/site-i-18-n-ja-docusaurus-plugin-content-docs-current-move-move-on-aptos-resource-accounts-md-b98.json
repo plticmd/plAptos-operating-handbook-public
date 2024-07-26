@@ -1,0 +1,28 @@
+{
+  "id": "move/move-on-aptos/resource-accounts",
+  "title": "Resource Accounts",
+  "description": "A resource account is a developer feature used to manage resources independent of an account managed by a user, specifically publishing modules and providing on-chain-only access control, e.g., signers.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/move-on-aptos/resource-accounts.md",
+  "sourceDirName": "move/move-on-aptos",
+  "slug": "/move/move-on-aptos/resource-accounts",
+  "permalink": "/move/move-on-aptos/resource-accounts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/move-on-aptos/resource-accounts.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Resource Accounts"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Move Scripts Tutorial",
+    "permalink": "/move/move-on-aptos/scripts/script-tutorial"
+  },
+  "next": {
+    "title": "Modules on Aptos",
+    "permalink": "/move/move-on-aptos/modules-on-aptos"
+  }
+}

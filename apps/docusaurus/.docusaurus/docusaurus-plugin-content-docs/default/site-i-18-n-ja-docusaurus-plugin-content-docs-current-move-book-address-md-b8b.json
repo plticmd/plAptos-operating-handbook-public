@@ -1,0 +1,26 @@
+{
+  "id": "move/book/address",
+  "title": "アドレス",
+  "description": "addressは、Moveの組み込み型であり、グローバル ストレージ内の場所 (アカウントと呼ばれることもあります) を表すため使用されます。address値は256ビット(32バイト)の識別子です。特定のアドレスにはモジュールと リソースの2つを保存できます。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/address.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/address",
+  "permalink": "/move/book/address",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/address.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1718709339,
+  "formattedLastUpdatedAt": "2024年6月18日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "ブール",
+    "permalink": "/move/book/bool"
+  },
+  "next": {
+    "title": "Vector",
+    "permalink": "/move/book/vector"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "move/move-on-aptos/cryptography",
+  "title": "Cryptography",
+  "description": "暗号化は、ブロックチェーンシステムでのデータのセキュリティ、整合性、機密性、不変性を確保する上で重要な役割を果たします。Move用のAptosアダプターは、開発者へ一連の暗号化プリミティブを提供し、この需要を満たします。このドキュメントでは、Move on Aptosが提供する暗号化機能について詳しく解説し、その設計の原動力となる原則を解説します。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/move-on-aptos/cryptography.md",
+  "sourceDirName": "move/move-on-aptos",
+  "slug": "/move/move-on-aptos/cryptography",
+  "permalink": "/move/move-on-aptos/cryptography",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/move-on-aptos/cryptography.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1721049661,
+  "formattedLastUpdatedAt": "2024年7月15日",
+  "frontMatter": {
+    "title": "Cryptography"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Aptos CLI",
+    "permalink": "/move/move-on-aptos/cli"
+  },
+  "next": {
+    "title": "Gas Profiling",
+    "permalink": "/move/move-on-aptos/gas-profiling"
+  }
+}

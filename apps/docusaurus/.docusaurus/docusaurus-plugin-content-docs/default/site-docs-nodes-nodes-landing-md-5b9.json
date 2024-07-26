@@ -1,0 +1,25 @@
+{
+  "id": "nodes/nodes-landing",
+  "title": "Learn about Nodes",
+  "description": "The Aptos network consists of three node types: validator nodes, validator fullnodes (VFNs), and public fullnodes (PFNs). To",
+  "source": "@site/docs/nodes/nodes-landing.md",
+  "sourceDirName": "nodes",
+  "slug": "/nodes/nodes-landing",
+  "permalink": "/nodes/nodes-landing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/nodes-landing.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Learn about Nodes",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "nodeSidebar",
+  "next": {
+    "title": "Run a Validator and VFN",
+    "permalink": "/nodes/validator-node/validators"
+  }
+}

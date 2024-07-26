@@ -1,0 +1,26 @@
+{
+  "id": "community/contributors",
+  "title": "Contributors",
+  "description": "",
+  "source": "@site/docs/community/contributors.md",
+  "sourceDirName": "community",
+  "slug": "/community/contributors",
+  "permalink": "/community/contributors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/community/contributors.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Contributors",
+    "hide_table_of_contents": true,
+    "hide_title": true
+  },
+  "sidebar": "comSidebar",
+  "previous": {
+    "title": "Follow Aptos Style",
+    "permalink": "/community/aptos-style"
+  }
+}

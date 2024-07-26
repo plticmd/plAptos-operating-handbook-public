@@ -1,0 +1,28 @@
+{
+  "id": "tools/aptos-cli/use-cli/public-network/run-public-network",
+  "title": "Running a Public Network",
+  "description": "テストのために自身のローカルネットワークを実行したいだけの場合はここでその方法を学習できます。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/tools/aptos-cli/use-cli/public-network/run-public-network.md",
+  "sourceDirName": "tools/aptos-cli/use-cli/public-network",
+  "slug": "/tools/aptos-cli/use-cli/public-network/run-public-network",
+  "permalink": "/tools/aptos-cli/use-cli/public-network/run-public-network",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tools/aptos-cli/use-cli/public-network/run-public-network.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1716555282,
+  "formattedLastUpdatedAt": "2024年5月24日",
+  "frontMatter": {
+    "title": "Running a Public Network"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Running a Local Network",
+    "permalink": "/tools/aptos-cli/use-cli/running-a-local-network"
+  },
+  "next": {
+    "title": "Working With Move Contracts",
+    "permalink": "/tools/aptos-cli/use-cli/working-with-move-contracts"
+  }
+}

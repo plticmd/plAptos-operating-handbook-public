@@ -1,0 +1,27 @@
+{
+  "id": "nodes/aptos-api-spec",
+  "title": "Aptos API Spec",
+  "description": "",
+  "source": "@site/docs/nodes/aptos-api-spec.md",
+  "sourceDirName": "nodes",
+  "slug": "/nodes/aptos-api-spec",
+  "permalink": "/nodes/aptos-api-spec",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/aptos-api-spec.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Aptos API Spec",
+    "slug": "aptos-api-spec",
+    "hide_table_of_contents": true,
+    "hide_title": true
+  },
+  "sidebar": "refSidebar",
+  "next": {
+    "title": "Aptos Error Codes",
+    "permalink": "/reference/error-codes"
+  }
+}

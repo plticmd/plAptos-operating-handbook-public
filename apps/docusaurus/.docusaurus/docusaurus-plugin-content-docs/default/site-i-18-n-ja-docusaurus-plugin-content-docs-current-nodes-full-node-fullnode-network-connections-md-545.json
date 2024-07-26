@@ -1,0 +1,29 @@
+{
+  "id": "nodes/full-node/fullnode-network-connections",
+  "title": "Customize PFN Networks",
+  "description": "Most PFN operators will not need to customize their PFN's network connections. This is only required",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/full-node/fullnode-network-connections.md",
+  "sourceDirName": "nodes/full-node",
+  "slug": "/nodes/full-node/fullnode-network-connections",
+  "permalink": "/nodes/full-node/fullnode-network-connections",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/full-node/fullnode-network-connections.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Customize PFN Networks",
+    "slug": "fullnode-network-connections"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Generate a PFN Identity",
+    "permalink": "/nodes/full-node/network-identity-fullnode"
+  },
+  "next": {
+    "title": "Bootstrap a Node",
+    "permalink": "/nodes/operations/operations-index"
+  }
+}

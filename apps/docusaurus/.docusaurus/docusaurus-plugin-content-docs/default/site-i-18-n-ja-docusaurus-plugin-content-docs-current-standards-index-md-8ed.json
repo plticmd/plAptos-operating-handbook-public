@@ -1,0 +1,28 @@
+{
+  "id": "standards/index",
+  "title": "Aptos Standards",
+  "description": "標準は、すべての開発者が構築するための共通の相互運用可能なインターフェイスを定義します。これらは、Aptos ブロックチェーン上のアプリケーションとウォレット間の互換性を確保するためのルールで構成されています。hippospaceが提供するAptosの既知のコインリソースアドレスのリストを御覧下さい。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/standards/index.md",
+  "sourceDirName": "standards",
+  "slug": "/standards/",
+  "permalink": "/standards/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/standards/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1716397055,
+  "formattedLastUpdatedAt": "2024年5月22日",
+  "frontMatter": {
+    "title": "Aptos Standards"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Supporting Resources",
+    "permalink": "/move/prover/supporting-resources"
+  },
+  "next": {
+    "title": "Object",
+    "permalink": "/standards/aptos-object"
+  }
+}

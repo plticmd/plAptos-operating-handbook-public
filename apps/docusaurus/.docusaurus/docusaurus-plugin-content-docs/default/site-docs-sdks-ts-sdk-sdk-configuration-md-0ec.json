@@ -1,0 +1,28 @@
+{
+  "id": "sdks/ts-sdk/sdk-configuration",
+  "title": "SDK Configuration",
+  "description": "Aptos class",
+  "source": "@site/docs/sdks/ts-sdk/sdk-configuration.md",
+  "sourceDirName": "sdks/ts-sdk",
+  "slug": "/sdks/ts-sdk/sdk-configuration",
+  "permalink": "/sdks/ts-sdk/sdk-configuration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/sdks/ts-sdk/sdk-configuration.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "SDK Configuration"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Account",
+    "permalink": "/sdks/ts-sdk/account"
+  },
+  "next": {
+    "title": "Fetch data from chain",
+    "permalink": "/sdks/ts-sdk/fetch-data-from-chain"
+  }
+}

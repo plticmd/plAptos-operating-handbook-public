@@ -1,0 +1,30 @@
+{
+  "id": "tutorials/build-e2e-dapp/create-a-smart-contract",
+  "title": "1. Create a Smart Contract",
+  "description": "This is the first chapter of the tutorial on building an end-to-end dapp on Aptos. If you haven’t done it, review that introduction, and ensure your environment meets the prerequisites listed there.",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/tutorials/build-e2e-dapp/1-create-smart-contract.md",
+  "sourceDirName": "tutorials/build-e2e-dapp",
+  "slug": "/tutorials/build-e2e-dapp/create-a-smart-contract",
+  "permalink": "/tutorials/build-e2e-dapp/create-a-smart-contract",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tutorials/build-e2e-dapp/1-create-smart-contract.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713370070,
+  "formattedLastUpdatedAt": "2024年4月17日",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "1. Create a Smart Contract",
+    "id": "create-a-smart-contract"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Build E2E Dapp on Aptos",
+    "permalink": "/tutorials/build-e2e-dapp/e2e-dapp-index"
+  },
+  "next": {
+    "title": "2. Set up React App",
+    "permalink": "/tutorials/build-e2e-dapp/set-up-react-app"
+  }
+}

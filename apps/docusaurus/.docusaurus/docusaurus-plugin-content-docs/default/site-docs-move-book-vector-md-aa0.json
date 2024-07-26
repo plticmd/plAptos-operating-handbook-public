@@ -1,0 +1,26 @@
+{
+  "id": "move/book/vector",
+  "title": "Vector",
+  "description": "vector is the only primitive collection type provided by Move. A vector is a homogenous",
+  "source": "@site/docs/move/book/vector.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/vector",
+  "permalink": "/move/book/vector",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/vector.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Address",
+    "permalink": "/move/book/address"
+  },
+  "next": {
+    "title": "Signer",
+    "permalink": "/move/book/signer"
+  }
+}

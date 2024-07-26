@@ -1,0 +1,29 @@
+{
+  "id": "tools/aptos-cli/use-cli/use-aptos-cli",
+  "title": "Use the Aptos CLI",
+  "description": "The aptos tool is a command line interface (CLI) for developing on the Aptos blockchain, debugging, and for node operations. This document describes how to use the aptos CLI tool. To download or build the CLI, follow Install Aptos CLI.",
+  "source": "@site/docs/tools/aptos-cli/use-cli/use-aptos-cli.md",
+  "sourceDirName": "tools/aptos-cli/use-cli",
+  "slug": "/tools/aptos-cli/use-cli/use-aptos-cli",
+  "permalink": "/tools/aptos-cli/use-cli/use-aptos-cli",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/tools/aptos-cli/use-cli/use-aptos-cli.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Use the Aptos CLI",
+    "id": "use-aptos-cli"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Install the Move Prover",
+    "permalink": "/tools/aptos-cli/install-cli/install-move-prover"
+  },
+  "next": {
+    "title": "Configuration",
+    "permalink": "/tools/aptos-cli/use-cli/cli-configuration"
+  }
+}

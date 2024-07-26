@@ -1,0 +1,28 @@
+{
+  "id": "move/move-on-aptos/objects/using-objects",
+  "title": "Using objects",
+  "description": "Using an object as an entry function argument",
+  "source": "@site/docs/move/move-on-aptos/objects/using-objects.md",
+  "sourceDirName": "move/move-on-aptos/objects",
+  "slug": "/move/move-on-aptos/objects/using-objects",
+  "permalink": "/move/move-on-aptos/objects/using-objects",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/move-on-aptos/objects/using-objects.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713175022,
+  "formattedLastUpdatedAt": "Apr 15, 2024",
+  "frontMatter": {
+    "title": "Using objects"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Configuring objects",
+    "permalink": "/move/move-on-aptos/objects/configuring-objects"
+  },
+  "next": {
+    "title": "Building with Move Scripts",
+    "permalink": "/move/move-on-aptos/scripts/"
+  }
+}

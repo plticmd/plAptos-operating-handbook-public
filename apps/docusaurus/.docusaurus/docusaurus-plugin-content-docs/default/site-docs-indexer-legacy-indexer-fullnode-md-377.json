@@ -1,0 +1,28 @@
+{
+  "id": "indexer/legacy/indexer-fullnode",
+  "title": "Run an Indexer Fullnode",
+  "description": "This is documentation for the legacy indexer. To learn how to run the underlying infrastructure for the latest indexer stack, see Transaction Stream Service.",
+  "source": "@site/docs/indexer/legacy/indexer-fullnode.md",
+  "sourceDirName": "indexer/legacy",
+  "slug": "/indexer/legacy/indexer-fullnode",
+  "permalink": "/indexer/legacy/indexer-fullnode",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/legacy/indexer-fullnode.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "Apr 18, 2024",
+  "frontMatter": {
+    "title": "Run an Indexer Fullnode"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Legacy Indexer",
+    "permalink": "/indexer/legacy/"
+  },
+  "next": {
+    "title": "Custom Data Model",
+    "permalink": "/indexer/legacy/custom-data-model"
+  }
+}

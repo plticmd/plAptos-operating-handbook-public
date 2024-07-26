@@ -1,0 +1,26 @@
+{
+  "id": "move/book/constants",
+  "title": "定数",
+  "description": "定数はmoduleまたはscript内の共有の静的な値へ名前を付ける方法です。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/move/book/constants.md",
+  "sourceDirName": "move/book",
+  "slug": "/move/book/constants",
+  "permalink": "/move/book/constants",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/move/book/constants.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1718709339,
+  "formattedLastUpdatedAt": "2024年6月18日",
+  "frontMatter": {},
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "構造とリソース",
+    "permalink": "/move/book/structs-and-resources"
+  },
+  "next": {
+    "title": "ジェネリクス",
+    "permalink": "/move/book/generics"
+  }
+}

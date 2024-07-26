@@ -1,0 +1,29 @@
+{
+  "id": "nodes/validator-node/operator/staking-pool-operations",
+  "title": "Staking Pool Operations",
+  "description": "This document describes how to perform staking pool operations. Note that a staking pool can only accept stake",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/nodes/validator-node/operator/staking-pool-operations.md",
+  "sourceDirName": "nodes/validator-node/operator",
+  "slug": "/nodes/validator-node/operator/staking-pool-operations",
+  "permalink": "/nodes/validator-node/operator/staking-pool-operations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/nodes/validator-node/operator/staking-pool-operations.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713276994,
+  "formattedLastUpdatedAt": "2024年4月16日",
+  "frontMatter": {
+    "title": "Staking Pool Operations",
+    "slug": "staking-pool-operations"
+  },
+  "sidebar": "nodeSidebar",
+  "previous": {
+    "title": "Connect to a Network",
+    "permalink": "/nodes/validator-node/operator/connect-to-aptos-network"
+  },
+  "next": {
+    "title": "Delegation Pool Operations",
+    "permalink": "/nodes/validator-node/operator/delegation-pool-operations"
+  }
+}

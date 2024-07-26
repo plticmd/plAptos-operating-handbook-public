@@ -1,0 +1,28 @@
+{
+  "id": "indexer/txn-stream/index",
+  "title": "Transaction Stream Service",
+  "description": "The Transaction Stream Service is a service that listens to the Aptos blockchain and emits transactions as they are processed. These docs explain how this system works, how to use the Labs-Hosted instance of the service, and how to deploy it yourself.",
+  "source": "@site/docs/indexer/txn-stream/index.md",
+  "sourceDirName": "indexer/txn-stream",
+  "slug": "/indexer/txn-stream/",
+  "permalink": "/indexer/txn-stream/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/aptos-labs/developer-docs/edit/main/apps/docusaurus/docs/indexer/txn-stream/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1713439719,
+  "formattedLastUpdatedAt": "Apr 18, 2024",
+  "frontMatter": {
+    "title": "Transaction Stream Service"
+  },
+  "sidebar": "appSidebar",
+  "previous": {
+    "title": "Parsing Transactions",
+    "permalink": "/indexer/custom-processors/parsing-txns"
+  },
+  "next": {
+    "title": "Labs-Hosted Transaction Stream Service",
+    "permalink": "/indexer/txn-stream/labs-hosted"
+  }
+}
